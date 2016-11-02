@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE27" format="2">
+  <unicode hex="FE27"/>
+  <outline>
+    <contour>
+      <point x="-142" y="-284" type="line"/>
+      <point x="-51" y="-281"/>
+      <point x="-355" y="-286"/>
+      <point x="-510" y="-103" type="curve"/>
+      <point x="-647" y="-103" type="line"/>
+      <point x="-477" y="-370"/>
+      <point x="-151" y="-400"/>
+      <point x="-150" y="-402" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

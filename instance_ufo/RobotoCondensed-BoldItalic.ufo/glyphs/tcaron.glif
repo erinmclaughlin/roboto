@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="652"/>
+  <unicode hex="0165"/>
+  <anchor x="467" y="1476" name="parent_top"/>
+  <anchor x="785" y="1476" name="top0315"/>
+  <anchor x="467" y="1476" name="top"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="795" y="1600" name="top_dd"/>
+  <anchor x="448" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccent" xOffset="704" yOffset="1392"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni020B" format="2">
+  <advance width="532"/>
+  <unicode hex="020B"/>
+  <anchor x="440" y="1644" name="top"/>
+  <anchor x="152" y="10" name="bottom"/>
+  <anchor x="378" y="1283" name="parent_top"/>
+  <anchor x="640" y="1283" name="top0315"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="breveinvnosp" xOffset="843" yOffset="99"/>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ABE.w1" format="2">
+  <anchor x="-473" y="213" name="_markparenthesses.w1"/>
+  <outline>
+    <contour>
+      <point x="-746" y="0" type="curve"/>
+      <point x="-737" y="33" type="line"/>
+      <point x="-812" y="65"/>
+      <point x="-857" y="130"/>
+      <point x="-841" y="215" type="curve" smooth="yes"/>
+      <point x="-824" y="303"/>
+      <point x="-755" y="363"/>
+      <point x="-675" y="393" type="curve"/>
+      <point x="-674" y="425" type="line"/>
+      <point x="-770" y="392"/>
+      <point x="-864" y="323"/>
+      <point x="-881" y="216" type="curve" smooth="yes"/>
+      <point x="-898" y="113"/>
+      <point x="-835" y="38"/>
+    </contour>
+    <contour>
+      <point x="-273" y="0" type="line"/>
+      <point x="-174" y="35"/>
+      <point x="-82" y="104"/>
+      <point x="-65" y="215" type="curve" smooth="yes"/>
+      <point x="-50" y="313"/>
+      <point x="-115" y="390"/>
+      <point x="-202" y="425" type="curve"/>
+      <point x="-210" y="394" type="line"/>
+      <point x="-135" y="363"/>
+      <point x="-89" y="300"/>
+      <point x="-106" y="215" type="curve" smooth="yes"/>
+      <point x="-123" y="127"/>
+      <point x="-192" y="65"/>
+      <point x="-272" y="34" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

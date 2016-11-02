@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve" format="2">
+  <advance width="1145"/>
+  <unicode hex="011F"/>
+  <anchor x="657" y="1290" name="parent_top"/>
+  <anchor x="356" y="-447" name="bottom"/>
+  <anchor x="715" y="1629" name="top"/>
+  <anchor x="1254" y="1290" name="top0315"/>
+  <anchor x="1307" y="1600" name="top_dd"/>
+  <anchor x="961" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="g"/>
+    <component base="breve" xOffset="100"/>
+  </outline>
+</glyph>

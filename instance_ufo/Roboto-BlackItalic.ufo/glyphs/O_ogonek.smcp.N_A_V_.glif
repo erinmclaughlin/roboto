@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oogonek.smcp.NAV" format="2">
+  <advance width="1190"/>
+  <anchor x="710" y="1320" name="parent_top"/>
+  <anchor x="401" y="-417" name="bottom"/>
+  <anchor x="710" y="1320" name="top"/>
+  <anchor x="1304" y="1320" name="top0315"/>
+  <anchor x="1352" y="1600" name="top_dd"/>
+  <anchor x="1006" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="ogonek" xOffset="276"/>
+  </outline>
+</glyph>

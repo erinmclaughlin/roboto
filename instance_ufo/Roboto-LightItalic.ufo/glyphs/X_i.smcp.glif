@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi.smcp" format="2">
+  <advance width="888"/>
+  <outline>
+    <contour>
+      <point x="918" y="1165" type="line"/>
+      <point x="166" y="1165" type="line"/>
+      <point x="149" y="1063" type="line"/>
+      <point x="901" y="1063" type="line"/>
+    </contour>
+    <contour>
+      <point x="755" y="658" type="line"/>
+      <point x="155" y="658" type="line"/>
+      <point x="138" y="556" type="line"/>
+      <point x="738" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="734" y="102" type="line"/>
+      <point x="-18" y="102" type="line"/>
+      <point x="-35" y="0" type="line"/>
+      <point x="717" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

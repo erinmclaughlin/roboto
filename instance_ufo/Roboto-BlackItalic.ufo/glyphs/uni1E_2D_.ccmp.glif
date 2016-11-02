@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2D.ccmp" format="2">
+  <advance width="577"/>
+  <anchor x="399" y="1269" name="top"/>
+  <anchor x="101" y="-397" name="bottom"/>
+  <anchor x="399" y="1269" name="parent_top"/>
+  <anchor x="682" y="1269" name="top0315"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tildesubnosp" xOffset="832" yOffset="10"/>
+  </outline>
+</glyph>

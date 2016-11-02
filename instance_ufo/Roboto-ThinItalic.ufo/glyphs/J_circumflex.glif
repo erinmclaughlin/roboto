@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="1101"/>
+  <unicode hex="0134"/>
+  <anchor x="1045" y="1582" name="parent_top"/>
+  <anchor x="391" y="-10" name="bottom"/>
+  <anchor x="1099" y="1895" name="top"/>
+  <anchor x="1261" y="1582" name="top0315"/>
+  <anchor x="1264" y="1600" name="top_dd"/>
+  <anchor x="917" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="J"/>
+    <component base="circumflex" xOffset="535" yOffset="289"/>
+  </outline>
+</glyph>

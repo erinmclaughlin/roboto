@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FBD" format="2">
+  <advance width="391"/>
+  <unicode hex="1FBD"/>
+  <anchor x="279" y="1182" name="_top"/>
+  <anchor x="456" y="1454" name="_tonos"/>
+  <outline>
+    <contour>
+      <point x="421" y="1488" type="line"/>
+      <point x="317" y="1488" type="line"/>
+      <point x="300" y="1401" type="line" smooth="yes"/>
+      <point x="283" y="1311"/>
+      <point x="247" y="1250"/>
+      <point x="194" y="1197" type="curve"/>
+      <point x="234" y="1145" type="line"/>
+      <point x="329" y="1201"/>
+      <point x="385" y="1285"/>
+      <point x="404" y="1394" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

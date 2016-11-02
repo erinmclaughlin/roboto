@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E94" format="2">
+  <advance width="1059"/>
+  <unicode hex="1E94"/>
+  <anchor x="709" y="1600" name="parent_top"/>
+  <anchor x="390" y="-322" name="bottom"/>
+  <anchor x="709" y="1600" name="top"/>
+  <anchor x="1204" y="1600" name="top0315"/>
+  <anchor x="1202" y="1600" name="top_dd"/>
+  <anchor x="855" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="Z"/>
+    <component base="macronsubnosp" xOffset="980" yOffset="10"/>
+  </outline>
+</glyph>

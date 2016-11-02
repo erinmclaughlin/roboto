@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+  <advance width="849"/>
+  <unicode hex="02D8"/>
+  <anchor x="523" y="1290" name="_top"/>
+  <anchor x="572" y="1606" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="698" y="1495" type="line"/>
+      <point x="681" y="1408"/>
+      <point x="627" y="1344"/>
+      <point x="533" y="1346" type="curve" smooth="yes"/>
+      <point x="439" y="1347"/>
+      <point x="406" y="1412"/>
+      <point x="411" y="1495" type="curve"/>
+      <point x="265" y="1496" type="line"/>
+      <point x="261" y="1333"/>
+      <point x="371" y="1231"/>
+      <point x="532" y="1227" type="curve" smooth="yes"/>
+      <point x="700" y="1224"/>
+      <point x="828" y="1327"/>
+      <point x="843" y="1495" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave.smcp" format="2">
+  <advance width="1555"/>
+  <anchor x="896" y="1320" name="parent_top"/>
+  <anchor x="669" y="10" name="bottom"/>
+  <anchor x="939" y="1570" name="top"/>
+  <anchor x="1670" y="1320" name="top0315"/>
+  <anchor x="1718" y="1600" name="top_dd"/>
+  <anchor x="1371" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="W.smcp"/>
+    <component base="grave" xOffset="427" yOffset="27"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve.unic" format="2">
+  <advance width="1220"/>
+  <anchor x="804" y="1643" name="parent_top"/>
+  <anchor x="530" y="10" name="bottom"/>
+  <anchor x="843" y="1959" name="top"/>
+  <anchor x="1372" y="1643" name="top0315"/>
+  <anchor x="1363" y="1600" name="top_dd"/>
+  <anchor x="1016" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="E.unic"/>
+    <component base="breve" xOffset="318" yOffset="353"/>
+  </outline>
+</glyph>

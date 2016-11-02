@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.smcp" format="2">
+  <advance width="1090"/>
+  <anchor x="544" y="1320" name="top"/>
+  <anchor x="541" y="6" name="bottom"/>
+  <anchor x="1070" y="1600" name="top_dd"/>
+  <anchor x="1070" y="-407" name="bottom_dd"/>
+  <anchor x="1070" y="1320" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="942" y="1165" type="line"/>
+      <point x="831" y="1165" type="line"/>
+      <point x="831" y="193" type="line"/>
+      <point x="258" y="1165" type="line"/>
+      <point x="147" y="1165" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="973" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

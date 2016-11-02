@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="primerev1" format="2">
+  <advance width="427"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="407" y="1561" type="line"/>
+      <point x="254" y="1561" type="line"/>
+      <point x="348" y="1211" type="line"/>
+      <point x="449" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -4,12 +4,6 @@
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="479" y="1290" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="479" y="1640" type="move" name="mkmktop_acc"/>
-    </contour>
-    <contour>
       <point x="539" y="1538" type="line"/>
       <point x="419" y="1538" type="line"/>
       <point x="172" y="1263" type="line"/>
@@ -20,5 +14,24 @@
       <point x="788" y="1252" type="line"/>
       <point x="788" y="1262" type="line"/>
     </contour>
+    <contour>
+      <point x="479" y="1640" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="479" y="1290" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-02 21:17:33 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.974</real>
+        <real>0.577</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

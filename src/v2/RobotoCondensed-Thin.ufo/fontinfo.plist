@@ -41,6 +41,10 @@
 	<string>Google</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>Google.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Roboto Condensed</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Thin</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -135,6 +139,8 @@
 	<string>GOOG</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>100</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>2146</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -142,7 +148,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.039600000000000003</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -156,6 +162,8 @@
 	</array>
 	<key>postscriptDefaultCharacter</key>
 	<string>space</string>
+	<key>postscriptFontName</key>
+	<string>RobotoCondensed-Thin</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptIsFixedPitch</key>
@@ -179,6 +187,10 @@
 	<integer>100</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
+	<key>styleMapFamilyName</key>
+	<string>Roboto Condensed Thin</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Thin</string>
 	<key>trademark</key>

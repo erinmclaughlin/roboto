@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1AB0" format="2">
+  <unicode hex="1AB0"/>
+  <anchor x="-339" y="1170" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="-524" y="1387" type="line"/>
+      <point x="-440" y="1245" type="line"/>
+      <point x="-202" y="1245" type="line"/>
+      <point x="-49" y="1387" type="line"/>
+      <point x="35" y="1244" type="line"/>
+      <point x="253" y="1244" type="line"/>
+      <point x="254" y="1257" type="line"/>
+      <point x="34" y="1536" type="line"/>
+      <point x="-128" y="1536" type="line"/>
+      <point x="-321" y="1355" type="line"/>
+      <point x="-441" y="1537" type="line"/>
+      <point x="-603" y="1536" type="line"/>
+      <point x="-895" y="1261" type="line"/>
+      <point x="-896" y="1245" type="line"/>
+      <point x="-678" y="1246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

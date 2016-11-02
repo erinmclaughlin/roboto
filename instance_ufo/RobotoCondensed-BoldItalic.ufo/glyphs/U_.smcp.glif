@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U.smcp" format="2">
+  <advance width="986"/>
+  <anchor x="504" y="0" name="right"/>
+  <anchor x="384" y="0" name="bottom"/>
+  <anchor x="609" y="1320" name="top"/>
+  <anchor x="1090" y="1320" name="top0315"/>
+  <anchor x="1138" y="1600" name="top_dd"/>
+  <anchor x="641" y="60" name="ogonek"/>
+  <anchor x="792" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="715" y="1165" type="line"/>
+      <point x="579" y="410" type="line" smooth="yes"/>
+      <point x="538" y="285"/>
+      <point x="479" y="218"/>
+      <point x="391" y="218" type="curve" smooth="yes"/>
+      <point x="308" y="218"/>
+      <point x="293" y="288"/>
+      <point x="326" y="410" type="curve" smooth="yes"/>
+      <point x="463" y="1165" type="line"/>
+      <point x="180" y="1165" type="line"/>
+      <point x="44" y="410" type="line" smooth="yes"/>
+      <point x="7" y="155"/>
+      <point x="148" y="-16"/>
+      <point x="391" y="-16" type="curve" smooth="yes"/>
+      <point x="644" y="-16"/>
+      <point x="820" y="153"/>
+      <point x="864" y="410" type="curve" smooth="yes"/>
+      <point x="999" y="1165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>721.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>444.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

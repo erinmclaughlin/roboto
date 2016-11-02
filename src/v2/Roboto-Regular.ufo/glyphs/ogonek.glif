@@ -4,18 +4,6 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="390" y="0" type="move" name="_ogonek"/>
-    </contour>
-    <contour>
-      <point x="390" y="0" type="move" name="_right"/>
-    </contour>
-    <contour>
-      <point x="308" y="0" type="move" name="_bottom"/>
-    </contour>
-    <contour>
-      <point x="308" y="-437" type="move" name="mkmkbottom_acc"/>
-    </contour>
-    <contour>
       <point x="312" y="60" type="line"/>
       <point x="121" y="-25"/>
       <point x="48" y="-135"/>
@@ -37,5 +25,30 @@
       <point x="305" y="-63"/>
       <point x="390" y="0" type="curve"/>
     </contour>
+    <contour>
+      <point x="390" y="0" type="move" name="_ogonek"/>
+    </contour>
+    <contour>
+      <point x="390" y="0" type="move" name="_right"/>
+    </contour>
+    <contour>
+      <point x="308" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="308" y="-437" type="move" name="mkmkbottom_acc"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-02 21:17:33 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.974</real>
+        <real>0.577</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

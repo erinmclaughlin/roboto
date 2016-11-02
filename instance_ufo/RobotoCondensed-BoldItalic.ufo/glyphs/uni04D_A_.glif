@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04DA" format="2">
+  <advance width="1198"/>
+  <unicode hex="04DA"/>
+  <anchor x="754" y="1869" name="top"/>
+  <anchor x="1335" y="1556" name="top0315"/>
+  <anchor x="712" y="1556" name="parent_top"/>
+  <anchor x="455" y="0" name="bottom"/>
+  <outline>
+    <component base="uni04D8"/>
+    <component base="dieresis" xOffset="179" yOffset="266"/>
+  </outline>
+</glyph>

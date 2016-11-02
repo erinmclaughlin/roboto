@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni27ED" format="2">
+  <advance width="931"/>
+  <unicode hex="27ED"/>
+  <outline>
+    <contour>
+      <point x="676" y="-23" type="line"/>
+      <point x="917" y="1369" type="line"/>
+      <point x="382" y="1755" type="line"/>
+      <point x="258" y="1602" type="line"/>
+      <point x="407" y="1498" type="line"/>
+      <point x="127" y="-119" type="line"/>
+      <point x="-56" y="-223" type="line"/>
+      <point x="29" y="-396" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="1283" type="line"/>
+      <point x="489" y="96" type="line"/>
+      <point x="358" y="22" type="line"/>
+      <point x="590" y="1357" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

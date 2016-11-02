@@ -4,21 +4,6 @@
   <unicode hex="0067"/>
   <outline>
     <contour>
-      <point x="483" y="1290" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="485" y="-447" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="1016" y="1600" type="move" name="top_dd"/>
-    </contour>
-    <contour>
-      <point x="1016" y="-407" type="move" name="bottom_dd"/>
-    </contour>
-    <contour>
-      <point x="1016" y="1290" type="move" name="top0315"/>
-    </contour>
-    <contour>
       <point x="659" y="1082" type="line"/>
       <point x="628" y="826" type="line"/>
       <point x="628" y="4" type="line" smooth="yes"/>
@@ -69,5 +54,31 @@
       <point x="374" y="320"/>
       <point x="374" y="508" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="483" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="485" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1016" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1016" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1016" y="1290" type="move" name="top0315"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="primetripl1" format="2">
+  <advance width="805"/>
+  <unicode hex="2034"/>
+  <outline>
+    <contour>
+      <point x="186" y="1232" type="line"/>
+      <point x="262" y="1231" type="line"/>
+      <point x="548" y="1551" type="line"/>
+      <point x="457" y="1551" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="1232" type="line"/>
+      <point x="437" y="1231" type="line"/>
+      <point x="723" y="1551" type="line"/>
+      <point x="632" y="1551" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="1232" type="line"/>
+      <point x="611" y="1231" type="line"/>
+      <point x="897" y="1551" type="line"/>
+      <point x="806" y="1551" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

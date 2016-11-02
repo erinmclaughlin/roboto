@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacutecomb.lc" format="2">
+  <anchor x="-464" y="1282" name="_top"/>
+  <anchor x="-464" y="1861" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-196" y="1441" type="line"/>
+      <point x="-724" y="1441" type="line"/>
+      <point x="-724" y="1342" type="line"/>
+      <point x="-196" y="1342" type="line"/>
+    </contour>
+    <contour>
+      <point x="-529" y="1523" type="line"/>
+      <point x="-433" y="1523" type="line"/>
+      <point x="-233" y="1803" type="line"/>
+      <point x="-368" y="1803" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

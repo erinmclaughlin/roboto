@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacutecomb.lc" format="2">
+  <anchor x="-332" y="1290" name="_top"/>
+  <anchor x="-247" y="1978" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-394" y="1463" type="curve"/>
+      <point x="-394" y="1423"/>
+      <point x="-302" y="1391"/>
+      <point x="-257" y="1391" type="curve"/>
+      <point x="-213" y="1391"/>
+      <point x="50" y="1685"/>
+      <point x="50" y="1726" type="curve"/>
+      <point x="50" y="1767"/>
+      <point x="-48" y="1798"/>
+      <point x="-93" y="1798" type="curve"/>
+      <point x="-137" y="1798"/>
+      <point x="-394" y="1504"/>
+    </contour>
+    <contour>
+      <point x="-669" y="1367" type="curve" smooth="yes"/>
+      <point x="-674" y="1297"/>
+      <point x="-621" y="1239"/>
+      <point x="-547" y="1238" type="curve" smooth="yes"/>
+      <point x="-474" y="1238"/>
+      <point x="-415" y="1295"/>
+      <point x="-411" y="1363" type="curve" smooth="yes"/>
+      <point x="-406" y="1433"/>
+      <point x="-458" y="1492"/>
+      <point x="-533" y="1492" type="curve" smooth="yes"/>
+      <point x="-606" y="1492"/>
+      <point x="-665" y="1435"/>
+    </contour>
+    <contour>
+      <point x="-241" y="1445" type="curve" smooth="yes"/>
+      <point x="-246" y="1416"/>
+      <point x="-57" y="1389"/>
+      <point x="-27" y="1388" type="curve" smooth="yes"/>
+      <point x="1" y="1388"/>
+      <point x="81" y="1457"/>
+      <point x="86" y="1485" type="curve" smooth="yes"/>
+      <point x="90" y="1514"/>
+      <point x="-173" y="1542"/>
+      <point x="-203" y="1542" type="curve" smooth="yes"/>
+      <point x="-231" y="1542"/>
+      <point x="-237" y="1472"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

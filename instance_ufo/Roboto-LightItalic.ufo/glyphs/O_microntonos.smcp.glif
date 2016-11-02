@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos.smcp" format="2">
+  <advance width="1178"/>
+  <anchor x="701" y="1320" name="parent_top"/>
+  <anchor x="488" y="-1" name="bottom"/>
+  <anchor x="701" y="1320" name="top"/>
+  <anchor x="1292" y="1320" name="top0315"/>
+  <anchor x="1341" y="1600" name="top_dd"/>
+  <anchor x="994" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="O.smcp" xOffset="10"/>
+    <component base="tonos" xOffset="-238" yOffset="-293"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0243" format="2">
+  <advance width="1393"/>
+  <unicode hex="0243"/>
+  <anchor x="835" y="1612" name="top"/>
+  <anchor x="558" y="10" name="bottom"/>
+  <anchor x="1558" y="1612" name="top0315"/>
+  <outline>
+    <component base="B" xOffset="101"/>
+    <component base="crossbar" xOffset="-168" yOffset="-302"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="-334" y="1283" name="_marktop"/>
+  <anchor x="-291" y="1577" name="mkmktop"/>
+  <anchor x="-320" y="1383" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-33" y="1445" type="line"/>
+      <point x="-598" y="1445" type="line"/>
+      <point x="-605" y="1303" type="line"/>
+      <point x="-40" y="1303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

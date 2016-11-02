@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA700" format="2">
+  <advance width="599"/>
+  <unicode hex="A700"/>
+  <outline>
+    <contour>
+      <point x="347" y="-417" type="line"/>
+      <point x="371" y="-284" type="line"/>
+      <point x="174" y="-282" type="line"/>
+      <point x="101" y="-275"/>
+      <point x="106" y="-197"/>
+      <point x="114" y="-140" type="curve" smooth="yes"/>
+      <point x="116" y="-128" type="line" smooth="yes"/>
+      <point x="132" y="-49"/>
+      <point x="177" y="21"/>
+      <point x="262" y="25" type="curve"/>
+      <point x="422" y="23" type="line"/>
+      <point x="447" y="155" type="line"/>
+      <point x="251" y="157" type="line" smooth="yes"/>
+      <point x="86" y="155"/>
+      <point x="-44" y="42"/>
+      <point x="-50" y="-126" type="curve"/>
+      <point x="-50" y="-139" type="line"/>
+      <point x="-49" y="-292"/>
+      <point x="35" y="-409"/>
+      <point x="196" y="-415" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

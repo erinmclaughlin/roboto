@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a_uni02DE" format="2">
+  <advance width="1232"/>
+  <anchor x="324" y="0" name="bottom"/>
+  <anchor x="610" y="1291" name="top"/>
+  <anchor x="1321" y="1291" name="top0315"/>
+  <anchor x="324" y="0" name="markbottom"/>
+  <anchor x="1085" y="1600" name="top_dd"/>
+  <anchor x="691" y="0" name="ogonek"/>
+  <anchor x="738" y="-407" name="bottom_dd"/>
+  <anchor x="702" y="1276" name="rhalfring"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni02DE" xOffset="867"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

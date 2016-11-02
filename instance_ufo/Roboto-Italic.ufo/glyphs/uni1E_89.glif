@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E89" format="2">
+  <advance width="1503"/>
+  <unicode hex="1E89"/>
+  <anchor x="860" y="1290" name="parent_top"/>
+  <anchor x="1612" y="1290" name="top0315"/>
+  <anchor x="860" y="1290" name="top"/>
+  <anchor x="581" y="-344" name="bottom"/>
+  <anchor x="1666" y="1600" name="top_dd"/>
+  <anchor x="1319" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="w"/>
+    <component base="dotbelow" xOffset="1324" yOffset="10"/>
+  </outline>
+</glyph>

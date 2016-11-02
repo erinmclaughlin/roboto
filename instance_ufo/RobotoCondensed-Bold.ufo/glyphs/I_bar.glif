@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibar" format="2">
+  <advance width="681"/>
+  <unicode hex="0197"/>
+  <anchor x="341" y="1603" name="top"/>
+  <anchor x="661" y="1603" name="top0315"/>
+  <anchor x="341" y="3" name="bottom"/>
+  <outline>
+    <component base="I" xOffset="63"/>
+    <component base="crossbar" xOffset="-107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

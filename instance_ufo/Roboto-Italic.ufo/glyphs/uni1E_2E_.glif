@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2E" format="2">
+  <advance width="712"/>
+  <unicode hex="1E2E"/>
+  <anchor x="336" y="0" name="right"/>
+  <anchor x="248" y="9" name="bottom"/>
+  <anchor x="303" y="1457" name="tonos"/>
+  <anchor x="525" y="1612" name="top"/>
+  <anchor x="795" y="1612" name="top0315"/>
+  <anchor x="793" y="1600" name="top_dd"/>
+  <anchor x="307" y="0" name="ogonek"/>
+  <anchor x="446" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="I" xOffset="80"/>
+    <component base="dieresisacutecomb" xOffset="976" yOffset="341"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

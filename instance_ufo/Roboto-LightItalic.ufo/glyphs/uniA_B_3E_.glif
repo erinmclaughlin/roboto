@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB3E" format="2">
+  <advance width="860"/>
+  <unicode hex="AB3E"/>
+  <outline>
+    <contour>
+      <point x="212" y="995" type="line"/>
+      <point x="55" y="71" type="line"/>
+      <point x="77" y="67" type="line"/>
+      <point x="-55" y="-139" type="line"/>
+      <point x="43" y="-139" type="line"/>
+      <point x="164" y="50" type="line"/>
+      <point x="513" y="-19" type="line"/>
+      <point x="643" y="86" type="line"/>
+      <point x="799" y="1010" type="line"/>
+      <point x="766" y="1015" type="line"/>
+      <point x="894" y="1213" type="line"/>
+      <point x="796" y="1213" type="line"/>
+      <point x="681" y="1032" type="line"/>
+      <point x="341" y="1100" type="line"/>
+    </contour>
+    <contour>
+      <point x="618" y="934" type="line"/>
+      <point x="203" y="268" type="line"/>
+      <point x="330" y="992" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="149" type="line"/>
+      <point x="655" y="834" type="line"/>
+      <point x="524" y="88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

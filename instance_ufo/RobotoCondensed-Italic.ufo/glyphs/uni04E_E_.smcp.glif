@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04EE.smcp" format="2">
+  <advance width="910"/>
+  <anchor x="618" y="1615" name="top"/>
+  <anchor x="574" y="1320" name="parent_top"/>
+  <anchor x="1004" y="1320" name="top0315"/>
+  <outline>
+    <component base="uni0423.smcp"/>
+    <component base="macron" xOffset="41" yOffset="38"/>
+  </outline>
+</glyph>

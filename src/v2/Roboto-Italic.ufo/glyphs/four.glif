@@ -1,56 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1119.3799999999999"/>
+  <advance width="1119"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="23.643026743242046" y="459.40622491749718" type="line"/>
-      <point x="1.6392641196451763" y="333.20376924043609" type="line"/>
-      <point x="641.27270593373271" y="332.92718188747506" type="line"/>
-      <point x="583.03609581101796" y="0.0" type="line"/>
-      <point x="778.48033270763847" y="0.0" type="line"/>
-      <point x="836.63012803735887" y="332.90493640348683" type="line"/>
-      <point x="1027.3465244563258" y="333.0772497728189" type="line"/>
-      <point x="1055.5103062631529" y="492.90376906332443" type="line"/>
-      <point x="864.10192086800134" y="493.06775155290802" type="line"/>
-      <point x="1031.2945360245874" y="1456.0159855981576" type="line"/>
-      <point x="817.49984008796912" y="1455.6188962593098" type="line"/>
+      <point x="24" y="459" type="line"/>
+      <point x="2" y="333" type="line"/>
+      <point x="641" y="333" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="837" y="333" type="line"/>
+      <point x="1027" y="333" type="line"/>
+      <point x="1056" y="493" type="line"/>
+      <point x="864" y="493" type="line"/>
+      <point x="1031" y="1456" type="line"/>
+      <point x="818" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="254.5450107194481" y="493.31311212625047" type="line"/>
-      <point x="774.37918447071308" y="1156.3259905267685" type="line"/>
-      <point x="795.84200980470143" y="1187.4333970488703" type="line"/>
-      <point x="668.5740971006428" y="493.07056558226731" type="line"/>
+      <point x="255" y="493" type="line"/>
+      <point x="774" y="1156" type="line"/>
+      <point x="796" y="1187" type="line"/>
+      <point x="669" y="493" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-02 21:17:04 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>901.0</real>
+          <integer>901</integer>
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>isGlobal</key>
           <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <integer>0</integer>
           <key>y</key>
-          <real>651.0</real>
+          <integer>651</integer>
         </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.974</real>
+        <real>0.577</real>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

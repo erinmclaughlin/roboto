@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex.smcp" format="2">
+  <advance width="841"/>
+  <anchor x="731" y="1320" name="parent_top"/>
+  <anchor x="286" y="-10" name="bottom"/>
+  <anchor x="786" y="1667" name="top"/>
+  <anchor x="935" y="1320" name="top0315"/>
+  <anchor x="984" y="1600" name="top_dd"/>
+  <anchor x="637" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="J.smcp"/>
+    <component base="circumflex" xOffset="197" yOffset="30"/>
+  </outline>
+</glyph>

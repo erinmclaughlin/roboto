@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hooksubpalatnosp" format="2">
+  <unicode hex="0321"/>
+  <outline>
+    <contour>
+      <point x="-356" y="233" type="line"/>
+      <point x="-381" y="-65" type="line" smooth="yes"/>
+      <point x="-406" y="-129"/>
+      <point x="-492" y="-212"/>
+      <point x="-561" y="-212" type="curve" smooth="yes"/>
+      <point x="-575" y="-212"/>
+      <point x="-582" y="-212"/>
+      <point x="-614" y="-205" type="curve"/>
+      <point x="-618" y="-405" type="line"/>
+      <point x="-584" y="-415"/>
+      <point x="-544" y="-421"/>
+      <point x="-510" y="-421" type="curve" smooth="yes"/>
+      <point x="-314" y="-421"/>
+      <point x="-203" y="-237"/>
+      <point x="-174" y="-65" type="curve" smooth="yes"/>
+      <point x="-150" y="233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni037F.smcp" format="2">
+  <advance width="837"/>
+  <anchor x="750" y="1320" name="parent_top"/>
+  <anchor x="282" y="-10" name="bottom"/>
+  <anchor x="750" y="1320" name="top"/>
+  <anchor x="931" y="1320" name="top0315"/>
+  <anchor x="980" y="1600" name="top_dd"/>
+  <anchor x="633" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="J.smcp"/>
+  </outline>
+</glyph>

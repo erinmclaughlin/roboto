@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C7C.ccmp" format="2">
+  <advance width="417"/>
+  <anchor x="282" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="193" y="601" type="line"/>
+      <point x="43" y="-246" type="line" smooth="yes"/>
+      <point x="23" y="-331"/>
+      <point x="-7" y="-419"/>
+      <point x="-90" y="-418" type="curve" smooth="yes"/>
+      <point x="-100" y="-418"/>
+      <point x="-114" y="-415"/>
+      <point x="-132" y="-409" type="curve"/>
+      <point x="-144" y="-507" type="line"/>
+      <point x="-124" y="-515"/>
+      <point x="-96" y="-522"/>
+      <point x="-74" y="-522" type="curve" smooth="yes"/>
+      <point x="74" y="-523"/>
+      <point x="124" y="-375"/>
+      <point x="148" y="-246" type="curve" smooth="yes"/>
+      <point x="297" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

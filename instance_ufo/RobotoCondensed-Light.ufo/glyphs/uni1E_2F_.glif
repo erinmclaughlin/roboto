@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2F" format="2">
+  <advance width="586"/>
+  <unicode hex="1E2F"/>
+  <anchor x="304" y="654" name="rhotichook"/>
+  <anchor x="292" y="1279" name="top"/>
+  <anchor x="485" y="1279" name="top0315"/>
+  <anchor x="292" y="1848" name="mkmktop_acc"/>
+  <anchor x="290" y="10" name="bottom"/>
+  <outline>
+    <component base="dotlessi" xOffset="74"/>
+    <component base="dieresisacutecomb.lc" xOffset="755" yOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
