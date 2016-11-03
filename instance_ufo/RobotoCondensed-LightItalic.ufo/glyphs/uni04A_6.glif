@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni04A6" format="2">
-  <advance width="1743"/>
-  <unicode hex="04A6"/>
-  <outline>
-    <component base="Pi" xOffset="-8"/>
-    <component base="largerighthook" xOffset="1038"/>
-  </outline>
-</glyph>

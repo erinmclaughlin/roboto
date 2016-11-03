@@ -5,64 +5,64 @@
   <outline>
     <contour>
       <point x="768" y="739" type="curve"/>
-      <point x="681.0" y="216.0" type="line"/>
-      <point x="673.0" y="90.0"/>
-      <point x="675.0" y="34.0"/>
-      <point x="685.0" y="0.0" type="curve"/>
-      <point x="882.0" y="0.0" type="line"/>
-      <point x="883.0" y="18.0" type="line"/>
-      <point x="864.0" y="90.0"/>
-      <point x="868.0" y="165.0"/>
-      <point x="880.0" y="238.0" type="curve" smooth="yes"/>
-      <point x="962.0" y="738.0" type="line"/>
-      <point x="985.0" y="963.0"/>
-      <point x="836.0" y="1098.0"/>
-      <point x="618.0" y="1103.0" type="curve" smooth="yes"/>
-      <point x="425.0" y="1106.0"/>
-      <point x="183.0" y="998.0"/>
-      <point x="165.0" y="782.0" type="curve"/>
-      <point x="360.0" y="783.0" type="line"/>
-      <point x="384.0" y="892.0"/>
-      <point x="492.0" y="948.0"/>
-      <point x="599.0" y="946.0" type="curve" smooth="yes"/>
-      <point x="723.0" y="943.0"/>
+      <point x="681" y="216" type="line"/>
+      <point x="673" y="90"/>
+      <point x="675" y="34"/>
+      <point x="685" y="0" type="curve"/>
+      <point x="882" y="0" type="line"/>
+      <point x="883" y="18" type="line"/>
+      <point x="864" y="90"/>
+      <point x="868" y="165"/>
+      <point x="880" y="238" type="curve" smooth="yes"/>
+      <point x="962" y="738" type="line"/>
+      <point x="985" y="963"/>
+      <point x="836" y="1098"/>
+      <point x="618" y="1103" type="curve" smooth="yes"/>
+      <point x="425" y="1106"/>
+      <point x="183" y="998"/>
+      <point x="165" y="782" type="curve"/>
+      <point x="360" y="783" type="line"/>
+      <point x="384" y="892"/>
+      <point x="492" y="948"/>
+      <point x="599" y="946" type="curve" smooth="yes"/>
+      <point x="723" y="943"/>
       <point x="782" y="862"/>
     </contour>
     <contour>
       <point x="797" y="661" type="line"/>
-      <point x="576.0" y="662.0" type="line" smooth="yes"/>
+      <point x="576" y="662" type="line" smooth="yes"/>
       <point x="338" y="663"/>
-      <point x="72.0" y="570.0"/>
-      <point x="57.0" y="295.0" type="curve" smooth="yes"/>
-      <point x="47.0" y="106.0"/>
-      <point x="195.0" y="-17.0"/>
-      <point x="375.0" y="-20.0" type="curve" smooth="yes"/>
-      <point x="492.0" y="-22.0"/>
-      <point x="602.0" y="28.0"/>
-      <point x="707.0" y="134.0" type="curve"/>
-      <point x="708.0" y="318.0" type="line"/>
-      <point x="642.0" y="223.0"/>
-      <point x="539.0" y="147.0"/>
-      <point x="415.0" y="150.0" type="curve" smooth="yes"/>
-      <point x="311.0" y="153.0"/>
-      <point x="245.0" y="218.0"/>
-      <point x="258.0" y="323.0" type="curve" smooth="yes"/>
-      <point x="279.0" y="494.0"/>
+      <point x="72" y="570"/>
+      <point x="57" y="295" type="curve" smooth="yes"/>
+      <point x="47" y="106"/>
+      <point x="195" y="-17"/>
+      <point x="375" y="-20" type="curve" smooth="yes"/>
+      <point x="492" y="-22"/>
+      <point x="602" y="28"/>
+      <point x="707" y="134" type="curve"/>
+      <point x="708" y="318" type="line"/>
+      <point x="642" y="223"/>
+      <point x="539" y="147"/>
+      <point x="415" y="150" type="curve" smooth="yes"/>
+      <point x="311" y="153"/>
+      <point x="245" y="218"/>
+      <point x="258" y="323" type="curve" smooth="yes"/>
+      <point x="279" y="494"/>
       <point x="469" y="526"/>
-      <point x="609.0" y="525.0" type="curve" smooth="yes"/>
+      <point x="609" y="525" type="curve" smooth="yes"/>
       <point x="774" y="524" type="line"/>
     </contour>
     <contour>
       <point x="841" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="382" y="0" type="move" name="bottom"/>
+      <point x="1257" y="1600" type="move" name="top_dd"/>
     </contour>
     <contour>
       <point x="798" y="1290" type="move" name="rhalfring"/>
     </contour>
     <contour>
-      <point x="1257" y="1600" type="move" name="top_dd"/>
+      <point x="382" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="910" y="-407" type="move" name="bottom_dd"/>

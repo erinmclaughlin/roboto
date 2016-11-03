@@ -52,10 +52,34 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>52841FD5-DC4F-4CA4-98CA-84F0EB654243</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<array>
+		<string>space</string>
+		<string>dollar</string>
+		<string>ampersand</string>
+		<string>four</string>
+		<string>eight</string>
+		<string>at</string>
+		<string>S</string>
+		<string>a</string>
+		<string>g</string>
+		<string>circumflex</string>
+		<string>acircumflex</string>
+		<string>ogonek</string>
+		<string>aogonek</string>
+	</array>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Bold</string>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
@@ -63,197 +87,165 @@
 	<array>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>-360.0</real>
+			<integer>-360</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>2389.0</real>
+			<integer>2389</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>3792.0</real>
+			<integer>3792</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>345.0</real>
+			<integer>345</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>224.0</real>
+			<integer>224</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>-416.0</real>
+			<integer>-416</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>1165.0</real>
+			<integer>1165</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>1600.0</real>
+			<integer>1600</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>702.0</real>
+			<integer>702</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>name</key>
 			<string>Accent</string>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>1290.0</real>
+			<integer>1290</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>0.0</real>
+			<integer>0</integer>
 			<key>y</key>
-			<real>-550.0</real>
+			<integer>-550</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>1056.0</real>
+			<integer>1056</integer>
 			<key>y</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>990.0</real>
+			<integer>990</integer>
 			<key>y</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>1122.0</real>
+			<integer>1122</integer>
 			<key>y</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>1188.0</real>
+			<integer>1188</integer>
 			<key>y</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>924.0</real>
+			<integer>924</integer>
 			<key>y</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>90.0</real>
+			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
 			<key>x</key>
-			<real>1254.0</real>
+			<integer>1254</integer>
 			<key>y</key>
-			<real>0.0</real>
+			<integer>0</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -263,9 +255,9 @@
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
 		<real>0.17</real>
-		<real>0.9241</real>
-		<real>0.4592</real>
-		<real>0.8745</real>
+		<real>0.924</real>
+		<real>0.459</real>
+		<real>0.875</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

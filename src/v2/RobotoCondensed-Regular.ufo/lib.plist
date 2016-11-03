@@ -3500,7 +3500,7 @@
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
-		<real>0.0</real>
+		<integer>0</integer>
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
@@ -3675,10 +3675,10 @@
 	</array>
 	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
 	<array>
-		<real>0.1705</real>
-		<real>0.8671</real>
-		<real>0.2883</real>
-		<real>0.9471</real>
+		<real>0.171</real>
+		<real>0.867</real>
+		<real>0.288</real>
+		<real>0.947</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

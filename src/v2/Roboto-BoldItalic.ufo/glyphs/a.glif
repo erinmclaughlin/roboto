@@ -56,13 +56,13 @@
       <point x="852" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="353" y="22" type="move" name="bottom"/>
+      <point x="1231" y="1600" type="move" name="top_dd"/>
     </contour>
     <contour>
       <point x="789" y="1290" type="move" name="rhalfring"/>
     </contour>
     <contour>
-      <point x="1231" y="1600" type="move" name="top_dd"/>
+      <point x="353" y="22" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="884" y="-407" type="move" name="bottom_dd"/>

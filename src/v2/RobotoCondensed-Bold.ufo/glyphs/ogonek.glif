@@ -26,26 +26,28 @@
       <point x="380" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="380.0" y="0.0" type="move" name="_ogonek"/>
+      <point x="380" y="0" type="move" name="_ogonek"/>
     </contour>
     <contour>
-      <point x="380.0" y="0.0" type="move" name="_right"/>
+      <point x="380" y="0" type="move" name="_right"/>
     </contour>
     <contour>
-      <point x="284.0" y="0.0" type="move" name="_bottom"/>
+      <point x="284" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="284.0" y="-417.0" type="move" name="mkmkbottom_acc"/>
+      <point x="284" y="-417" type="move" name="mkmkbottom_acc"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-03 03:43:03 +0000</string>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.974</real>
         <real>0.577</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>
