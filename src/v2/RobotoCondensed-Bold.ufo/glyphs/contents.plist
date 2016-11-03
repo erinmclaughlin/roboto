@@ -6,10 +6,16 @@
 	<string>S_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>acircumflex</key>
+	<string>acircumflex.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>aogonek</key>
+	<string>aogonek.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
+	<key>circumflex</key>
+	<string>circumflex.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>eight</key>
@@ -18,6 +24,8 @@
 	<string>four.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>ogonek</key>
+	<string>ogonek.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 </dict>

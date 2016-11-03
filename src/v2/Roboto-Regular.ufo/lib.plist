@@ -3681,45 +3681,8 @@
 				<string>S</string>
 				<string>a</string>
 				<string>g</string>
-				<string>guillemotleft</string>
-				<string>plusminus</string>
-				<string>twosuperior</string>
-				<string>threesuperior</string>
-				<string>onesuperior</string>
-				<string>guillemotright</string>
-				<string>onequarter</string>
-				<string>onehalf</string>
-				<string>threequarters</string>
 				<string>circumflex</string>
 				<string>ogonek</string>
-				<string>uni0411</string>
-				<string>uni042A</string>
-				<string>uni042B</string>
-				<string>uni044A</string>
-				<string>uni044B</string>
-				<string>uni0452</string>
-				<string>uni045B</string>
-				<string>uni0494</string>
-				<string>uni04A0</string>
-				<string>uni04A6</string>
-				<string>uni04FA</string>
-				<string>uni04FB</string>
-				<string>endash</string>
-				<string>emdash</string>
-				<string>uni2074</string>
-				<string>oneeighth</string>
-				<string>threeeighths</string>
-				<string>fiveeighths</string>
-				<string>seveneighths</string>
-				<string>uni035C</string>
-				<string>uniA678</string>
-				<string>uniA679</string>
-				<string>uniFE2D</string>
-				<string>uniFE2C</string>
-				<string>uniFE2B</string>
-				<string>uniFE22</string>
-				<string>uniFE23</string>
-				<string>uni042B.smcp</string>
 				<string>acircumflex</string>
 				<string>aogonek</string>
 			</array>
