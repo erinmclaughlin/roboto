@@ -3891,7 +3891,7 @@
 		<string>alpha</string>
 		<string>beta</string>
 		<string>gamma</string>
-		<string>delta.alt</string>
+		<string>delta</string>
 		<string>epsilon</string>
 		<string>zeta</string>
 		<string>eta</string>
@@ -3961,7 +3961,6 @@
 		<string>uni044F</string>
 		<string>uni0452</string>
 		<string>uni0454</string>
-		<string>uni0459</string>
 		<string>uni045A</string>
 		<string>uni045B</string>
 		<string>uni045F</string>
@@ -4119,8 +4118,8 @@
 		<string>circumflexhookcomb</string>
 		<string>circumflexgravecomb</string>
 		<string>circumflexacutecomb</string>
-		<string>brevegravecomb</string>
 		<string>commaaccentrotate</string>
+		<string>brevegravecomb</string>
 		<string>A.smcp</string>
 		<string>B.smcp</string>
 		<string>C.smcp</string>
@@ -4147,6 +4146,7 @@
 		<string>X.smcp</string>
 		<string>Y.smcp</string>
 		<string>Z.smcp</string>
+		<string>crossbar</string>
 		<string>zero.smcp</string>
 		<string>one.smcp</string>
 		<string>two.smcp</string>
@@ -4157,6 +4157,7 @@
 		<string>seven.smcp</string>
 		<string>eight.smcp</string>
 		<string>nine.smcp</string>
+		<string>dasiaoxia</string>
 		<string>zero.sup</string>
 		<string>one.sup</string>
 		<string>two.sup</string>
@@ -4167,9 +4168,7 @@
 		<string>seven.sup</string>
 		<string>eight.sup</string>
 		<string>nine.sup</string>
-		<string>crossbar</string>
 		<string>ringacute</string>
-		<string>dasiaoxia</string>
 		<string>uni0002</string>
 		<string>uni0009</string>
 		<string>uni048D</string>
@@ -4179,7 +4178,7 @@
 		<string>uni0424</string>
 		<string>uni0463</string>
 		<string>alpha.alt</string>
-		<string>delta</string>
+		<string>delta.alt</string>
 		<string>R.alt</string>
 		<string>K.alt</string>
 		<string>k.alt</string>
@@ -4190,10 +4189,10 @@
 		<string>seven.alt</string>
 		<string>G.alt</string>
 		<string>C.ss06</string>
-		<string>G.ss06</string>
-		<string>D.ss06</string>
 		<string>O.ss06</string>
+		<string>G.ss06</string>
 		<string>Q.ss06</string>
+		<string>D.ss06</string>
 		<string>one.onum</string>
 		<string>two.onum</string>
 		<string>three.onum</string>
@@ -4203,6 +4202,7 @@
 		<string>nine.onum</string>
 		<string>zero.onum</string>
 		<string>seven.pnum</string>
+		<string>uni0459</string>
 		<string>b.ss06</string>
 		<string>c.ss06</string>
 		<string>d.ss06</string>
@@ -5690,6 +5690,7 @@
 		<string>dieresisgravecomb</string>
 		<string>dotmacroncomb</string>
 		<string>tildeacutecomb</string>
+		<string>tildedieresiscomb</string>
 		<string>macrongravecomb</string>
 		<string>macronacutecomb</string>
 		<string>macrondieresiscomb</string>
@@ -5704,7 +5705,6 @@
 		<string>uni0490.smcp</string>
 		<string>uniA7B0</string>
 		<string>uniA7B1</string>
-		<string>tildedieresiscomb</string>
 		<string>Chook.cn</string>
 		<string>chook.cn</string>
 		<string>Ghook.cn</string>
@@ -5782,7 +5782,6 @@
 		<string>eight.tnum</string>
 		<string>one.tnum</string>
 		<string>uni006A.ccmp</string>
-		<string>uni1D96.ccmp</string>
 		<string>uni0249.ccmp</string>
 		<string>uni0268.ccmp</string>
 		<string>uni0458.ccmp</string>
@@ -5792,8 +5791,9 @@
 		<string>uni1DA4.ccmp</string>
 		<string>uni012F.ccmp</string>
 		<string>uni0456.ccmp</string>
-		<string>uni1D62.ccmp</string>
 		<string>uni03F3.ccmp</string>
+		<string>uni1D96.ccmp</string>
+		<string>uni1D62.ccmp</string>
 		<string>uni1DA8.ccmp</string>
 		<string>uni02B2.ccmp</string>
 		<string>uni2C7C.ccmp</string>
@@ -6007,16 +6007,16 @@
 		<string>bbar_uni1ABE</string>
 		<string>rrthook_uni1ABE</string>
 		<string>ampersand.smcp</string>
-		<string>Lslash.smcp</string>
 		<string>AE.smcp</string>
 		<string>Thorn.smcp</string>
+		<string>Lslash.smcp</string>
 		<string>Oslash.smcp</string>
 		<string>Hbar.smcp</string>
 		<string>Eng.smcp</string>
-		<string>acutedotcomb.lc</string>
 		<string>tildedieresiscomb.lc</string>
 		<string>dieresisacutecomb.lc</string>
 		<string>carondotcomb.lc</string>
+		<string>acutedotcomb.lc</string>
 		<string>dotmacroncomb.lc</string>
 		<string>macrongravecomb.lc</string>
 		<string>dieresismacroncomb.lc</string>
@@ -6033,6 +6033,8 @@
 		<string>Iota1</string>
 		<string>uni2009.fra</string>
 		<string>Iogonek.smcp</string>
+		<string>uni1EE4</string>
+		<string>aring</string>
 		<string>Ibreve.smcp</string>
 		<string>uni1EC7</string>
 		<string>uni1EC0</string>
@@ -6041,6 +6043,7 @@
 		<string>uni1EC9</string>
 		<string>second</string>
 		<string>Obreve.smcp</string>
+		<string>ygrave</string>
 		<string>Edotaccent.unic</string>
 		<string>Scaron</string>
 		<string>Upsilontonos</string>
@@ -6052,22 +6055,20 @@
 		<string>uni1ECE</string>
 		<string>acircumflex</string>
 		<string>uni1ECC</string>
-		<string>idieresis</string>
+		<string>Aring.smcp</string>
 		<string>uni1ECA</string>
 		<string>Rcaron</string>
 		<string>Agrave</string>
 		<string>Ubreve.unic</string>
 		<string>Ncommaaccent</string>
 		<string>uni1FFB</string>
-		<string>ccaron</string>
 		<string>Racute.smcp</string>
-		<string>uni041D.smcp</string>
 		<string>uni1FF3</string>
-		<string>ij</string>
 		<string>uni1FF7</string>
 		<string>uni1FF4</string>
 		<string>Eogonek.smcp.NAV</string>
 		<string>uni1FF9</string>
+		<string>uni1FDB</string>
 		<string>uni01DA</string>
 		<string>uni01DB</string>
 		<string>uni01DC</string>
@@ -6097,8 +6098,8 @@
 		<string>uni1E59</string>
 		<string>uni1EC1</string>
 		<string>uni04AA.smcp</string>
+		<string>uni1E50</string>
 		<string>otilde</string>
-		<string>Eth.smcp</string>
 		<string>Edotaccent.smcp</string>
 		<string>oogonek.NAV</string>
 		<string>uni1E5A</string>
@@ -6107,6 +6108,7 @@
 		<string>uni1E5D</string>
 		<string>ncommaaccent</string>
 		<string>uni1E5F</string>
+		<string>uni0233</string>
 		<string>uni1ED2</string>
 		<string>uni1ED1</string>
 		<string>uni1ED0</string>
@@ -6118,6 +6120,7 @@
 		<string>uni1ED8</string>
 		<string>Epsilontonos.smcp</string>
 		<string>Wcircumflex.smcp</string>
+		<string>uni1FC9</string>
 		<string>ucircumflex</string>
 		<string>uni1EDC</string>
 		<string>uni1EDB</string>
@@ -6125,6 +6128,7 @@
 		<string>uni1EDF</string>
 		<string>uni1EDE</string>
 		<string>uni1EDD</string>
+		<string>uni1F99</string>
 		<string>wacute</string>
 		<string>Tbar</string>
 		<string>Umacron.unic</string>
@@ -6138,13 +6142,13 @@
 		<string>uni0162</string>
 		<string>uni0163</string>
 		<string>ldot</string>
+		<string>iacute</string>
 		<string>Ydieresis.smcp</string>
 		<string>uni0424.smcp</string>
 		<string>Uacute</string>
 		<string>two.pnum</string>
 		<string>Eogonek.NAV</string>
 		<string>Rcommaaccent.smcp</string>
-		<string>nbspace</string>
 		<string>Oogonek</string>
 		<string>Ocircumflex</string>
 		<string>Tcommaaccent.smcp</string>
@@ -6170,9 +6174,9 @@
 		<string>uni1E67</string>
 		<string>cacute</string>
 		<string>uni1E61</string>
-		<string>zero.pnum</string>
 		<string>uni1E63</string>
 		<string>uni1E62</string>
+		<string>Egrave.smcp</string>
 		<string>IJ.smcp</string>
 		<string>uni037F</string>
 		<string>uni0209</string>
@@ -6193,19 +6197,17 @@
 		<string>uni1E8A</string>
 		<string>Ugrave.unic</string>
 		<string>uni1EEA</string>
-		<string>uni1EEB</string>
 		<string>uni1EEC</string>
 		<string>uni1EEE</string>
 		<string>uni1EEF</string>
 		<string>Alphatonos</string>
 		<string>Wdieresis</string>
-		<string>Acircumflex.smcp</string>
 		<string>Emacron.smcp</string>
 		<string>AEacute</string>
 		<string>uni1EE0</string>
 		<string>uni1EE1</string>
 		<string>uni1EE2</string>
-		<string>uni1F13</string>
+		<string>uni1F14</string>
 		<string>uni1EE5</string>
 		<string>uni1EE6</string>
 		<string>uni1EE8</string>
@@ -6219,30 +6221,35 @@
 		<string>uhungarumlaut</string>
 		<string>Egrave</string>
 		<string>igrave</string>
+		<string>uni04CF</string>
+		<string>uni1E4D</string>
 		<string>icaron</string>
+		<string>uni2049</string>
 		<string>uni2048</string>
 		<string>uni2047</string>
 		<string>Gbreve.smcp</string>
 		<string>ycircumflex</string>
-		<string>uni0412.smcp</string>
-		<string>Aring.smcp</string>
+		<string>Upsilon</string>
+		<string>idieresis</string>
+		<string>uni1E3B</string>
+		<string>ij</string>
 		<string>Iota</string>
 		<string>Utilde.unic</string>
 		<string>uni019E</string>
-		<string>abreve</string>
+		<string>uni1F21</string>
 		<string>Zdotaccent.smcp</string>
-		<string>Zacute.smcp</string>
-		<string>Ugrave.smcp</string>
+		<string>uni04DD</string>
 		<string>uni1FFC</string>
 		<string>uni1FFA</string>
-		<string>itilde</string>
-		<string>uni01F0</string>
+		<string>Agrave.unic</string>
+		<string>Zacute.smcp</string>
+		<string>Ugrave.smcp</string>
 		<string>uni01F2</string>
 		<string>uni01F3</string>
+		<string>uni01F0</string>
 		<string>uni01F1</string>
 		<string>lcaron</string>
 		<string>uni01F8</string>
-		<string>Ohungarumlaut.smcp</string>
 		<string>aogonek</string>
 		<string>uni1E78</string>
 		<string>uni01F9</string>
@@ -6274,8 +6281,6 @@
 		<string>uni021A</string>
 		<string>uni021B</string>
 		<string>rcommaaccent</string>
-		<string>Idieresis.smcp</string>
-		<string>uni0121</string>
 		<string>uni1E7B</string>
 		<string>uni1E7C</string>
 		<string>uni1E7A</string>
@@ -6308,30 +6313,30 @@
 		<string>uni1E93</string>
 		<string>uni1E98</string>
 		<string>uni1E99</string>
-		<string>uni04D2</string>
+		<string>zero.pnum</string>
+		<string>uni04D0</string>
 		<string>uni1E70</string>
 		<string>uni1E9A</string>
-		<string>uni1EA9</string>
 		<string>uni1F0D</string>
 		<string>uni1F0E</string>
 		<string>uni1F0A</string>
 		<string>uni1F0B</string>
-		<string>Jcircumflex.smcp</string>
 		<string>Ncommaaccent.smcp</string>
 		<string>nacute</string>
 		<string>Zdotaccent</string>
+		<string>uni1EA0</string>
 		<string>Adieresis.smcp</string>
-		<string>uni1EA3</string>
+		<string>uni1FA3</string>
 		<string>nj</string>
 		<string>Iacute</string>
+		<string>uni1FA0</string>
 		<string>obar</string>
 		<string>nu</string>
 		<string>eacute</string>
-		<string>Eacute.smcp</string>
+		<string>uni1FA8</string>
 		<string>uni0215</string>
 		<string>uni0501</string>
 		<string>uni03D3</string>
-		<string>utilde</string>
 		<string>uni03D4</string>
 		<string>Yacute</string>
 		<string>uni1EC2</string>
@@ -6339,12 +6344,10 @@
 		<string>Aogonek.smcp.NAV</string>
 		<string>ocaron</string>
 		<string>Upsilon.smcp</string>
-		<string>uni1F9E</string>
+		<string>uni041C.smcp</string>
 		<string>minute</string>
 		<string>Tau</string>
-		<string>uni1F9D</string>
 		<string>Aring.unic</string>
-		<string>uni1F9C</string>
 		<string>Ncaron.smcp</string>
 		<string>Kcommaaccent</string>
 		<string>Rcaron.smcp</string>
@@ -6358,27 +6361,29 @@
 		<string>uni1FF2</string>
 		<string>egrave</string>
 		<string>Icircumflex</string>
+		<string>uni1F97</string>
 		<string>Gcaron</string>
 		<string>uni1FF6</string>
-		<string>uni1F95</string>
 		<string>gcommaaccent</string>
-		<string>uni1F93</string>
-		<string>uni1F92</string>
+		<string>uni1F94</string>
 		<string>Mu</string>
-		<string>uni1F91</string>
+		<string>uni1F90</string>
 		<string>uni1FF8</string>
 		<string>uni0229</string>
 		<string>uni0228</string>
 		<string>uni0227</string>
 		<string>uni0226</string>
+		<string>uni043E</string>
 		<string>Ldot</string>
 		<string>Edotaccent</string>
 		<string>Abreve</string>
 		<string>ocircumflex</string>
+		<string>uni1E07</string>
 		<string>Obar</string>
 		<string>Lacute</string>
-		<string>Aacute.unic</string>
+		<string>uni1E06</string>
 		<string>uni1F3A</string>
+		<string>Beta.smcp</string>
 		<string>uni1F3C</string>
 		<string>uni1F3B</string>
 		<string>uni1F3E</string>
@@ -6397,12 +6402,13 @@
 		<string>uni1F38</string>
 		<string>Omegatonos</string>
 		<string>Cacute.smcp</string>
+		<string>Edieresis</string>
 		<string>uni051C</string>
 		<string>uni051B</string>
 		<string>uni051A</string>
 		<string>uni051D</string>
-		<string>uni1F14</string>
 		<string>Tau.smcp</string>
+		<string>uni04D5</string>
 		<string>Chi</string>
 		<string>edieresis</string>
 		<string>uni0425</string>
@@ -6414,30 +6420,27 @@
 		<string>Idieresis</string>
 		<string>gcircumflex</string>
 		<string>Gcircumflex.smcp</string>
-		<string>Egrave.smcp</string>
+		<string>uni1F13</string>
 		<string>ccircumflex</string>
-		<string>uni041F.smcp</string>
+		<string>uni1EB7</string>
 		<string>uni1F04</string>
 		<string>uni1F00</string>
 		<string>uni1F01</string>
 		<string>Adieresis</string>
 		<string>Odieresis</string>
+		<string>Sacute.smcp</string>
 		<string>Ntilde.unic</string>
 		<string>gacute</string>
 		<string>Eta.smcp</string>
-		<string>Ucaron</string>
-		<string>oslashacute</string>
-		<string>uni1FD8</string>
-		<string>Ldot.smcp</string>
+		<string>icircumflex</string>
+		<string>udieresis</string>
+		<string>uni1FD9</string>
 		<string>uni0232</string>
-		<string>uni0233</string>
 		<string>uni0230</string>
 		<string>uni0231</string>
 		<string>Ubreve</string>
 		<string>Ycircumflex</string>
-		<string>Iotatonos.smcp</string>
-		<string>iacute</string>
-		<string>uni04D4</string>
+		<string>uni1FD3</string>
 		<string>uni010A.smcp</string>
 		<string>Jcircumflex</string>
 		<string>Zcaron.smcp</string>
@@ -6452,54 +6455,53 @@
 		<string>uni1F22</string>
 		<string>uni1F23</string>
 		<string>uni1F20</string>
-		<string>uni1F21</string>
+		<string>abreve</string>
 		<string>acaron</string>
+		<string>Oslashacute.smcp</string>
 		<string>Oslashacute</string>
 		<string>Ccaron.smcp</string>
+		<string>Idieresis.smcp</string>
 		<string>emacron</string>
-		<string>Ocircumflex.smcp</string>
+		<string>uni04F3</string>
 		<string>uni1F2F</string>
 		<string>uni1F2D</string>
 		<string>uni1F2E</string>
 		<string>uni1F2B</string>
 		<string>uni1F2C</string>
 		<string>uni1F2A</string>
-		<string>uni0420.smcp</string>
+		<string>uni04F4</string>
 		<string>uni1E53</string>
 		<string>Sacute</string>
 		<string>Ccircumflex.smcp</string>
-		<string>uni043E</string>
 		<string>uni1E58</string>
 		<string>Kappa</string>
-		<string>uni1F0F</string>
+		<string>uni1EA6</string>
 		<string>gcaron</string>
 		<string>uni0439</string>
 		<string>uni0435</string>
 		<string>uni0430</string>
+		<string>Jcircumflex.smcp</string>
 		<string>Ccaron</string>
 		<string>uni04A2.smcp</string>
-		<string>Omicrontonos</string>
+		<string>upsilondieresis</string>
+		<string>uni0405.smcp</string>
+		<string>uni0462</string>
 		<string>Aringacute</string>
 		<string>Tcaron</string>
 		<string>Lcommaaccent</string>
+		<string>uni048C</string>
 		<string>Utilde</string>
 		<string>Ecircumflex</string>
 		<string>Scedilla.smcp</string>
 		<string>Igrave.smcp</string>
 		<string>six.pnum</string>
-		<string>uni1F7A</string>
-		<string>uni1F7C</string>
 		<string>Ebreve.unic</string>
-		<string>omegatonos</string>
-		<string>uni1F7B</string>
+		<string>uni0440</string>
 		<string>Etatonos</string>
 		<string>kappa</string>
-		<string>uni1F75</string>
-		<string>uni1F74</string>
 		<string>Dcaron</string>
 		<string>ugrave</string>
-		<string>uni1F76</string>
-		<string>uni1F73</string>
+		<string>uniA78F</string>
 		<string>uni1F5B</string>
 		<string>Acircumflex.unic</string>
 		<string>Eogonek.unic</string>
@@ -6507,11 +6509,9 @@
 		<string>uni1F5D</string>
 		<string>uni04E2.smcp</string>
 		<string>Dcroat</string>
-		<string>four.pnum</string>
-		<string>Ccedilla.smcp</string>
+		<string>uni1F78</string>
 		<string>uni1F59</string>
 		<string>IJ</string>
-		<string>uni1FDA</string>
 		<string>uni1F53</string>
 		<string>uni1F52</string>
 		<string>Eth</string>
@@ -6525,8 +6525,6 @@
 		<string>uni04BF</string>
 		<string>uni04BE</string>
 		<string>uni04BB</string>
-		<string>Oslashacute.smcp</string>
-		<string>ecircumflex</string>
 		<string>Wacute</string>
 		<string>Igrave</string>
 		<string>uni04B0</string>
@@ -6542,13 +6540,11 @@
 		<string>uni0407</string>
 		<string>Iota.smcp</string>
 		<string>Umacron</string>
-		<string>Scircumflex</string>
-		<string>uni01E1</string>
 		<string>uni1E5E</string>
 		<string>uni040E</string>
 		<string>uni040D</string>
 		<string>Uring</string>
-		<string>N_j</string>
+		<string>N_J</string>
 		<string>Kcaron</string>
 		<string>Etatonos.smcp</string>
 		<string>NJ</string>
@@ -6559,15 +6555,14 @@
 		<string>wgrave</string>
 		<string>Omacron</string>
 		<string>Iogonek</string>
+		<string>uni01E0</string>
 		<string>uni1ED3</string>
 		<string>Ntilde.smcp</string>
-		<string>uni00AD</string>
 		<string>Adieresis.unic</string>
 		<string>eight.pnum</string>
 		<string>Abreve.unic</string>
 		<string>Uacute.unic</string>
 		<string>Iacute.smcp</string>
-		<string>aring</string>
 		<string>uni1F48</string>
 		<string>uni1F49</string>
 		<string>uni1F40</string>
@@ -6577,9 +6572,10 @@
 		<string>uni1F44</string>
 		<string>uni1F45</string>
 		<string>Ygrave</string>
+		<string>ccaron</string>
+		<string>uni041D.smcp</string>
 		<string>Scaron.smcp</string>
 		<string>Tcaron.smcp</string>
-		<string>zacute</string>
 		<string>uni2015</string>
 		<string>uni1F4A</string>
 		<string>uni1F4B</string>
@@ -6603,15 +6599,17 @@
 		<string>uni0413</string>
 		<string>uni0410</string>
 		<string>uni0419</string>
-		<string>uni04CF</string>
 		<string>uni04CB</string>
 		<string>uni04CC</string>
 		<string>Aring</string>
+		<string>uni1F71</string>
 		<string>Idotaccent.smcp</string>
+		<string>uni1E48</string>
 		<string>Hcircumflex.smcp</string>
-		<string>Agrave.unic</string>
+		<string>uni1E35</string>
 		<string>uni0425.smcp</string>
 		<string>Gbreve</string>
+		<string>uni1E31</string>
 		<string>uni1FAF</string>
 		<string>uni1FAE</string>
 		<string>uni1FAD</string>
@@ -6622,52 +6620,52 @@
 		<string>uni1FA6</string>
 		<string>uni1FA5</string>
 		<string>uni1FA4</string>
-		<string>uni1FA3</string>
 		<string>uni1FA2</string>
-		<string>uni1FA0</string>
 		<string>uni0408.smcp</string>
 		<string>uni1FA9</string>
-		<string>uni1FA8</string>
-		<string>Alpha.smcp</string>
-		<string>imacron</string>
 		<string>uni0415.smcp</string>
+		<string>Oogonek.NAV</string>
 		<string>Uacute.smcp</string>
 		<string>uni040C.smcp</string>
 		<string>lacute</string>
 		<string>upsilontonos</string>
-		<string>icircumflex</string>
+		<string>Ucaron</string>
+		<string>Iotatonos.smcp</string>
 		<string>oacute</string>
-		<string>uni0462</string>
+		<string>Epsilontonos</string>
+		<string>eogonek</string>
 		<string>uring</string>
 		<string>uni0120.smcp</string>
-		<string>upsilondieresis</string>
-		<string>uni0405.smcp</string>
+		<string>Omicrontonos</string>
 		<string>Scedilla</string>
 		<string>Aringacute.smcp</string>
 		<string>uni1F7D</string>
-		<string>Upsilon</string>
+		<string>uni1F7A</string>
+		<string>uni1F7C</string>
+		<string>uni1F7B</string>
+		<string>uni1F75</string>
+		<string>uni1F74</string>
 		<string>uni1F77</string>
-		<string>uniA78F</string>
-		<string>uni1F71</string>
+		<string>uni1F76</string>
 		<string>uni1F70</string>
+		<string>uni1F73</string>
 		<string>Idotaccent</string>
 		<string>uni1F79</string>
-		<string>uni1F78</string>
-		<string>Itilde</string>
 		<string>omacron</string>
-		<string>aringacute</string>
-		<string>Ecaron.smcp</string>
+		<string>uni1F1C</string>
+		<string>uni1F1B</string>
+		<string>uni04EA</string>
 		<string>Uring.smcp</string>
 		<string>Upsilontonos.smcp</string>
 		<string>aeacute</string>
 		<string>uni040E.smcp</string>
 		<string>upsilondieresistonos</string>
 		<string>iotadieresistonos</string>
-		<string>obreve</string>
-		<string>uni037F.smcp</string>
+		<string>uni1F1A</string>
 		<string>uni202F</string>
+		<string>imacron</string>
 		<string>Eta</string>
-		<string>uni1E50</string>
+		<string>Itilde</string>
 		<string>uni1F51</string>
 		<string>uni04AE.smcp</string>
 		<string>Rho.smcp</string>
@@ -6676,12 +6674,11 @@
 		<string>Rcommaaccent</string>
 		<string>Ydieresis</string>
 		<string>Aogonek</string>
-		<string>ibreve</string>
 		<string>Itilde.smcp</string>
 		<string>racute</string>
 		<string>Ocaron</string>
 		<string>Emacron</string>
-		<string>ubreve</string>
+		<string>uni1E3A</string>
 		<string>etatonos</string>
 		<string>Ntilde</string>
 		<string>aemacron</string>
@@ -6690,6 +6687,7 @@
 		<string>Aacute.smcp</string>
 		<string>Hcircumflex</string>
 		<string>Ecircumflex.unic</string>
+		<string>Eth.smcp</string>
 		<string>uni1F62</string>
 		<string>uni1F63</string>
 		<string>uni1F60</string>
@@ -6700,9 +6698,12 @@
 		<string>uni1F68</string>
 		<string>rcaron</string>
 		<string>Uhungarumlaut.smcp</string>
+		<string>Omicron</string>
 		<string>Acircumflex</string>
+		<string>uni04E5</string>
 		<string>uni0299</string>
 		<string>gbreve</string>
+		<string>uni029C</string>
 		<string>omicron</string>
 		<string>uni1F6B</string>
 		<string>uni1F6C</string>
@@ -6716,6 +6717,7 @@
 		<string>Wdieresis.smcp</string>
 		<string>uni20AB</string>
 		<string>Uring.unic</string>
+		<string>uni0406</string>
 		<string>aogonek.NAV</string>
 		<string>Aogonek.unic</string>
 		<string>uni03F8</string>
@@ -6726,7 +6728,6 @@
 		<string>uni0477</string>
 		<string>uni0478</string>
 		<string>uni0479</string>
-		<string>Ucircumflex.smcp</string>
 		<string>uni04AF</string>
 		<string>uni04AD</string>
 		<string>uni04AE</string>
@@ -6738,7 +6739,6 @@
 		<string>uni0162.smcp</string>
 		<string>Alphatonos.smcp</string>
 		<string>Yacute.smcp</string>
-		<string>atilde</string>
 		<string>uni1FCA</string>
 		<string>uni1FCC</string>
 		<string>uni1FCB</string>
@@ -6747,20 +6747,23 @@
 		<string>uni1FC4</string>
 		<string>uni1FC7</string>
 		<string>uni1FC6</string>
-		<string>uni1FC9</string>
 		<string>uni1FC8</string>
+		<string>Nu</string>
 		<string>Upsilondieresis</string>
 		<string>uni1E2D.ccmp</string>
-		<string>uni1EBB</string>
+		<string>uni1EBD</string>
+		<string>uni04DB</string>
 		<string>Ecircumflex.smcp</string>
 		<string>Udieresis</string>
 		<string>uni010A</string>
 		<string>uni010B</string>
 		<string>Alpha</string>
+		<string>Scircumflex</string>
+		<string>Ohungarumlaut.smcp</string>
 		<string>uni04B1</string>
 		<string>jcircumflex</string>
 		<string>uni0403.smcp</string>
-		<string>Utilde.smcp</string>
+		<string>uni04EE</string>
 		<string>Odieresis.smcp</string>
 		<string>uni1F09</string>
 		<string>uni1E0F</string>
@@ -6769,62 +6772,55 @@
 		<string>uni1E0C</string>
 		<string>uni1E0B</string>
 		<string>uni1E0A</string>
-		<string>uni041C.smcp</string>
+		<string>uni1F9E</string>
+		<string>uni1F9D</string>
+		<string>uni1F9C</string>
 		<string>uni1F9B</string>
 		<string>uni1F9A</string>
-		<string>uni1F99</string>
 		<string>uni1F98</string>
-		<string>uni1F97</string>
 		<string>uni1F96</string>
-		<string>uni1F94</string>
-		<string>uni1F90</string>
+		<string>uni1F95</string>
+		<string>uni1F93</string>
+		<string>uni1F92</string>
+		<string>uni1F91</string>
 		<string>cyrillicbreve</string>
 		<string>uni1E09</string>
 		<string>uni1E08</string>
-		<string>uni1E07</string>
-		<string>uni1E06</string>
+		<string>Aacute.unic</string>
 		<string>uni1E05</string>
 		<string>uni1E03</string>
 		<string>uni1E02</string>
 		<string>uni1E01</string>
 		<string>uni1E00</string>
 		<string>Oacute.smcp</string>
-		<string>Edieresis</string>
-		<string>Atilde.unic</string>
-		<string>Sacute.smcp</string>
 		<string>uni04FF</string>
 		<string>uni04FE</string>
 		<string>Ncommaaccent.unic</string>
 		<string>Ebreve</string>
+		<string>Omicron.smcp</string>
 		<string>uni0401.smcp</string>
-		<string>uni04F5</string>
-		<string>uni04F3</string>
+		<string>Ocircumflex.smcp</string>
 		<string>uni04F2</string>
 		<string>uni04F1</string>
 		<string>uni04F0</string>
 		<string>uni04F7</string>
 		<string>uni04F6</string>
 		<string>Edieresis.unic</string>
-		<string>uni04F4</string>
 		<string>uni04F9</string>
 		<string>uni04F8</string>
 		<string>Ograve</string>
-		<string>uni04D9</string>
 		<string>uni0445</string>
 		<string>uni0441</string>
-		<string>uni0440</string>
 		<string>uni0443</string>
 		<string>uni041E.smcp</string>
 		<string>Omacron.smcp</string>
-		<string>Omicron</string>
+		<string>Acircumflex.smcp</string>
 		<string>three.pnum</string>
-		<string>uni0406</string>
 		<string>adieresis</string>
+		<string>uni1F15</string>
 		<string>uni1F9F</string>
 		<string>aacute</string>
-		<string>eogonek</string>
 		<string>wcircumflex</string>
-		<string>Ohungarumlaut</string>
 		<string>uni1F37</string>
 		<string>uni1FB8</string>
 		<string>uni1FB9</string>
@@ -6835,17 +6831,21 @@
 		<string>uni1FB3</string>
 		<string>uni1FB0</string>
 		<string>uni1FB1</string>
+		<string>uni1E37</string>
+		<string>obreve</string>
 		<string>scaron</string>
 		<string>kcommaaccent</string>
 		<string>Egrave.unic</string>
-		<string>uni1F11</string>
+		<string>Alpha.smcp</string>
 		<string>Ebreve.smcp</string>
 		<string>uni0498.smcp</string>
 		<string>Nacute.smcp</string>
-		<string>uni1F10</string>
 		<string>Upsilondieresis.smcp</string>
 		<string>Ecaron.unic</string>
 		<string>Tbar.smcp</string>
+		<string>Lcommaaccent.smcp</string>
+		<string>Uhungarumlaut.unic</string>
+		<string>uni1E1E</string>
 		<string>uni1FBB</string>
 		<string>uni1FBC</string>
 		<string>uni1FBA</string>
@@ -6854,6 +6854,7 @@
 		<string>uni020B</string>
 		<string>Eacute.unic</string>
 		<string>Uhungarumlaut</string>
+		<string>uni1F8A</string>
 		<string>Epsilon</string>
 		<string>uni1F88</string>
 		<string>uni1F89</string>
@@ -6865,7 +6866,6 @@
 		<string>uni1F81</string>
 		<string>uni1F82</string>
 		<string>uni1F83</string>
-		<string>Eogonek</string>
 		<string>uni1E18</string>
 		<string>uni1E19</string>
 		<string>uni1E16</string>
@@ -6878,11 +6878,11 @@
 		<string>Icircumflex.smcp</string>
 		<string>chi</string>
 		<string>dcaron</string>
+		<string>uni1F19</string>
 		<string>Iotatonos</string>
+		<string>uni1EE7</string>
 		<string>uni1E6D</string>
-		<string>Lcommaaccent.smcp</string>
 		<string>uni1E1D</string>
-		<string>uni1E1E</string>
 		<string>uni1E1F</string>
 		<string>uni1E1A</string>
 		<string>uni1E1B</string>
@@ -6890,11 +6890,12 @@
 		<string>uni1F8D</string>
 		<string>uni1F8E</string>
 		<string>uni1F8F</string>
-		<string>uni1F8A</string>
 		<string>uni1F8B</string>
 		<string>uni1F8C</string>
+		<string>Eogonek</string>
 		<string>ebreve</string>
 		<string>uni1E69</string>
+		<string>uni1EBC</string>
 		<string>uni0407.smcp</string>
 		<string>uni1F72</string>
 		<string>uni045C</string>
@@ -6926,11 +6927,11 @@
 		<string>uni037A</string>
 		<string>uni1FE5</string>
 		<string>uni1FE4</string>
-		<string>ygrave</string>
+		<string>four.pnum</string>
 		<string>uni0511</string>
 		<string>agrave</string>
 		<string>uni0120</string>
-		<string>Nu</string>
+		<string>uni0121</string>
 		<string>Emacron.unic</string>
 		<string>Uogonek.unic</string>
 		<string>Ecaron</string>
@@ -6939,7 +6940,6 @@
 		<string>uni0455</string>
 		<string>uni03BC</string>
 		<string>Dcaron.smcp</string>
-		<string>uni0413.smcp</string>
 		<string>uni1F61</string>
 		<string>Kcommaaccent.smcp</string>
 		<string>uni1E2A</string>
@@ -6952,6 +6952,7 @@
 		<string>uni1E23</string>
 		<string>uni1E22</string>
 		<string>uni1E25</string>
+		<string>uni1E24</string>
 		<string>uni1E27</string>
 		<string>uni1E26</string>
 		<string>uni1E8F</string>
@@ -6959,6 +6960,7 @@
 		<string>eturn</string>
 		<string>Ccedilla</string>
 		<string>Aogonek.smcp</string>
+		<string>omegatonos</string>
 		<string>uni1EAD</string>
 		<string>uni1EAE</string>
 		<string>uni1EAF</string>
@@ -6968,98 +6970,94 @@
 		<string>uni1E04</string>
 		<string>tbar</string>
 		<string>uni04DE</string>
-		<string>uni04DD</string>
 		<string>uni04DF</string>
 		<string>uni04DA</string>
 		<string>uni04DC</string>
-		<string>uni04DB</string>
+		<string>itilde</string>
 		<string>ohungarumlaut</string>
-		<string>scedilla</string>
+		<string>uni1EEB</string>
 		<string>uni1F1D</string>
-		<string>uni04D5</string>
-		<string>uni1F1C</string>
+		<string>Eacute.smcp</string>
+		<string>uni04D4</string>
 		<string>uni04D7</string>
 		<string>uni04D6</string>
 		<string>uni04D1</string>
-		<string>uni04D0</string>
 		<string>uni04D3</string>
-		<string>uni1F1B</string>
+		<string>uni04D2</string>
 		<string>uni1EA8</string>
-		<string>uni1F1A</string>
+		<string>uni1EA9</string>
 		<string>uni1EA4</string>
 		<string>uni1EA5</string>
-		<string>uni1EA6</string>
 		<string>uni1EA7</string>
-		<string>uni1EA0</string>
 		<string>uni1EA1</string>
 		<string>uni1EA2</string>
-		<string>Oogonek.NAV</string>
+		<string>uni1EA3</string>
 		<string>Gcircumflex</string>
 		<string>ccedilla</string>
 		<string>Lcaron.smcp</string>
 		<string>Zacute</string>
+		<string>Wcircumflex</string>
+		<string>atilde</string>
 		<string>Ncaron</string>
 		<string>Nacute.unic</string>
 		<string>napostrophe</string>
-		<string>udieresis</string>
-		<string>uni1FD9</string>
+		<string>uni1FD8</string>
+		<string>Ldot.smcp</string>
 		<string>Abreve.smcp</string>
 		<string>uni1FD0</string>
 		<string>uni1FD1</string>
 		<string>uni1FD2</string>
-		<string>uni1FD3</string>
 		<string>uni1FD6</string>
 		<string>uni1FD7</string>
-		<string>uni029C</string>
+		<string>uni0412.smcp</string>
+		<string>uni0420.smcp</string>
+		<string>uni04ED</string>
 		<string>sacute</string>
-		<string>uni048C</string>
 		<string>yacute</string>
-		<string>uni1F15</string>
-		<string>uni1EE4</string>
-		<string>uni1FDB</string>
+		<string>Ccedilla.smcp</string>
+		<string>uni1FDA</string>
 		<string>uni1F12</string>
 		<string>Racute</string>
-		<string>uni1EE7</string>
+		<string>uni1F11</string>
+		<string>uni1F10</string>
 		<string>uni04BE.smcp</string>
 		<string>uni1FA1</string>
 		<string>Aacute</string>
 		<string>Aringacute.unic</string>
-		<string>uni1F19</string>
 		<string>uni1ECB.ccmp</string>
 		<string>uni04EE.smcp</string>
+		<string>uni00AD</string>
 		<string>Udieresis.unic</string>
+		<string>oslashacute</string>
 		<string>Amacron</string>
 		<string>uni1FEB</string>
 		<string>Oacute</string>
 		<string>Agrave.smcp</string>
 		<string>uni1E36</string>
-		<string>uni1E37</string>
 		<string>uni1E34</string>
-		<string>uni1E35</string>
 		<string>uni1E32</string>
 		<string>uni1E33</string>
 		<string>uni1E30</string>
-		<string>uni1E31</string>
 		<string>uni1E38</string>
 		<string>uni1E39</string>
 		<string>uni1FE8</string>
 		<string>eogonek.NAV</string>
+		<string>ecircumflex</string>
 		<string>uni1E88</string>
 		<string>Oogonek.smcp.NAV</string>
-		<string>Epsilontonos</string>
 		<string>uni1FE2</string>
+		<string>uni04F5</string>
 		<string>uni1FE0</string>
-		<string>uni1E24</string>
+		<string>uni037F.smcp</string>
 		<string>uni1FE6</string>
 		<string>Wacute.smcp</string>
-		<string>Beta.smcp</string>
+		<string>nbspace</string>
 		<string>uni040C</string>
 		<string>uni1E3F</string>
 		<string>uni1E3D</string>
 		<string>uni1E3E</string>
-		<string>uni1E3B</string>
 		<string>uni1E3C</string>
-		<string>uni1E3A</string>
+		<string>zacute</string>
 		<string>uni04E8</string>
 		<string>uni04E9</string>
 		<string>uni1F3D</string>
@@ -7068,7 +7066,6 @@
 		<string>uni04E6</string>
 		<string>uni04E7</string>
 		<string>uni04E4</string>
-		<string>uni04E5</string>
 		<string>uni1EB9</string>
 		<string>uni1EB8</string>
 		<string>Zcaron</string>
@@ -7079,32 +7076,32 @@
 		<string>uni1EB2</string>
 		<string>uni0410.smcp</string>
 		<string>uni1EB4</string>
-		<string>uni1EB7</string>
+		<string>Ucircumflex.smcp</string>
 		<string>uni1EB6</string>
 		<string>omicrontonos</string>
+		<string>uni04D9</string>
 		<string>Ycircumflex.smcp</string>
 		<string>uni1EBA</string>
-		<string>uni1EBC</string>
+		<string>Ecaron.smcp</string>
+		<string>uni1EBB</string>
 		<string>uni1EBE</string>
-		<string>uni1EBD</string>
 		<string>uni1EBF</string>
 		<string>ecaron</string>
 		<string>uni04EB</string>
 		<string>uni04EC</string>
-		<string>uni04EA</string>
+		<string>aringacute</string>
 		<string>uni04EF</string>
-		<string>uni04ED</string>
-		<string>uni04EE</string>
+		<string>Utilde.smcp</string>
+		<string>Atilde.unic</string>
 		<string>Omegatonos.smcp</string>
 		<string>Omicrontonos.smcp</string>
-		<string>Omicron.smcp</string>
-		<string>Wcircumflex</string>
-		<string>Eogonek.smcp</string>
+		<string>uni1E40</string>
 		<string>uni049F</string>
 		<string>uni049E</string>
 		<string>uni1EB5</string>
-		<string>uni01EC</string>
-		<string>Uhungarumlaut.unic</string>
+		<string>utilde</string>
+		<string>Imacron</string>
+		<string>uni1F0F</string>
 		<string>Amacron.smcp</string>
 		<string>uni0498</string>
 		<string>uni0499</string>
@@ -7113,37 +7110,40 @@
 		<string>Ibreve</string>
 		<string>Atilde.smcp</string>
 		<string>Gcommaaccent</string>
+		<string>uni0413.smcp</string>
 		<string>uni1ECB</string>
-		<string>uni2049</string>
-		<string>Ograve.smcp</string>
 		<string>uni1F0C</string>
 		<string>iogonek</string>
 		<string>ucaron</string>
 		<string>Uogonek.smcp</string>
 		<string>uni1E14</string>
+		<string>uni041F.smcp</string>
 		<string>uni1E4C</string>
 		<string>uni1E4B</string>
 		<string>uni1E4A</string>
 		<string>uni1E4F</string>
 		<string>uni1E4E</string>
-		<string>uni1E4D</string>
-		<string>uni01E0</string>
+		<string>ibreve</string>
+		<string>uni01E1</string>
+		<string>ubreve</string>
 		<string>uni1E15</string>
 		<string>uni1E43</string>
 		<string>uni1E42</string>
 		<string>uni1E41</string>
-		<string>uni1E40</string>
+		<string>Eogonek.smcp</string>
 		<string>uni1E47</string>
 		<string>uni1E46</string>
 		<string>uni1E45</string>
 		<string>uni1E44</string>
-		<string>Imacron</string>
+		<string>uni01EC</string>
 		<string>uni1E49</string>
-		<string>uni1E48</string>
+		<string>scedilla</string>
 		<string>uni01ED</string>
 		<string>Wgrave.smcp</string>
+		<string>Ograve.smcp</string>
 		<string>Nacute</string>
 		<string>uni1EE3</string>
+		<string>Ohungarumlaut</string>
 		<string>Chi.smcp</string>
 	</array>
 </dict>
