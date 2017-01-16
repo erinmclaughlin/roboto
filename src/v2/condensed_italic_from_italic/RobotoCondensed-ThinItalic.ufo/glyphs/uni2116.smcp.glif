@@ -40,18 +40,7 @@
       <point x="1087" y="659"/>
       <point x="1107" y="803" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="979" y="1165" type="line"/>
-      <point x="934" y="1165" type="line"/>
-      <point x="778" y="91" type="line"/>
-      <point x="283" y="1165" type="line"/>
-      <point x="239" y="1165" type="line"/>
-      <point x="71" y="0" type="line"/>
-      <point x="117" y="0" type="line"/>
-      <point x="273" y="1077" type="line"/>
-      <point x="768" y="0" type="line"/>
-      <point x="812" y="0" type="line"/>
-    </contour>
+    <component base="N.smcp"/>
   </outline>
   <lib>
     <dict>

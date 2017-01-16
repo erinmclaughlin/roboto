@@ -9,16 +9,7 @@
       <point x="197" y="579" type="line"/>
       <point x="495" y="579" type="line"/>
     </contour>
-    <contour>
-      <point x="636" y="1706" type="line"/>
-      <point x="242" y="1706" type="line"/>
-      <point x="-29" y="-349" type="line"/>
-      <point x="364" y="-349" type="line"/>
-      <point x="402" y="-104" type="line"/>
-      <point x="315" y="-104" type="line"/>
-      <point x="512" y="1460" type="line"/>
-      <point x="599" y="1460" type="line"/>
-    </contour>
+    <component base="bracketleft" xOffset="-4"/>
   </outline>
   <lib>
     <dict>

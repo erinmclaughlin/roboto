@@ -35,11 +35,6 @@
       <point x="801" y="0" type="line"/>
       <point x="991" y="0" type="line"/>
     </contour>
-    <contour>
-      <point x="490" y="1456" type="line"/>
-      <point x="295" y="1456" type="line"/>
-      <point x="82" y="0" type="line"/>
-      <point x="277" y="0" type="line"/>
-    </contour>
+    <component base="I" xOffset="16"/>
   </outline>
 </glyph>

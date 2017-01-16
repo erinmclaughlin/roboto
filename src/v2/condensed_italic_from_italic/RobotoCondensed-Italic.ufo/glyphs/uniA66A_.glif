@@ -35,34 +35,8 @@
       <point x="937" y="992"/>
       <point x="916" y="772" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="378" y="721" type="curve" smooth="yes"/>
-      <point x="378" y="656"/>
-      <point x="423" y="612"/>
-      <point x="482" y="614" type="curve" smooth="yes"/>
-      <point x="543" y="616"/>
-      <point x="585" y="661"/>
-      <point x="585" y="727" type="curve" smooth="yes"/>
-      <point x="585" y="792"/>
-      <point x="540" y="838"/>
-      <point x="480" y="836" type="curve" smooth="yes"/>
-      <point x="419" y="834"/>
-      <point x="378" y="787"/>
-    </contour>
-    <contour>
-      <point x="648" y="721" type="curve" smooth="yes"/>
-      <point x="648" y="656"/>
-      <point x="693" y="612"/>
-      <point x="753" y="614" type="curve" smooth="yes"/>
-      <point x="813" y="616"/>
-      <point x="855" y="661"/>
-      <point x="855" y="727" type="curve" smooth="yes"/>
-      <point x="855" y="792"/>
-      <point x="810" y="838"/>
-      <point x="750" y="836" type="curve" smooth="yes"/>
-      <point x="689" y="834"/>
-      <point x="648" y="787"/>
-    </contour>
+    <component base="dotnosp" xOffset="836" yOffset="-639"/>
+    <component base="dotnosp" xOffset="1105" yOffset="-639"/>
   </outline>
   <lib>
     <dict>

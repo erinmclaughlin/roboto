@@ -14,12 +14,7 @@
       <point x="402" y="1004" type="line"/>
       <point x="889" y="1004" type="line"/>
     </contour>
-    <contour>
-      <point x="571" y="663" type="line"/>
-      <point x="38" y="663" type="line"/>
-      <point x="11" y="503" type="line"/>
-      <point x="543" y="503" type="line"/>
-    </contour>
+    <component base="crossbar" xOffset="-137" yOffset="-144"/>
   </outline>
   <lib>
     <dict>

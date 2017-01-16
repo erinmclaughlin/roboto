@@ -4,6 +4,13 @@
   <unicode hex="01B6"/>
   <outline>
     <contour>
+      <point x="755" y="625" type="line"/>
+      <point x="141" y="625" type="line"/>
+      <point x="114" y="465" type="line"/>
+      <point x="728" y="465" type="line"/>
+    </contour>
+    <component base="z" xOffset="12"/>
+    <contour>
       <point x="544" y="1290" type="move" name="top"/>
     </contour>
     <contour>
@@ -11,32 +18,6 @@
     </contour>
     <contour>
       <point x="977" y="1290" type="move" name="top0315"/>
-    </contour>
-    <contour>
-      <point x="755" y="625" type="line"/>
-      <point x="141" y="625" type="line"/>
-      <point x="114" y="465" type="line"/>
-      <point x="728" y="465" type="line"/>
-    </contour>
-    <contour>
-      <point x="748" y="160" type="line"/>
-      <point x="116" y="160" type="line"/>
-      <point x="89" y="0" type="line"/>
-      <point x="721" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="839" y="934" type="line"/>
-      <point x="863" y="1082" type="line"/>
-      <point x="737" y="1082" type="line"/>
-      <point x="43" y="154" type="line"/>
-      <point x="17" y="0" type="line"/>
-      <point x="138" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="782" y="1082" type="line"/>
-      <point x="176" y="1082" type="line"/>
-      <point x="149" y="921" type="line"/>
-      <point x="755" y="921" type="line"/>
     </contour>
   </outline>
   <lib>

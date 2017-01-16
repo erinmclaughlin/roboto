@@ -21,13 +21,6 @@
       <point x="393" y="648" type="curve" smooth="yes"/>
       <point x="176" y="649" type="line"/>
     </contour>
-    <contour>
-      <point x="771" y="1082" type="line"/>
-      <point x="202" y="1082" type="line"/>
-      <point x="44" y="0" type="line"/>
-      <point x="230" y="0" type="line"/>
-      <point x="362" y="921" type="line"/>
-      <point x="743" y="921" type="line"/>
-    </contour>
+    <component base="uni0433" xOffset="-10"/>
   </outline>
 </glyph>

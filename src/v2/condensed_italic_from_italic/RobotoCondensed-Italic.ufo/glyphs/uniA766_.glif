@@ -29,12 +29,7 @@
       <point x="869" y="1157"/>
       <point x="659" y="1164" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="504" y="160" type="line"/>
-      <point x="-29" y="160" type="line"/>
-      <point x="-56" y="0" type="line"/>
-      <point x="477" y="0" type="line"/>
-    </contour>
+    <component base="crossbar" xOffset="-206" yOffset="-645"/>
   </outline>
   <lib>
     <dict>

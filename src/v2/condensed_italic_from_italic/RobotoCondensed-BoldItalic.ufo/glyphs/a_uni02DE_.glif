@@ -2,6 +2,8 @@
 <glyph name="a_uni02DE" format="1">
   <advance width="1316"/>
   <outline>
+    <component base="a"/>
+    <component base="uni02DE" xOffset="839"/>
     <contour>
       <point x="311" y="22" type="move" name="bottom"/>
     </contour>
@@ -26,8 +28,6 @@
     <contour>
       <point x="683" y="1290" type="move" name="rhalfring"/>
     </contour>
-    <component base="a"/>
-    <component base="uni02DE" xOffset="839"/>
   </outline>
   <lib>
     <dict>

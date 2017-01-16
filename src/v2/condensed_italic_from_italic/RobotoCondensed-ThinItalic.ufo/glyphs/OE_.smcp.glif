@@ -32,30 +32,7 @@
       <point x="767" y="1111"/>
       <point x="862" y="1111" type="curve"/>
     </contour>
-    <contour>
-      <point x="1289" y="54" type="line"/>
-      <point x="684" y="54" type="line"/>
-      <point x="678" y="0" type="line"/>
-      <point x="1283" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="872" y="1165" type="line"/>
-      <point x="827" y="1165" type="line"/>
-      <point x="659" y="0" type="line"/>
-      <point x="704" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1301" y="633" type="line"/>
-      <point x="768" y="633" type="line"/>
-      <point x="762" y="579" type="line"/>
-      <point x="1295" y="579" type="line"/>
-    </contour>
-    <contour>
-      <point x="1450" y="1165" type="line"/>
-      <point x="845" y="1165" type="line"/>
-      <point x="839" y="1110" type="line"/>
-      <point x="1443" y="1110" type="line"/>
-    </contour>
+    <component base="E.smcp" xOffset="587"/>
   </outline>
   <lib>
     <dict>

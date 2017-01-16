@@ -9,13 +9,6 @@
       <point x="952" y="1401" type="line"/>
       <point x="998" y="1401" type="line"/>
     </contour>
-    <contour>
-      <point x="1004" y="1456" type="line"/>
-      <point x="301" y="1456" type="line"/>
-      <point x="90" y="0" type="line"/>
-      <point x="135" y="0" type="line"/>
-      <point x="339" y="1402" type="line"/>
-      <point x="998" y="1402" type="line"/>
-    </contour>
+    <component base="Gamma"/>
   </outline>
 </glyph>

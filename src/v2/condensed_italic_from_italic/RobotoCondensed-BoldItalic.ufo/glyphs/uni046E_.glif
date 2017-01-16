@@ -55,16 +55,6 @@
       <point x="532" y="783"/>
       <point x="335" y="785" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="458" y="1928" type="line"/>
-      <point x="208" y="1935" type="line"/>
-      <point x="208" y="1914" type="line"/>
-      <point x="459" y="1634" type="line"/>
-      <point x="651" y="1634" type="line"/>
-      <point x="953" y="1911" type="line"/>
-      <point x="951" y="1933" type="line"/>
-      <point x="682" y="1927" type="line"/>
-      <point x="553" y="1795" type="line"/>
-    </contour>
+    <component base="caron" xOffset="15" yOffset="390"/>
   </outline>
 </glyph>

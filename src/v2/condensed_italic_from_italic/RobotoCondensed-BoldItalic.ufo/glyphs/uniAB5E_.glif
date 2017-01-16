@@ -25,12 +25,7 @@
       <point x="639" y="1298"/>
       <point x="643" y="1386" type="curve"/>
     </contour>
-    <contour>
-      <point x="592" y="1899" type="line"/>
-      <point x="381" y="1899" type="line"/>
-      <point x="197" y="655" type="line"/>
-      <point x="408" y="655" type="line"/>
-    </contour>
+    <component base="shindagesh" xOffset="94"/>
   </outline>
   <lib>
     <dict>

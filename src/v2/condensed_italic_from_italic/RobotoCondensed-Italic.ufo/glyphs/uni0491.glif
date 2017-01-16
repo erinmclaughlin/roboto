@@ -9,13 +9,6 @@
       <point x="560" y="921" type="line"/>
       <point x="747" y="921" type="line"/>
     </contour>
-    <contour>
-      <point x="772" y="1082" type="line"/>
-      <point x="203" y="1082" type="line"/>
-      <point x="45" y="0" type="line"/>
-      <point x="231" y="0" type="line"/>
-      <point x="363" y="921" type="line"/>
-      <point x="744" y="921" type="line"/>
-    </contour>
+    <component base="uni0433" xOffset="-10"/>
   </outline>
 </glyph>

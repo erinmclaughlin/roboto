@@ -26,18 +26,7 @@
       <point x="295" y="0" type="curve"/>
       <point x="302" y="53" type="line"/>
     </contour>
-    <contour>
-      <point x="495" y="1082" type="line"/>
-      <point x="450" y="1082" type="line"/>
-      <point x="294" y="0" type="line"/>
-      <point x="339" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="841" y="1082" type="line"/>
-      <point x="122" y="1082" type="line"/>
-      <point x="115" y="1027" type="line"/>
-      <point x="835" y="1027" type="line"/>
-    </contour>
+    <component base="uni0442"/>
   </outline>
   <lib>
     <dict>

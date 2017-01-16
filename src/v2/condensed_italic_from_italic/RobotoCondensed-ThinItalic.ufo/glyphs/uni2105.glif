@@ -65,11 +65,6 @@
       <point x="711" y="160"/>
       <point x="728" y="279" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="1040" y="1267" type="line"/>
-      <point x="1004" y="1299" type="line"/>
-      <point x="260" y="164" type="line"/>
-      <point x="296" y="132" type="line"/>
-    </contour>
+    <component base="fraction" xOffset="253"/>
   </outline>
 </glyph>

@@ -23,20 +23,7 @@
       <point x="469" y="1289" type="line"/>
       <point x="913" y="1289" type="line"/>
     </contour>
-    <contour>
-      <point x="942" y="1456" type="line"/>
-      <point x="728" y="1456" type="line"/>
-      <point x="993" y="744" type="line"/>
-      <point x="518" y="0" type="line"/>
-      <point x="758" y="0" type="line"/>
-      <point x="1085" y="556" type="line"/>
-      <point x="1273" y="0" type="line"/>
-      <point x="1490" y="0" type="line"/>
-      <point x="1220" y="724" type="line"/>
-      <point x="1686" y="1456" type="line"/>
-      <point x="1448" y="1456" type="line"/>
-      <point x="1127" y="909" type="line"/>
-    </contour>
+    <component base="X" xOffset="535"/>
   </outline>
   <lib>
     <dict>

@@ -15,28 +15,7 @@
       <point x="29" y="435" type="line"/>
       <point x="1027" y="435" type="line"/>
     </contour>
-    <contour>
-      <point x="677" y="1410" type="line"/>
-      <point x="691" y="1456" type="line"/>
-      <point x="647" y="1456" type="line"/>
-      <point x="-8" y="0" type="line"/>
-      <point x="43" y="0" type="line"/>
-      <point x="259" y="481" type="line"/>
-      <point x="260" y="484" type="line"/>
-    </contour>
-    <contour>
-      <point x="888" y="0" type="line"/>
-      <point x="935" y="0" type="line"/>
-      <point x="700" y="1456" type="line"/>
-      <point x="660" y="1456" type="line"/>
-      <point x="664" y="1411" type="line"/>
-    </contour>
-    <contour>
-      <point x="832" y="489" type="line"/>
-      <point x="237" y="489" type="line"/>
-      <point x="230" y="435" type="line"/>
-      <point x="826" y="435" type="line"/>
-    </contour>
+    <component base="A" xOffset="32"/>
   </outline>
   <lib>
     <dict>

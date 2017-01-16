@@ -9,23 +9,6 @@
       <point x="1143" y="1401" type="line"/>
       <point x="1803" y="1402" type="line"/>
     </contour>
-    <contour>
-      <point x="1029" y="776" type="line"/>
-      <point x="229" y="776" type="line"/>
-      <point x="223" y="722" type="line"/>
-      <point x="1023" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="352" y="1456" type="line"/>
-      <point x="307" y="1456" type="line"/>
-      <point x="96" y="0" type="line"/>
-      <point x="141" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1153" y="1456" type="line"/>
-      <point x="1108" y="1456" type="line"/>
-      <point x="898" y="0" type="line"/>
-      <point x="943" y="0" type="line"/>
-    </contour>
+    <component base="H"/>
   </outline>
 </glyph>

@@ -4,9 +4,9 @@
   <unicode hex="2C64"/>
   <outline>
     <contour>
-      <point x="111" y="142" type="line"/>
-      <point x="78" y="-89" type="line" smooth="yes"/>
-      <point x="57" y="-244"/>
+      <point x="113" y="142" type="line"/>
+      <point x="81" y="-89" type="line" smooth="yes"/>
+      <point x="60" y="-244"/>
       <point x="62" y="-437"/>
       <point x="231" y="-437" type="curve" smooth="yes"/>
       <point x="263" y="-437"/>
@@ -17,40 +17,11 @@
       <point x="261" y="-383"/>
       <point x="232" y="-382" type="curve" smooth="yes"/>
       <point x="92" y="-382"/>
-      <point x="106" y="-209"/>
-      <point x="123" y="-89" type="curve" smooth="yes"/>
-      <point x="157" y="142" type="line"/>
+      <point x="109" y="-209"/>
+      <point x="126" y="-89" type="curve" smooth="yes"/>
+      <point x="158" y="142" type="line"/>
     </contour>
-    <contour>
-      <point x="303" y="1456" type="line"/>
-      <point x="92" y="0" type="line"/>
-      <point x="137" y="0" type="line"/>
-      <point x="341" y="1402" type="line"/>
-      <point x="678" y="1402" type="line" smooth="yes"/>
-      <point x="863" y="1399"/>
-      <point x="1002" y="1270"/>
-      <point x="965" y="1036" type="curve" smooth="yes"/>
-      <point x="933" y="827"/>
-      <point x="781" y="681"/>
-      <point x="604" y="677" type="curve" smooth="yes"/>
-      <point x="198" y="677" type="line"/>
-      <point x="193" y="623" type="line"/>
-      <point x="651" y="623" type="line"/>
-      <point x="678" y="636" type="line"/>
-      <point x="836" y="669"/>
-      <point x="981" y="820"/>
-      <point x="1011" y="1036" type="curve" smooth="yes"/>
-      <point x="1048" y="1301"/>
-      <point x="888" y="1453"/>
-      <point x="678" y="1456" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="864" y="0" type="line"/>
-      <point x="910" y="0" type="line"/>
-      <point x="912" y="14" type="line"/>
-      <point x="683" y="645" type="line"/>
-      <point x="632" y="643" type="line"/>
-    </contour>
+    <component base="R" xOffset="1"/>
   </outline>
   <lib>
     <dict>

@@ -9,12 +9,7 @@
       <point x="295" y="668" type="line"/>
       <point x="270" y="518" type="line"/>
     </contour>
-    <contour>
-      <point x="417" y="1456" type="line"/>
-      <point x="269" y="1456" type="line"/>
-      <point x="42" y="-270" type="line"/>
-      <point x="190" y="-270" type="line"/>
-    </contour>
+    <component base="bar" xOffset="20"/>
   </outline>
   <lib>
     <dict>

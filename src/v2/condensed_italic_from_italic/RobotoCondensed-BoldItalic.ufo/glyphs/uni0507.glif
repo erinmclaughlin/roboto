@@ -48,17 +48,6 @@
       <point x="601" y="514"/>
       <point x="404" y="514" type="curve"/>
     </contour>
-    <contour>
-      <point x="955" y="252" type="line"/>
-      <point x="708" y="252" type="line"/>
-      <point x="671" y="19" type="line" smooth="yes"/>
-      <point x="649" y="-110"/>
-      <point x="583" y="-201"/>
-      <point x="535" y="-313" type="curve"/>
-      <point x="691" y="-393" type="line"/>
-      <point x="813" y="-286"/>
-      <point x="900" y="-133"/>
-      <point x="923" y="39" type="curve" smooth="yes"/>
-    </contour>
+    <component base="comma" xOffset="631" yOffset="-1"/>
   </outline>
 </glyph>

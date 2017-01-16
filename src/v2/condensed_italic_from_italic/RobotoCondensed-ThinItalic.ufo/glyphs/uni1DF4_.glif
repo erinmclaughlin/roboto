@@ -4,9 +4,6 @@
   <unicode hex="1DF4"/>
   <outline>
     <contour>
-      <point x="-356" y="1170" type="move" name="_marktop"/>
-    </contour>
-    <contour>
       <point x="-355" y="1928" type="curve" smooth="yes"/>
       <point x="-357" y="1910"/>
       <point x="-345" y="1893"/>
@@ -34,31 +31,9 @@
       <point x="-174" y="1961"/>
       <point x="-190" y="1943"/>
     </contour>
+    <component base="uni0367"/>
     <contour>
-      <point x="-203" y="1329" type="line"/>
-      <point x="-203" y="1293" type="line"/>
-      <point x="-220" y="1202" type="line"/>
-      <point x="-187" y="1202" type="line"/>
-      <point x="-108" y="1754" type="line"/>
-      <point x="-141" y="1754" type="line"/>
-    </contour>
-    <contour>
-      <point x="-184" y="1432" type="line"/>
-      <point x="-198" y="1317"/>
-      <point x="-259" y="1232"/>
-      <point x="-366" y="1232" type="curve" smooth="yes"/>
-      <point x="-468" y="1231"/>
-      <point x="-459" y="1348"/>
-      <point x="-447" y="1438" type="curve"/>
-      <point x="-401" y="1754" type="line"/>
-      <point x="-434" y="1754" type="line"/>
-      <point x="-480" y="1439" type="line"/>
-      <point x="-495" y="1321"/>
-      <point x="-488" y="1190"/>
-      <point x="-363" y="1191" type="curve" smooth="yes"/>
-      <point x="-242" y="1193"/>
-      <point x="-177" y="1288"/>
-      <point x="-154" y="1428" type="curve"/>
+      <point x="-356" y="1170" type="move" name="_marktop"/>
     </contour>
   </outline>
   <lib>

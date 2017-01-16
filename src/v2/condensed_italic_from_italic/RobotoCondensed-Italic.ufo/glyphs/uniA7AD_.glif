@@ -29,18 +29,7 @@
       <point x="365" y="438" type="line"/>
       <point x="554" y="438" type="line"/>
     </contour>
-    <contour>
-      <point x="1068" y="166" type="line"/>
-      <point x="487" y="166" type="line"/>
-      <point x="459" y="0" type="line"/>
-      <point x="1040" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="705" y="1456" type="line"/>
-      <point x="511" y="1456" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="492" y="0" type="line"/>
-    </contour>
+    <component base="L" xOffset="236"/>
   </outline>
   <lib>
     <dict>

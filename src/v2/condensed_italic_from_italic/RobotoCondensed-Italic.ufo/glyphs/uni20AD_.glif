@@ -9,26 +9,7 @@
       <point x="48" y="655" type="line"/>
       <point x="1213" y="655" type="line"/>
     </contour>
-    <contour>
-      <point x="554" y="1456" type="line"/>
-      <point x="360" y="1456" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="342" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1285" y="1456" type="line"/>
-      <point x="1030" y="1456" type="line"/>
-      <point x="553" y="819" type="line"/>
-      <point x="353" y="819" type="line"/>
-      <point x="359" y="650" type="line"/>
-      <point x="658" y="650" type="line"/>
-    </contour>
-    <contour>
-      <point x="869" y="0" type="line"/>
-      <point x="1090" y="0" type="line"/>
-      <point x="680" y="857" type="line"/>
-      <point x="550" y="688" type="line"/>
-    </contour>
+    <component base="K.alt" xOffset="82"/>
   </outline>
   <lib>
     <dict>

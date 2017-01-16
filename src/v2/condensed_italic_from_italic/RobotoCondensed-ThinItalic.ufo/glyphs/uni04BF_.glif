@@ -3,10 +3,10 @@
   <advance width="1029"/>
   <unicode hex="04BF"/>
   <outline>
+    <component base="uni04BD"/>
+    <component base="cyrillictic" xOffset="382" yOffset="-70"/>
     <contour>
       <point x="495" y="0" type="move" name="bottom"/>
     </contour>
-    <component base="uni04BD"/>
-    <component base="cyrillictic" xOffset="382" yOffset="-70"/>
   </outline>
 </glyph>

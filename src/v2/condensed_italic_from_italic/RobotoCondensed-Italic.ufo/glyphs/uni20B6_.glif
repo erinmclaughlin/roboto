@@ -27,12 +27,7 @@
       <point x="653" y="297" type="curve" smooth="yes"/>
       <point x="800" y="1342" type="line"/>
     </contour>
-    <contour>
-      <point x="491" y="1536" type="line"/>
-      <point x="304" y="1536" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="267" y="0" type="line"/>
-    </contour>
+    <component base="l" xOffset="27"/>
   </outline>
   <lib>
     <dict>

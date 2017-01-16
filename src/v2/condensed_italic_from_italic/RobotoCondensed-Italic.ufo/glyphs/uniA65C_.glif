@@ -35,12 +35,7 @@
       <point x="590" y="376" type="line"/>
       <point x="1281" y="376" type="line"/>
     </contour>
-    <contour>
-      <point x="470" y="1456" type="line"/>
-      <point x="275" y="1456" type="line"/>
-      <point x="63" y="0" type="line"/>
-      <point x="257" y="0" type="line"/>
-    </contour>
+    <component base="I" xOffset="-4"/>
   </outline>
   <lib>
     <dict>

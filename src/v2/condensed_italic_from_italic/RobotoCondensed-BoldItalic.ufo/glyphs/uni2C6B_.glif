@@ -9,26 +9,7 @@
       <point x="547" y="-358" type="line"/>
       <point x="865" y="-358" type="line"/>
     </contour>
-    <contour>
-      <point x="963" y="270" type="line"/>
-      <point x="105" y="270" type="line"/>
-      <point x="59" y="0" type="line"/>
-      <point x="917" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1092" y="1259" type="line"/>
-      <point x="1125" y="1456" type="line"/>
-      <point x="907" y="1456" type="line"/>
-      <point x="18" y="201" type="line"/>
-      <point x="-16" y="0" type="line"/>
-      <point x="211" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1023" y="1456" type="line"/>
-      <point x="187" y="1456" type="line"/>
-      <point x="141" y="1185" type="line"/>
-      <point x="976" y="1185" type="line"/>
-    </contour>
+    <component base="Z"/>
   </outline>
   <lib>
     <dict>

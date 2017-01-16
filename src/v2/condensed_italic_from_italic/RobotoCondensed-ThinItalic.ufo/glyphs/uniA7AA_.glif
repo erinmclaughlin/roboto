@@ -21,24 +21,7 @@
       <point x="434" y="1402" type="curve" smooth="yes"/>
       <point x="463" y="1402" type="line"/>
     </contour>
-    <contour>
-      <point x="1160" y="776" type="line"/>
-      <point x="360" y="776" type="line"/>
-      <point x="354" y="722" type="line"/>
-      <point x="1154" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="483" y="1456" type="line"/>
-      <point x="438" y="1456" type="line"/>
-      <point x="227" y="0" type="line"/>
-      <point x="272" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="1285" y="1456" type="line"/>
-      <point x="1239" y="1456" type="line"/>
-      <point x="1029" y="0" type="line"/>
-      <point x="1074" y="0" type="line"/>
-    </contour>
+    <component base="H" xOffset="131"/>
   </outline>
   <lib>
     <dict>

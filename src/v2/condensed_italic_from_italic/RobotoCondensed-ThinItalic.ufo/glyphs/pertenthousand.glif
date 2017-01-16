@@ -131,12 +131,7 @@
       <point x="1427" y="160"/>
       <point x="1444" y="279" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="1002" y="1267" type="line"/>
-      <point x="966" y="1299" type="line"/>
-      <point x="223" y="164" type="line"/>
-      <point x="258" y="132" type="line"/>
-    </contour>
+    <component base="fraction" xOffset="212"/>
   </outline>
   <lib>
     <dict>

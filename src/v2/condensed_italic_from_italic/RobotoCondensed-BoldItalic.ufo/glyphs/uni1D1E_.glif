@@ -31,31 +31,7 @@
       <point x="130" y="705"/>
       <point x="175" y="625"/>
     </contour>
-    <contour>
-      <point x="1137" y="690" type="line"/>
-      <point x="1340" y="728" type="line"/>
-      <point x="1390" y="1013" type="line"/>
-      <point x="507" y="1013" type="line"/>
-      <point x="451" y="690" type="line"/>
-    </contour>
-    <contour>
-      <point x="925" y="720" type="line"/>
-      <point x="1059" y="717"/>
-      <point x="1106" y="674"/>
-      <point x="1087" y="521" type="curve" smooth="yes"/>
-      <point x="1075" y="411"/>
-      <point x="1013" y="372"/>
-      <point x="945" y="371" type="curve" smooth="yes"/>
-      <point x="416" y="372" type="line"/>
-      <point x="361" y="50" type="line"/>
-      <point x="926" y="49" type="line" smooth="yes"/>
-      <point x="1130" y="48"/>
-      <point x="1307" y="153"/>
-      <point x="1313" y="419" type="curve" smooth="yes"/>
-      <point x="1320" y="693"/>
-      <point x="1166" y="849"/>
-      <point x="921" y="832" type="curve"/>
-    </contour>
+    <component base="uni1D1D" xOffset="341"/>
   </outline>
   <lib>
     <dict>

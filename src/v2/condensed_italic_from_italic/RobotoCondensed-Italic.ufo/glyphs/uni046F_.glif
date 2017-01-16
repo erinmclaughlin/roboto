@@ -4,12 +4,6 @@
   <unicode hex="046F"/>
   <outline>
     <contour>
-      <point x="573" y="1740" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="987" y="1740" type="move" name="top0315"/>
-    </contour>
-    <contour>
       <point x="190" y="1082" type="line"/>
       <point x="163" y="921" type="line"/>
       <point x="426" y="920" type="line" smooth="yes"/>
@@ -61,16 +55,12 @@
       <point x="484" y="574"/>
       <point x="343" y="577" type="curve" smooth="yes"/>
     </contour>
+    <component base="caron" xOffset="9" yOffset="47"/>
     <contour>
-      <point x="430" y="1585" type="line"/>
-      <point x="278" y="1588" type="line"/>
-      <point x="278" y="1573" type="line"/>
-      <point x="459" y="1299" type="line"/>
-      <point x="567" y="1299" type="line"/>
-      <point x="816" y="1573" type="line"/>
-      <point x="815" y="1588" type="line"/>
-      <point x="652" y="1584" type="line"/>
-      <point x="516" y="1420" type="line"/>
+      <point x="573" y="1740" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="987" y="1740" type="move" name="top0315"/>
     </contour>
   </outline>
 </glyph>

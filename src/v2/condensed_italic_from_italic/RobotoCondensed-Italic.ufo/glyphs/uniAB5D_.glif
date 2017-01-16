@@ -43,12 +43,7 @@
       <point x="270" y="1304"/>
       <point x="286" y="1360"/>
     </contour>
-    <contour>
-      <point x="589" y="1805" type="line"/>
-      <point x="419" y="1805" type="line"/>
-      <point x="250" y="651" type="line"/>
-      <point x="420" y="651" type="line"/>
-    </contour>
+    <component base="shindagesh" xOffset="145"/>
   </outline>
   <lib>
     <dict>

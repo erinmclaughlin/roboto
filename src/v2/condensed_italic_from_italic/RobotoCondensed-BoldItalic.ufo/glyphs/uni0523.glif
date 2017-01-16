@@ -39,24 +39,7 @@
       <point x="1324" y="-14" type="curve" smooth="yes"/>
       <point x="1365" y="282" type="line"/>
     </contour>
-    <contour>
-      <point x="711" y="660" type="line"/>
-      <point x="294" y="660" type="line"/>
-      <point x="249" y="401" type="line"/>
-      <point x="667" y="401" type="line"/>
-    </contour>
-    <contour>
-      <point x="462" y="1082" type="line"/>
-      <point x="156" y="1082" type="line"/>
-      <point x="-2" y="0" type="line"/>
-      <point x="304" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="969" y="1082" type="line"/>
-      <point x="662" y="1082" type="line"/>
-      <point x="504" y="0" type="line"/>
-      <point x="811" y="0" type="line"/>
-    </contour>
+    <component base="uni043D"/>
   </outline>
   <lib>
     <dict>

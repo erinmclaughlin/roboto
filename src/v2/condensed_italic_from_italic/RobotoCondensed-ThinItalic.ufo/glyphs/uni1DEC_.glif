@@ -4,9 +4,6 @@
   <unicode hex="1DEC"/>
   <outline>
     <contour>
-      <point x="-355" y="1170" type="move" name="_marktop"/>
-    </contour>
-    <contour>
       <point x="-169" y="1708" type="line"/>
       <point x="-181" y="1675"/>
       <point x="-196" y="1639"/>
@@ -50,11 +47,9 @@
       <point x="-171" y="1554"/>
       <point x="-159" y="1602" type="curve"/>
     </contour>
+    <component base="uni1DDD"/>
     <contour>
-      <point x="-252" y="1991" type="line"/>
-      <point x="-366" y="1202" type="line"/>
-      <point x="-332" y="1202" type="line"/>
-      <point x="-218" y="1991" type="line"/>
+      <point x="-355" y="1170" type="move" name="_marktop"/>
     </contour>
   </outline>
   <lib>

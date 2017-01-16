@@ -4,21 +4,6 @@
   <unicode hex="0152"/>
   <outline>
     <contour>
-      <point x="940" y="1600" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="709" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="1778" y="1600" type="move" name="top_dd"/>
-    </contour>
-    <contour>
-      <point x="1486" y="-407" type="move" name="bottom_dd"/>
-    </contour>
-    <contour>
-      <point x="1777" y="1600" type="move" name="top0315"/>
-    </contour>
-    <contour>
       <point x="679" y="1478" type="curve" smooth="yes"/>
       <point x="382" y="1480"/>
       <point x="182" y="1210"/>
@@ -48,29 +33,21 @@
       <point x="837" y="1467"/>
       <point x="758" y="1478"/>
     </contour>
+    <component base="E" xOffset="574"/>
     <contour>
-      <point x="1429" y="166" type="line"/>
-      <point x="825" y="166" type="line"/>
-      <point x="797" y="0" type="line"/>
-      <point x="1401" y="0" type="line"/>
+      <point x="940" y="1600" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1043" y="1456" type="line"/>
-      <point x="849" y="1456" type="line"/>
-      <point x="636" y="0" type="line"/>
-      <point x="830" y="0" type="line"/>
+      <point x="709" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="1442" y="835" type="line"/>
-      <point x="921" y="835" type="line"/>
-      <point x="893" y="669" type="line"/>
-      <point x="1413" y="669" type="line"/>
+      <point x="1778" y="1600" type="move" name="top_dd"/>
     </contour>
     <contour>
-      <point x="1603" y="1456" type="line"/>
-      <point x="1010" y="1456" type="line"/>
-      <point x="981" y="1289" type="line"/>
-      <point x="1574" y="1289" type="line"/>
+      <point x="1486" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1777" y="1600" type="move" name="top0315"/>
     </contour>
   </outline>
   <lib>

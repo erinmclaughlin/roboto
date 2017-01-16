@@ -11,20 +11,7 @@
       <point x="66" y="-350" type="line"/>
       <point x="113" y="-350" type="line"/>
     </contour>
-    <contour>
-      <point x="473" y="142" type="line"/>
-      <point x="417" y="0" type="line"/>
-      <point x="461" y="0" type="line"/>
-      <point x="1094" y="1455" type="line"/>
-      <point x="1044" y="1455" type="line"/>
-    </contour>
-    <contour>
-      <point x="200" y="1457" type="line"/>
-      <point x="152" y="1457" type="line"/>
-      <point x="407" y="0" type="line"/>
-      <point x="448" y="0" type="line"/>
-      <point x="428" y="138" type="line"/>
-    </contour>
+    <component base="V" xOffset="-10"/>
   </outline>
   <lib>
     <dict>
