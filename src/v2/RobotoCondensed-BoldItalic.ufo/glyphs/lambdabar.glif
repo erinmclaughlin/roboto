@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambdabar" format="1">
+  <advance width="951"/>
+  <unicode hex="019B"/>
+  <outline>
+    <contour>
+      <point x="781" y="1371" type="line"/>
+      <point x="252" y="1184" type="line"/>
+      <point x="216" y="969" type="line"/>
+      <point x="745" y="1156" type="line"/>
+    </contour>
+    <component base="lambda"/>
+    <contour>
+      <point x="1048" y="1600" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

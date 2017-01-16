@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB30" format="1">
+  <advance width="1099"/>
+  <unicode hex="AB30"/>
+  <outline>
+    <contour>
+      <point x="1058" y="647" type="line"/>
+      <point x="61" y="647" type="line"/>
+      <point x="29" y="456" type="line"/>
+      <point x="1026" y="456" type="line"/>
+    </contour>
+    <component base="alpha" xOffset="81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

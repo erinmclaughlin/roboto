@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nrthook" format="1">
+  <advance width="1116"/>
+  <unicode hex="0273"/>
+  <outline>
+    <contour>
+      <point x="539" y="216" type="line"/>
+      <point x="499" y="-77" type="line"/>
+      <point x="483" y="-316"/>
+      <point x="622" y="-433"/>
+      <point x="817" y="-436" type="curve" smooth="yes"/>
+      <point x="863" y="-436"/>
+      <point x="910" y="-433"/>
+      <point x="956" y="-423" type="curve"/>
+      <point x="973" y="-203" type="line"/>
+      <point x="950" y="-207"/>
+      <point x="928" y="-210"/>
+      <point x="906" y="-209" type="curve" smooth="yes"/>
+      <point x="848" y="-207"/>
+      <point x="798" y="-168"/>
+      <point x="805" y="-80" type="curve"/>
+      <point x="846" y="216" type="line"/>
+    </contour>
+    <component base="n" xOffset="5"/>
+    <contour>
+      <point x="590" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="338" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1197" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

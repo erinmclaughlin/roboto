@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="1172"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="1192" y="1081" type="line"/>
+      <point x="105" y="1081" type="line"/>
+      <point x="99" y="1028" type="line"/>
+      <point x="1186" y="1028" type="line"/>
+    </contour>
+    <component base="H" xOffset="-33"/>
+    <contour>
+      <point x="726" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="493" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1299" y="1612" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

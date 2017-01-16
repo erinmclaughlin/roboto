@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0472" format="1">
+  <advance width="1183"/>
+  <unicode hex="0472"/>
+  <outline>
+    <contour>
+      <point x="950" y="798" type="line"/>
+      <point x="297" y="798" type="line"/>
+      <point x="270" y="638" type="line"/>
+      <point x="922" y="638" type="line"/>
+    </contour>
+    <component base="O" xOffset="-17"/>
+    <contour>
+      <point x="754" y="1607" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1310" y="1607" type="move" name="top0315"/>
+    </contour>
+  </outline>
+</glyph>

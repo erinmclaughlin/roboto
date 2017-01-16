@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="953"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="1032" y="1335" type="line"/>
+      <point x="553" y="1335" type="line"/>
+      <point x="547" y="1281" type="line"/>
+      <point x="1026" y="1281" type="line"/>
+    </contour>
+    <component base="d"/>
+    <contour>
+      <point x="1054" y="1536" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="419" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="604" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1079" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="787" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="419" y="0" type="move" name="markbottom"/>
+    </contour>
+    <contour>
+      <point x="1080" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="787" y="1307" type="move" name="parenthesses.w2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.779</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
