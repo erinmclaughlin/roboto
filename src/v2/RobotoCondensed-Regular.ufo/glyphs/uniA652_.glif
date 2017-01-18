@@ -9,8 +9,8 @@
       <point x="221" y="1071" type="line"/>
       <point x="969" y="1071" type="line"/>
     </contour>
-    <component base="uni042C" xOffset="330"/>
     <component base="I" xOffset="-3"/>
+    <component base="uni042C" xOffset="330"/>
   </outline>
   <lib>
     <dict>

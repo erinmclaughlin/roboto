@@ -9,7 +9,7 @@
       <point x="188" y="534" type="line"/>
       <point x="944" y="534" type="line"/>
     </contour>
-    <component base="dotlessi"/>
     <component base="c" xOffset="370"/>
+    <component base="dotlessi"/>
   </outline>
 </glyph>
