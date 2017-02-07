@@ -191,9 +191,9 @@
 			<key>magnetic</key>
 			<integer>5</integer>
 			<key>x</key>
-			<integer>1441</integer>
+			<real>1056.0</real>
 			<key>y</key>
-			<integer>-437</integer>
+			<real>0.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -271,6 +271,7 @@
 				<string>quotedbl</string>
 				<string>numbersign</string>
 				<string>dollar</string>
+				<string>percent</string>
 				<string>ampersand</string>
 				<string>quotesingle</string>
 				<string>parenleft</string>
@@ -447,7 +448,7 @@
 				<string>alpha</string>
 				<string>beta</string>
 				<string>gamma</string>
-				<string>delta.alt</string>
+				<string>delta</string>
 				<string>epsilon</string>
 				<string>zeta</string>
 				<string>eta</string>
@@ -517,7 +518,6 @@
 				<string>uni044F</string>
 				<string>uni0452</string>
 				<string>uni0454</string>
-				<string>uni0459</string>
 				<string>uni045A</string>
 				<string>uni045B</string>
 				<string>uni045F</string>
@@ -675,8 +675,8 @@
 				<string>circumflexhookcomb</string>
 				<string>circumflexgravecomb</string>
 				<string>circumflexacutecomb</string>
-				<string>brevegravecomb</string>
 				<string>commaaccentrotate</string>
+				<string>brevegravecomb</string>
 				<string>A.smcp</string>
 				<string>B.smcp</string>
 				<string>C.smcp</string>
@@ -703,6 +703,7 @@
 				<string>X.smcp</string>
 				<string>Y.smcp</string>
 				<string>Z.smcp</string>
+				<string>crossbar</string>
 				<string>zero.smcp</string>
 				<string>one.smcp</string>
 				<string>two.smcp</string>
@@ -713,6 +714,7 @@
 				<string>seven.smcp</string>
 				<string>eight.smcp</string>
 				<string>nine.smcp</string>
+				<string>dasiaoxia</string>
 				<string>zero.sup</string>
 				<string>one.sup</string>
 				<string>two.sup</string>
@@ -723,9 +725,7 @@
 				<string>seven.sup</string>
 				<string>eight.sup</string>
 				<string>nine.sup</string>
-				<string>crossbar</string>
 				<string>ringacute</string>
-				<string>dasiaoxia</string>
 				<string>uni0002</string>
 				<string>uni0009</string>
 				<string>uni048D</string>
@@ -735,7 +735,7 @@
 				<string>uni0424</string>
 				<string>uni0463</string>
 				<string>alpha.alt</string>
-				<string>delta</string>
+				<string>delta.alt</string>
 				<string>R.alt</string>
 				<string>K.alt</string>
 				<string>k.alt</string>
@@ -746,10 +746,10 @@
 				<string>seven.alt</string>
 				<string>G.alt</string>
 				<string>C.ss06</string>
-				<string>G.ss06</string>
-				<string>D.ss06</string>
 				<string>O.ss06</string>
+				<string>G.ss06</string>
 				<string>Q.ss06</string>
+				<string>D.ss06</string>
 				<string>one.onum</string>
 				<string>two.onum</string>
 				<string>three.onum</string>
@@ -759,6 +759,7 @@
 				<string>nine.onum</string>
 				<string>zero.onum</string>
 				<string>seven.pnum</string>
+				<string>uni0459</string>
 				<string>b.ss06</string>
 				<string>c.ss06</string>
 				<string>d.ss06</string>
@@ -2246,6 +2247,7 @@
 				<string>dieresisgravecomb</string>
 				<string>dotmacroncomb</string>
 				<string>tildeacutecomb</string>
+				<string>tildedieresiscomb</string>
 				<string>macrongravecomb</string>
 				<string>macronacutecomb</string>
 				<string>macrondieresiscomb</string>
@@ -2260,7 +2262,6 @@
 				<string>uni0490.smcp</string>
 				<string>uniA7B0</string>
 				<string>uniA7B1</string>
-				<string>tildedieresiscomb</string>
 				<string>Chook.cn</string>
 				<string>chook.cn</string>
 				<string>Ghook.cn</string>
@@ -2338,7 +2339,6 @@
 				<string>eight.tnum</string>
 				<string>one.tnum</string>
 				<string>uni006A.ccmp</string>
-				<string>uni1D96.ccmp</string>
 				<string>uni0249.ccmp</string>
 				<string>uni0268.ccmp</string>
 				<string>uni0458.ccmp</string>
@@ -2348,8 +2348,9 @@
 				<string>uni1DA4.ccmp</string>
 				<string>uni012F.ccmp</string>
 				<string>uni0456.ccmp</string>
-				<string>uni1D62.ccmp</string>
 				<string>uni03F3.ccmp</string>
+				<string>uni1D96.ccmp</string>
+				<string>uni1D62.ccmp</string>
 				<string>uni1DA8.ccmp</string>
 				<string>uni02B2.ccmp</string>
 				<string>uni2C7C.ccmp</string>
@@ -2563,16 +2564,16 @@
 				<string>bbar_uni1ABE</string>
 				<string>rrthook_uni1ABE</string>
 				<string>ampersand.smcp</string>
-				<string>Lslash.smcp</string>
 				<string>AE.smcp</string>
 				<string>Thorn.smcp</string>
+				<string>Lslash.smcp</string>
 				<string>Oslash.smcp</string>
 				<string>Hbar.smcp</string>
 				<string>Eng.smcp</string>
-				<string>acutedotcomb.lc</string>
 				<string>tildedieresiscomb.lc</string>
 				<string>dieresisacutecomb.lc</string>
 				<string>carondotcomb.lc</string>
+				<string>acutedotcomb.lc</string>
 				<string>dotmacroncomb.lc</string>
 				<string>macrongravecomb.lc</string>
 				<string>dieresismacroncomb.lc</string>
@@ -3701,7 +3702,6 @@
 				<string>uni1EE3</string>
 				<string>Ohungarumlaut</string>
 				<string>Chi.smcp</string>
-				<string>percent</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -3714,6 +3714,7 @@
 		<string>quotedbl</string>
 		<string>numbersign</string>
 		<string>dollar</string>
+		<string>percent</string>
 		<string>ampersand</string>
 		<string>quotesingle</string>
 		<string>parenleft</string>
@@ -3890,7 +3891,7 @@
 		<string>alpha</string>
 		<string>beta</string>
 		<string>gamma</string>
-		<string>delta.alt</string>
+		<string>delta</string>
 		<string>epsilon</string>
 		<string>zeta</string>
 		<string>eta</string>
@@ -3960,7 +3961,6 @@
 		<string>uni044F</string>
 		<string>uni0452</string>
 		<string>uni0454</string>
-		<string>uni0459</string>
 		<string>uni045A</string>
 		<string>uni045B</string>
 		<string>uni045F</string>
@@ -4118,8 +4118,8 @@
 		<string>circumflexhookcomb</string>
 		<string>circumflexgravecomb</string>
 		<string>circumflexacutecomb</string>
-		<string>brevegravecomb</string>
 		<string>commaaccentrotate</string>
+		<string>brevegravecomb</string>
 		<string>A.smcp</string>
 		<string>B.smcp</string>
 		<string>C.smcp</string>
@@ -4146,6 +4146,7 @@
 		<string>X.smcp</string>
 		<string>Y.smcp</string>
 		<string>Z.smcp</string>
+		<string>crossbar</string>
 		<string>zero.smcp</string>
 		<string>one.smcp</string>
 		<string>two.smcp</string>
@@ -4156,6 +4157,7 @@
 		<string>seven.smcp</string>
 		<string>eight.smcp</string>
 		<string>nine.smcp</string>
+		<string>dasiaoxia</string>
 		<string>zero.sup</string>
 		<string>one.sup</string>
 		<string>two.sup</string>
@@ -4166,9 +4168,7 @@
 		<string>seven.sup</string>
 		<string>eight.sup</string>
 		<string>nine.sup</string>
-		<string>crossbar</string>
 		<string>ringacute</string>
-		<string>dasiaoxia</string>
 		<string>uni0002</string>
 		<string>uni0009</string>
 		<string>uni048D</string>
@@ -4178,7 +4178,7 @@
 		<string>uni0424</string>
 		<string>uni0463</string>
 		<string>alpha.alt</string>
-		<string>delta</string>
+		<string>delta.alt</string>
 		<string>R.alt</string>
 		<string>K.alt</string>
 		<string>k.alt</string>
@@ -4189,10 +4189,10 @@
 		<string>seven.alt</string>
 		<string>G.alt</string>
 		<string>C.ss06</string>
-		<string>G.ss06</string>
-		<string>D.ss06</string>
 		<string>O.ss06</string>
+		<string>G.ss06</string>
 		<string>Q.ss06</string>
+		<string>D.ss06</string>
 		<string>one.onum</string>
 		<string>two.onum</string>
 		<string>three.onum</string>
@@ -4202,6 +4202,7 @@
 		<string>nine.onum</string>
 		<string>zero.onum</string>
 		<string>seven.pnum</string>
+		<string>uni0459</string>
 		<string>b.ss06</string>
 		<string>c.ss06</string>
 		<string>d.ss06</string>
@@ -5689,6 +5690,7 @@
 		<string>dieresisgravecomb</string>
 		<string>dotmacroncomb</string>
 		<string>tildeacutecomb</string>
+		<string>tildedieresiscomb</string>
 		<string>macrongravecomb</string>
 		<string>macronacutecomb</string>
 		<string>macrondieresiscomb</string>
@@ -5703,7 +5705,6 @@
 		<string>uni0490.smcp</string>
 		<string>uniA7B0</string>
 		<string>uniA7B1</string>
-		<string>tildedieresiscomb</string>
 		<string>Chook.cn</string>
 		<string>chook.cn</string>
 		<string>Ghook.cn</string>
@@ -5781,7 +5782,6 @@
 		<string>eight.tnum</string>
 		<string>one.tnum</string>
 		<string>uni006A.ccmp</string>
-		<string>uni1D96.ccmp</string>
 		<string>uni0249.ccmp</string>
 		<string>uni0268.ccmp</string>
 		<string>uni0458.ccmp</string>
@@ -5791,8 +5791,9 @@
 		<string>uni1DA4.ccmp</string>
 		<string>uni012F.ccmp</string>
 		<string>uni0456.ccmp</string>
-		<string>uni1D62.ccmp</string>
 		<string>uni03F3.ccmp</string>
+		<string>uni1D96.ccmp</string>
+		<string>uni1D62.ccmp</string>
 		<string>uni1DA8.ccmp</string>
 		<string>uni02B2.ccmp</string>
 		<string>uni2C7C.ccmp</string>
@@ -6006,16 +6007,16 @@
 		<string>bbar_uni1ABE</string>
 		<string>rrthook_uni1ABE</string>
 		<string>ampersand.smcp</string>
-		<string>Lslash.smcp</string>
 		<string>AE.smcp</string>
 		<string>Thorn.smcp</string>
+		<string>Lslash.smcp</string>
 		<string>Oslash.smcp</string>
 		<string>Hbar.smcp</string>
 		<string>Eng.smcp</string>
-		<string>acutedotcomb.lc</string>
 		<string>tildedieresiscomb.lc</string>
 		<string>dieresisacutecomb.lc</string>
 		<string>carondotcomb.lc</string>
+		<string>acutedotcomb.lc</string>
 		<string>dotmacroncomb.lc</string>
 		<string>macrongravecomb.lc</string>
 		<string>dieresismacroncomb.lc</string>
@@ -7144,7 +7145,6 @@
 		<string>uni1EE3</string>
 		<string>Ohungarumlaut</string>
 		<string>Chi.smcp</string>
-		<string>percent</string>
 	</array>
 </dict>
 </plist>

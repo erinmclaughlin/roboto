@@ -71,7 +71,7 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>2418.0</real>
+			<real>-360.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -83,7 +83,7 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>2418.0</real>
+			<real>2389.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -95,55 +95,7 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>2128.0</real>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<real>0.0</real>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>x</key>
-			<real>0.0</real>
-			<key>y</key>
-			<real>1991.0</real>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<real>0.0</real>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>x</key>
-			<real>0.0</real>
-			<key>y</key>
-			<real>2208.0</real>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<real>0.0</real>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>x</key>
-			<real>0.0</real>
-			<key>y</key>
-			<real>1592.0</real>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<real>0.0</real>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>x</key>
-			<real>0.0</real>
-			<key>y</key>
-			<real>2224.0</real>
+			<real>3792.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -155,7 +107,7 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>184.0</real>
+			<real>224.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -179,7 +131,31 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>540.0</real>
+			<real>1165.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>0.0</real>
+			<key>y</key>
+			<real>1600.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>0.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>0.0</real>
+			<key>y</key>
+			<real>702.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -193,7 +169,7 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>1293.0</real>
+			<real>1290.0</real>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -205,7 +181,79 @@
 			<key>x</key>
 			<real>0.0</real>
 			<key>y</key>
-			<real>2184.0</real>
+			<real>-550.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>1056.0</real>
+			<key>y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>990.0</real>
+			<key>y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>1122.0</real>
+			<key>y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>1188.0</real>
+			<key>y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>924.0</real>
+			<key>y</key>
+			<real>0.0</real>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<true/>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>x</key>
+			<real>1254.0</real>
+			<key>y</key>
+			<real>0.0</real>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -470,7 +518,6 @@
 				<string>uni044F</string>
 				<string>uni0452</string>
 				<string>uni0454</string>
-				<string>uni0459</string>
 				<string>uni045A</string>
 				<string>uni045B</string>
 				<string>uni045F</string>
@@ -628,8 +675,8 @@
 				<string>circumflexhookcomb</string>
 				<string>circumflexgravecomb</string>
 				<string>circumflexacutecomb</string>
-				<string>brevegravecomb</string>
 				<string>commaaccentrotate</string>
+				<string>brevegravecomb</string>
 				<string>A.smcp</string>
 				<string>B.smcp</string>
 				<string>C.smcp</string>
@@ -656,6 +703,7 @@
 				<string>X.smcp</string>
 				<string>Y.smcp</string>
 				<string>Z.smcp</string>
+				<string>crossbar</string>
 				<string>zero.smcp</string>
 				<string>one.smcp</string>
 				<string>two.smcp</string>
@@ -666,6 +714,7 @@
 				<string>seven.smcp</string>
 				<string>eight.smcp</string>
 				<string>nine.smcp</string>
+				<string>dasiaoxia</string>
 				<string>zero.sup</string>
 				<string>one.sup</string>
 				<string>two.sup</string>
@@ -676,8 +725,6 @@
 				<string>seven.sup</string>
 				<string>eight.sup</string>
 				<string>nine.sup</string>
-				<string>crossbar</string>
-				<string>dasiaoxia</string>
 				<string>ringacute</string>
 				<string>uni0002</string>
 				<string>uni0009</string>
@@ -712,6 +759,7 @@
 				<string>nine.onum</string>
 				<string>zero.onum</string>
 				<string>seven.pnum</string>
+				<string>uni0459</string>
 				<string>b.ss06</string>
 				<string>c.ss06</string>
 				<string>d.ss06</string>
@@ -2208,9 +2256,9 @@
 				<string>uni01C4</string>
 				<string>uni01C5</string>
 				<string>uni01C6</string>
-				<string>tildemacroncomb</string>
 				<string>uniAB64</string>
 				<string>uniAB65</string>
+				<string>tildemacroncomb</string>
 				<string>uni0490.smcp</string>
 				<string>uniA7B0</string>
 				<string>uniA7B1</string>
@@ -2291,7 +2339,6 @@
 				<string>eight.tnum</string>
 				<string>one.tnum</string>
 				<string>uni006A.ccmp</string>
-				<string>uni1D96.ccmp</string>
 				<string>uni0249.ccmp</string>
 				<string>uni0268.ccmp</string>
 				<string>uni0458.ccmp</string>
@@ -2301,8 +2348,9 @@
 				<string>uni1DA4.ccmp</string>
 				<string>uni012F.ccmp</string>
 				<string>uni0456.ccmp</string>
-				<string>uni1D62.ccmp</string>
 				<string>uni03F3.ccmp</string>
+				<string>uni1D96.ccmp</string>
+				<string>uni1D62.ccmp</string>
 				<string>uni1DA8.ccmp</string>
 				<string>uni02B2.ccmp</string>
 				<string>uni2C7C.ccmp</string>
@@ -2516,16 +2564,16 @@
 				<string>bbar_uni1ABE</string>
 				<string>rrthook_uni1ABE</string>
 				<string>ampersand.smcp</string>
-				<string>Lslash.smcp</string>
 				<string>AE.smcp</string>
 				<string>Thorn.smcp</string>
+				<string>Lslash.smcp</string>
 				<string>Oslash.smcp</string>
 				<string>Hbar.smcp</string>
 				<string>Eng.smcp</string>
-				<string>acutedotcomb.lc</string>
 				<string>tildedieresiscomb.lc</string>
 				<string>dieresisacutecomb.lc</string>
 				<string>carondotcomb.lc</string>
+				<string>acutedotcomb.lc</string>
 				<string>dotmacroncomb.lc</string>
 				<string>macrongravecomb.lc</string>
 				<string>dieresismacroncomb.lc</string>
@@ -3913,7 +3961,6 @@
 		<string>uni044F</string>
 		<string>uni0452</string>
 		<string>uni0454</string>
-		<string>uni0459</string>
 		<string>uni045A</string>
 		<string>uni045B</string>
 		<string>uni045F</string>
@@ -4071,8 +4118,8 @@
 		<string>circumflexhookcomb</string>
 		<string>circumflexgravecomb</string>
 		<string>circumflexacutecomb</string>
-		<string>brevegravecomb</string>
 		<string>commaaccentrotate</string>
+		<string>brevegravecomb</string>
 		<string>A.smcp</string>
 		<string>B.smcp</string>
 		<string>C.smcp</string>
@@ -4099,6 +4146,7 @@
 		<string>X.smcp</string>
 		<string>Y.smcp</string>
 		<string>Z.smcp</string>
+		<string>crossbar</string>
 		<string>zero.smcp</string>
 		<string>one.smcp</string>
 		<string>two.smcp</string>
@@ -4109,6 +4157,7 @@
 		<string>seven.smcp</string>
 		<string>eight.smcp</string>
 		<string>nine.smcp</string>
+		<string>dasiaoxia</string>
 		<string>zero.sup</string>
 		<string>one.sup</string>
 		<string>two.sup</string>
@@ -4119,8 +4168,6 @@
 		<string>seven.sup</string>
 		<string>eight.sup</string>
 		<string>nine.sup</string>
-		<string>crossbar</string>
-		<string>dasiaoxia</string>
 		<string>ringacute</string>
 		<string>uni0002</string>
 		<string>uni0009</string>
@@ -4155,6 +4202,7 @@
 		<string>nine.onum</string>
 		<string>zero.onum</string>
 		<string>seven.pnum</string>
+		<string>uni0459</string>
 		<string>b.ss06</string>
 		<string>c.ss06</string>
 		<string>d.ss06</string>
@@ -5651,9 +5699,9 @@
 		<string>uni01C4</string>
 		<string>uni01C5</string>
 		<string>uni01C6</string>
-		<string>tildemacroncomb</string>
 		<string>uniAB64</string>
 		<string>uniAB65</string>
+		<string>tildemacroncomb</string>
 		<string>uni0490.smcp</string>
 		<string>uniA7B0</string>
 		<string>uniA7B1</string>
@@ -5734,7 +5782,6 @@
 		<string>eight.tnum</string>
 		<string>one.tnum</string>
 		<string>uni006A.ccmp</string>
-		<string>uni1D96.ccmp</string>
 		<string>uni0249.ccmp</string>
 		<string>uni0268.ccmp</string>
 		<string>uni0458.ccmp</string>
@@ -5744,8 +5791,9 @@
 		<string>uni1DA4.ccmp</string>
 		<string>uni012F.ccmp</string>
 		<string>uni0456.ccmp</string>
-		<string>uni1D62.ccmp</string>
 		<string>uni03F3.ccmp</string>
+		<string>uni1D96.ccmp</string>
+		<string>uni1D62.ccmp</string>
 		<string>uni1DA8.ccmp</string>
 		<string>uni02B2.ccmp</string>
 		<string>uni2C7C.ccmp</string>
@@ -5959,16 +6007,16 @@
 		<string>bbar_uni1ABE</string>
 		<string>rrthook_uni1ABE</string>
 		<string>ampersand.smcp</string>
-		<string>Lslash.smcp</string>
 		<string>AE.smcp</string>
 		<string>Thorn.smcp</string>
+		<string>Lslash.smcp</string>
 		<string>Oslash.smcp</string>
 		<string>Hbar.smcp</string>
 		<string>Eng.smcp</string>
-		<string>acutedotcomb.lc</string>
 		<string>tildedieresiscomb.lc</string>
 		<string>dieresisacutecomb.lc</string>
 		<string>carondotcomb.lc</string>
+		<string>acutedotcomb.lc</string>
 		<string>dotmacroncomb.lc</string>
 		<string>macrongravecomb.lc</string>
 		<string>dieresismacroncomb.lc</string>

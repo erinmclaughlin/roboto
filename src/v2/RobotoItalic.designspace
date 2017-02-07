@@ -59,7 +59,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto" filename="../../instance_ufo/Roboto-Italic.ufo" name="Roboto Italic" stylename="Italic">
+        <instance familyname="Roboto" filename="../../instance_ufo/Roboto-Italic.ufo" name="Roboto Italic" stylename="Italic i">
             <location>
                 <dimension name="width" xvalue="100.0" />
                 <dimension name="weight" xvalue="90.0" yvalue="92.0" />
