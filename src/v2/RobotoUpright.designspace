@@ -26,21 +26,21 @@
                 <dimension name="weight" xvalue="200.0" yvalue="200.0" />
             </location>
         </source>
-        <source familyname="Roboto Condensed" filename="RobotoCondensed-Thin.ufo" name="Roboto Condensed Thin" stylename="Thin">
+        <source familyname="Roboto Condensed" filename="RobotoCondensed-Thin.ufo" name="Roboto Condensed Thin" stylename="Condensed Thin">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="84.0" />
                 <dimension name="weight" xvalue="0.0" yvalue="0.0" />
             </location>
         </source>
-        <source familyname="Roboto Condensed" filename="RobotoCondensed-Regular.ufo" name="Roboto Condensed Regular" stylename="Regular">
+        <source familyname="Roboto Condensed" filename="RobotoCondensed-Regular.ufo" name="Roboto Condensed Regular" stylename="Condensed Regular">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="84.0" />
                 <dimension name="weight" xvalue="100.0" yvalue="100.0" />
             </location>
         </source>
-        <source familyname="Roboto Condensed" filename="RobotoCondensed-Bold.ufo" name="Roboto Condensed Bold" stylename="Bold">
+        <source familyname="Roboto Condensed" filename="RobotoCondensed-Bold.ufo" name="Roboto Condensed Bold" stylename="Condensed Bold">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="84.0" />
@@ -67,7 +67,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto" filename="../../instance_ufo/Roboto-Regular.ufo" name="Roboto Regular" stylename="Regular">
+        <instance familyname="Roboto" filename="../../instance_ufo/Roboto-Regular.ufo" name="Roboto Regular" stylename="Regular i">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="100.0" />
@@ -103,7 +103,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Light.ufo" name="Roboto Condensed Light" stylename="Light">
+        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Light.ufo" name="Roboto Condensed Light" stylename="Condensed Light">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="84.0" />
@@ -112,7 +112,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Regular.ufo" name="Roboto Condensed Regular" stylename="Regular">
+        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Regular.ufo" name="Roboto Condensed Regular" stylename="Condensed Regular">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="84.0" />
@@ -121,7 +121,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Bold.ufo" name="Roboto Condensed Bold" stylename="Bold">
+        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Bold.ufo" name="Roboto Condensed Bold" stylename="Condensed Bold">
             <location>
                 <dimension name="slant" xvalue="0.0" />
                 <dimension name="width" xvalue="84.0" />

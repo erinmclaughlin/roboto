@@ -91,7 +91,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-LightItalic.ufo" name="Roboto Condensed Light Italic" stylename="Light Italic">
+        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-LightItalic.ufo" name="Roboto Condensed Light Italic" stylename="Condensed Light Italic">
             <location>
                 <dimension name="width" xvalue="84.0" />
                 <dimension name="weight" xvalue="45.0" yvalue="47.0" />
@@ -99,7 +99,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Italic.ufo" name="Roboto Condensed Italic" stylename="Italic">
+        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-Italic.ufo" name="Roboto Condensed Italic" stylename="Condensed Italic">
             <location>
                 <dimension name="width" xvalue="84.0" />
                 <dimension name="weight" xvalue="90.0" yvalue="92.0" />
@@ -107,7 +107,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-BoldItalic.ufo" name="Roboto Condensed Bold Italic" stylename="Bold Italic">
+        <instance familyname="Roboto Condensed" filename="../../instance_ufo/RobotoCondensed-BoldItalic.ufo" name="Roboto Condensed Bold Italic" stylename="Condensed Bold Italic">
             <location>
                 <dimension name="width" xvalue="84.0" />
                 <dimension name="weight" xvalue="175.0" yvalue="175.0" />
