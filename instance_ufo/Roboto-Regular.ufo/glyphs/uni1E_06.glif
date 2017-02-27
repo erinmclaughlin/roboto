@@ -10,6 +10,6 @@
   <anchor x="1276" y="-407" name="bottom_dd"/>
   <outline>
     <component base="B"/>
-    <component base="macronsubnosp" xOffset="1199" yOffset="10"/>
+    <component base="macronsubnosp" xOffset="1198" yOffset="10"/>
   </outline>
 </glyph>

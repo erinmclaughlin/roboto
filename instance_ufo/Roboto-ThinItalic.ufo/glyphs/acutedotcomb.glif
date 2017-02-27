@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedotcomb" format="2">
+  <anchor x="-406" y="1407" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-493" y="1376" type="line"/>
+      <point x="-436" y="1375" type="line"/>
+      <point x="-231" y="1585" type="line"/>
+      <point x="-298" y="1586" type="line"/>
+    </contour>
+    <contour>
+      <point x="-525" y="1550" type="curve" smooth="yes"/>
+      <point x="-529" y="1521"/>
+      <point x="-508" y="1494"/>
+      <point x="-478" y="1493" type="curve" smooth="yes"/>
+      <point x="-450" y="1493"/>
+      <point x="-420" y="1519"/>
+      <point x="-416" y="1546" type="curve" smooth="yes"/>
+      <point x="-411" y="1575"/>
+      <point x="-434" y="1604"/>
+      <point x="-463" y="1604" type="curve" smooth="yes"/>
+      <point x="-492" y="1604"/>
+      <point x="-521" y="1577"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -59,16 +59,16 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>843.0</real>
+          <real>924.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -3,7 +3,7 @@
   <advance width="693"/>
   <unicode hex="1E2C"/>
   <anchor x="413" y="0" name="right"/>
-  <anchor x="354" y="5" name="bottom"/>
+  <anchor x="354" y="4" name="bottom"/>
   <anchor x="153" y="1454" name="tonos"/>
   <anchor x="354" y="-390" name="mkmkbottom_acc"/>
   <anchor x="354" y="1612" name="top"/>
@@ -12,7 +12,7 @@
   <anchor x="395" y="0" name="ogonek"/>
   <anchor x="626" y="-407" name="bottom_dd"/>
   <outline>
-    <component base="I" xOffset="81"/>
+    <component base="I" xOffset="80"/>
     <component base="tilde" xOffset="-97" yOffset="-1610"/>
   </outline>
   <lib>

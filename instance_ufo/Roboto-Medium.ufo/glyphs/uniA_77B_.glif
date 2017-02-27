@@ -4,7 +4,7 @@
   <unicode hex="A77B"/>
   <outline>
     <contour>
-      <point x="1163" y="1330" type="line"/>
+      <point x="1162" y="1330" type="line"/>
       <point x="1073" y="1430"/>
       <point x="941" y="1476"/>
       <point x="766" y="1476" type="curve" smooth="yes"/>
@@ -36,9 +36,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

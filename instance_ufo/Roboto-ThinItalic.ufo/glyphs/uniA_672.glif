@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA672" format="2">
+  <unicode hex="A672"/>
+  <outline>
+    <contour>
+      <point x="-1078" y="881" type="line"/>
+      <point x="-1557" y="881" type="line"/>
+      <point x="-1564" y="828" type="line"/>
+      <point x="-1086" y="828" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1182" y="281" type="line"/>
+      <point x="-1661" y="281" type="line"/>
+      <point x="-1668" y="228" type="line"/>
+      <point x="-1190" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1130" y="581" type="line"/>
+      <point x="-1609" y="581" type="line"/>
+      <point x="-1616" y="528" type="line"/>
+      <point x="-1138" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="881" type="line"/>
+      <point x="84" y="881" type="line"/>
+      <point x="77" y="828" type="line"/>
+      <point x="556" y="828" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="281" type="line"/>
+      <point x="-20" y="281" type="line"/>
+      <point x="-27" y="228" type="line"/>
+      <point x="452" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="581" type="line"/>
+      <point x="32" y="581" type="line"/>
+      <point x="25" y="528" type="line"/>
+      <point x="504" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="-415" y="-477" type="line"/>
+      <point x="-348" y="-85" type="line"/>
+      <point x="-401" y="-85" type="line"/>
+      <point x="-468" y="-477" type="line"/>
+    </contour>
+    <contour>
+      <point x="-997" y="-477" type="line"/>
+      <point x="-930" y="-85" type="line"/>
+      <point x="-983" y="-85" type="line"/>
+      <point x="-1050" y="-477" type="line"/>
+    </contour>
+    <contour>
+      <point x="-706" y="-477" type="line"/>
+      <point x="-639" y="-85" type="line"/>
+      <point x="-692" y="-85" type="line"/>
+      <point x="-759" y="-477" type="line"/>
+    </contour>
+    <contour>
+      <point x="-417" y="1188" type="line"/>
+      <point x="-351" y="1580" type="line"/>
+      <point x="-404" y="1580" type="line"/>
+      <point x="-470" y="1188" type="line"/>
+    </contour>
+    <contour>
+      <point x="-214" y="1411" type="line"/>
+      <point x="-596" y="1411" type="line"/>
+      <point x="-603" y="1358" type="line"/>
+      <point x="-222" y="1358" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>571.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

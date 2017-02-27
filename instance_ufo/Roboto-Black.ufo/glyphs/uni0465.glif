@@ -10,17 +10,6 @@
       <point x="1153" y="449" type="line"/>
     </contour>
     <component base="c" xOffset="491"/>
-    <component base="dotlessi" xOffset="-25"/>
+    <component base="dotlessi" xOffset="-24"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

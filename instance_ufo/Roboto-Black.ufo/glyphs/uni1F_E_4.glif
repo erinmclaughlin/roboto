@@ -2,8 +2,8 @@
 <glyph name="uni1FE4" format="2">
   <advance width="1152"/>
   <unicode hex="1FE4"/>
-  <anchor x="609" y="1280" name="top"/>
-  <anchor x="609" y="1280" name="parent_top"/>
+  <anchor x="608" y="1280" name="top"/>
+  <anchor x="608" y="1280" name="parent_top"/>
   <anchor x="1152" y="1280" name="top0315"/>
   <outline>
     <component base="rho"/>

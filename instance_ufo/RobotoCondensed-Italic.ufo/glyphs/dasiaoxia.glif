@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiaoxia" format="2">
+  <advance width="734"/>
+  <anchor x="559" y="1249" name="_tonos"/>
+  <outline>
+    <contour>
+      <point x="428" y="1138" type="line"/>
+      <point x="506" y="1139" type="line"/>
+      <point x="715" y="1463" type="line"/>
+      <point x="714" y="1479" type="line"/>
+      <point x="534" y="1477" type="line"/>
+      <point x="430" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="1137" type="line"/>
+      <point x="350" y="1137" type="line"/>
+      <point x="360" y="1215" type="line" smooth="yes"/>
+      <point x="374" y="1303"/>
+      <point x="406" y="1371"/>
+      <point x="457" y="1434" type="curve"/>
+      <point x="391" y="1496" type="line"/>
+      <point x="293" y="1437"/>
+      <point x="219" y="1350"/>
+      <point x="203" y="1220" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

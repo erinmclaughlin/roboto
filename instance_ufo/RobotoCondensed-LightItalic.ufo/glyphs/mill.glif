@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mill" format="2">
+  <advance width="1516"/>
+  <unicode hex="20A5"/>
+  <outline>
+    <contour>
+      <point x="1137" y="1280" type="line"/>
+      <point x="1033" y="1280" type="line"/>
+      <point x="370" y="-124" type="line"/>
+      <point x="474" y="-124" type="line"/>
+    </contour>
+    <component base="m"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

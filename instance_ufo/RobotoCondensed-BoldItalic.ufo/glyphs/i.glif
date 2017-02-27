@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="502"/>
+  <unicode hex="0069"/>
+  <anchor x="165" y="10" name="bottom"/>
+  <anchor x="320" y="654" name="rhotichook"/>
+  <anchor x="395" y="1600" name="top"/>
+  <anchor x="628" y="1600" name="top0315"/>
+  <anchor x="628" y="1600" name="top_dd"/>
+  <anchor x="260" y="0" name="ogonek"/>
+  <anchor x="336" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="460" y="1082" type="line"/>
+      <point x="183" y="1082" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="1357" type="curve" smooth="yes"/>
+      <point x="212" y="1268"/>
+      <point x="281" y="1209"/>
+      <point x="363" y="1211" type="curve" smooth="yes"/>
+      <point x="448" y="1212"/>
+      <point x="513" y="1276"/>
+      <point x="510" y="1367" type="curve" smooth="yes"/>
+      <point x="508" y="1456"/>
+      <point x="439" y="1516"/>
+      <point x="356" y="1514" type="curve" smooth="yes"/>
+      <point x="272" y="1512"/>
+      <point x="207" y="1448"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

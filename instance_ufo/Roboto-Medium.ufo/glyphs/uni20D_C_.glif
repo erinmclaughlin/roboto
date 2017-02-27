@@ -3,7 +3,7 @@
   <unicode hex="20DC"/>
   <anchor x="-595" y="1170" name="_marktop"/>
   <outline>
-    <component base="period" xOffset="-1539" yOffset="1300"/>
+    <component base="period" xOffset="-1538" yOffset="1300"/>
     <component base="period" xOffset="-1081" yOffset="1300"/>
     <component base="period" xOffset="-640" yOffset="1300"/>
     <component base="period" xOffset="-206" yOffset="1300"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E" format="2">
+  <advance width="1398"/>
+  <unicode hex="044E"/>
+  <anchor x="791" y="1269" name="top"/>
+  <anchor x="1475" y="1269" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="594" y="591" type="line"/>
+      <point x="170" y="591" type="line"/>
+      <point x="153" y="487" type="line"/>
+      <point x="578" y="487" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+    <component base="o" xOffset="411"/>
+  </outline>
+</glyph>

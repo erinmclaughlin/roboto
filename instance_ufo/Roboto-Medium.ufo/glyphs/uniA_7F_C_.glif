@@ -4,8 +4,8 @@
   <unicode hex="A7FC"/>
   <outline>
     <contour>
-      <point x="981" y="541" type="line"/>
-      <point x="981" y="744" type="line"/>
+      <point x="980" y="541" type="line"/>
+      <point x="980" y="744" type="line"/>
       <point x="604" y="744" type="line" smooth="yes"/>
       <point x="408" y="744"/>
       <point x="328" y="846"/>
@@ -30,9 +30,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

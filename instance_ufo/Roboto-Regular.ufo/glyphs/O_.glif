@@ -28,7 +28,7 @@
     <contour>
       <point x="1099" y="682" type="line"/>
       <point x="1099" y="333"/>
-      <point x="957" y="143"/>
+      <point x="956" y="143"/>
       <point x="706" y="143" type="curve" smooth="yes"/>
       <point x="467" y="143"/>
       <point x="310" y="333"/>
@@ -70,6 +70,25 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>748.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

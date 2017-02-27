@@ -6,6 +6,6 @@
   <outline>
     <component base="Omega" xOffset="20"/>
     <component base="uni1FBE" xOffset="521" yOffset="10"/>
-    <component base="uni1FFE" xOffset="-159"/>
+    <component base="uni1FFE" xOffset="-158"/>
   </outline>
 </glyph>

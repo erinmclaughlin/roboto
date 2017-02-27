@@ -10,6 +10,6 @@
   <anchor x="1168" y="-407" name="bottom_dd"/>
   <outline>
     <component base="o"/>
-    <component base="breveinvnosp" xOffset="1161" yOffset="94"/>
+    <component base="breveinvnosp" xOffset="1160" yOffset="94"/>
   </outline>
 </glyph>

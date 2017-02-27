@@ -3,13 +3,28 @@
   <unicode hex="030E"/>
   <anchor x="-583" y="1181" name="_marktop"/>
   <anchor x="-582" y="1357" name="parent_top"/>
-  <anchor x="-583" y="1667" name="mkmktop"/>
+  <anchor x="-583" y="1666" name="mkmktop"/>
   <outline>
     <component base="linevert" xOffset="-890"/>
     <component base="linevert" xOffset="-603"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>-3782.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.967</real>

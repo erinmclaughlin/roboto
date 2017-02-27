@@ -3,7 +3,7 @@
   <advance width="797"/>
   <unicode hex="1D75"/>
   <anchor x="359" y="1600" name="top"/>
-  <anchor x="503" y="0" name="bottom"/>
+  <anchor x="502" y="0" name="bottom"/>
   <anchor x="797" y="1600" name="top0315"/>
   <outline>
     <contour>
@@ -57,9 +57,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

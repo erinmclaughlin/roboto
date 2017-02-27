@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phook" format="2">
+  <advance width="1118"/>
+  <unicode hex="01A5"/>
+  <outline>
+    <contour>
+      <point x="407" y="912" type="line"/>
+      <point x="433" y="1067" type="line" smooth="yes"/>
+      <point x="450" y="1170"/>
+      <point x="520" y="1229"/>
+      <point x="626" y="1226" type="curve" smooth="yes"/>
+      <point x="646" y="1226"/>
+      <point x="666" y="1222"/>
+      <point x="686" y="1217" type="curve"/>
+      <point x="701" y="1380" type="line"/>
+      <point x="658" y="1390"/>
+      <point x="615" y="1396"/>
+      <point x="571" y="1397" type="curve" smooth="yes"/>
+      <point x="365" y="1400"/>
+      <point x="227" y="1284"/>
+      <point x="198" y="1074" type="curve" smooth="yes"/>
+      <point x="175" y="912" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

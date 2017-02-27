@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringlefthalfsubnosp" format="2">
   <unicode hex="031C"/>
-  <anchor x="-597" y="-448" name="mkmkbottom_acc"/>
-  <anchor x="-597" y="0" name="_markbottom"/>
+  <anchor x="-596" y="-448" name="mkmkbottom_acc"/>
+  <anchor x="-596" y="0" name="_markbottom"/>
   <outline>
     <contour>
       <point x="-504" y="-448" type="line"/>

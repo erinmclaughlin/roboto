@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa" format="2">
+  <advance width="1051"/>
+  <unicode hex="0259"/>
+  <anchor x="872" y="654" name="rhotichook"/>
+  <anchor x="643" y="1291" name="top"/>
+  <anchor x="862" y="33" name="right"/>
+  <anchor x="454" y="0" name="bottom"/>
+  <anchor x="1171" y="1291" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="561" y="1102" type="curve" smooth="yes"/>
+      <point x="424" y="1104"/>
+      <point x="252" y="1076"/>
+      <point x="143" y="985" type="curve"/>
+      <point x="207" y="775" type="line"/>
+      <point x="306" y="814"/>
+      <point x="400" y="845"/>
+      <point x="506" y="840" type="curve" smooth="yes"/>
+      <point x="646" y="834"/>
+      <point x="688" y="709"/>
+      <point x="674" y="580" type="curve" smooth="yes"/>
+      <point x="670" y="542" type="line" smooth="yes"/>
+      <point x="653" y="418"/>
+      <point x="613" y="234"/>
+      <point x="458" y="239" type="curve" smooth="yes"/>
+      <point x="363" y="242"/>
+      <point x="345" y="320"/>
+      <point x="361" y="408" type="curve" smooth="yes"/>
+      <point x="367" y="438" type="line"/>
+      <point x="854" y="437" type="line"/>
+      <point x="892" y="648" type="line"/>
+      <point x="73" y="648" type="line"/>
+      <point x="44" y="471" type="line" smooth="yes"/>
+      <point x="14" y="202"/>
+      <point x="156" y="-13"/>
+      <point x="439" y="-19" type="curve" smooth="yes"/>
+      <point x="768" y="-27"/>
+      <point x="963" y="242"/>
+      <point x="996" y="542" type="curve" smooth="yes"/>
+      <point x="1000" y="581" type="line" smooth="yes"/>
+      <point x="1024" y="863"/>
+      <point x="856" y="1096"/>
+    </contour>
+  </outline>
+</glyph>

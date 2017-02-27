@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.smcp" format="2">
+  <advance width="1112"/>
+  <anchor x="343" y="10" name="bottom"/>
+  <anchor x="569" y="1320" name="top"/>
+  <anchor x="1237" y="1320" name="top0315"/>
+  <anchor x="229" y="582" name="cross"/>
+  <anchor x="1285" y="1600" name="top_dd"/>
+  <anchor x="938" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="388" y="0" type="line" smooth="yes"/>
+      <point x="725" y="-2"/>
+      <point x="988" y="221"/>
+      <point x="1029" y="557" type="curve" smooth="yes"/>
+      <point x="1035" y="609" type="line" smooth="yes"/>
+      <point x="1065" y="918"/>
+      <point x="883" y="1156"/>
+      <point x="565" y="1164" type="curve" smooth="yes"/>
+      <point x="309" y="1165" type="line"/>
+      <point x="275" y="970" type="line"/>
+      <point x="561" y="968" type="line" smooth="yes"/>
+      <point x="776" y="961"/>
+      <point x="821" y="801"/>
+      <point x="799" y="611" type="curve" smooth="yes"/>
+      <point x="792" y="557" type="line" smooth="yes"/>
+      <point x="761" y="333"/>
+      <point x="625" y="192"/>
+      <point x="393" y="193" type="curve" smooth="yes"/>
+      <point x="148" y="195" type="line"/>
+      <point x="113" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="1165" type="line"/>
+      <point x="212" y="1165" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="247" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

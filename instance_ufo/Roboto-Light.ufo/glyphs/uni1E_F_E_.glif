@@ -13,7 +13,7 @@
     <contour>
       <point x="293" y="1456" type="line"/>
       <point x="157" y="1456" type="line"/>
-      <point x="654" y="377" type="line"/>
+      <point x="654" y="376" type="line"/>
       <point x="722" y="412" type="line"/>
       <point x="721" y="501" type="line"/>
     </contour>
@@ -50,9 +50,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

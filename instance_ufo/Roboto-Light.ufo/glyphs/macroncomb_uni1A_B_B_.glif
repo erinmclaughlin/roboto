@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macroncomb_uni1ABB" format="2">
-  <anchor x="-565" y="1290" name="_marktop"/>
-  <anchor x="-565" y="1540" name="mkmktop"/>
+  <anchor x="-564" y="1290" name="_marktop"/>
+  <anchor x="-564" y="1540" name="mkmktop"/>
   <outline>
     <contour>
       <point x="-937" y="1182" type="curve"/>

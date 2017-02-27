@@ -3,8 +3,8 @@
   <advance width="867"/>
   <unicode hex="024D"/>
   <anchor x="469" y="1290" name="top"/>
-  <anchor x="355" y="10" name="bottom"/>
   <anchor x="867" y="1290" name="top0315"/>
+  <anchor x="355" y="10" name="bottom"/>
   <outline>
     <component base="r" xOffset="91"/>
     <component base="crossbar" xOffset="-119" yOffset="-230"/>

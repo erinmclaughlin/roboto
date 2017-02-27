@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="2">
-  <advance width="1387"/>
+  <advance width="1386"/>
   <unicode hex="004F"/>
   <anchor x="695" y="-1" name="bottom"/>
   <anchor x="139" y="1454" name="tonos"/>
   <anchor x="691" y="1618" name="top"/>
-  <anchor x="1387" y="1618" name="top0315"/>
-  <anchor x="1387" y="1600" name="top_dd"/>
-  <anchor x="1387" y="-407" name="bottom_dd"/>
+  <anchor x="1386" y="1618" name="top0315"/>
+  <anchor x="1386" y="1600" name="top_dd"/>
+  <anchor x="1386" y="-407" name="bottom_dd"/>
   <outline>
     <contour>
       <point x="1260" y="806" type="line"/>
@@ -70,6 +70,25 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>748.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

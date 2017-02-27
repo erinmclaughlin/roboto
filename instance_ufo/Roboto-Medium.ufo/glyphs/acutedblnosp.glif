@@ -5,7 +5,7 @@
   <anchor x="-588" y="1385" name="parent_top"/>
   <anchor x="-661" y="1627" name="mkmktop"/>
   <outline>
-    <component base="acute" xOffset="-1155"/>
+    <component base="acute" xOffset="-1154"/>
     <component base="acute" xOffset="-720"/>
   </outline>
   <lib>

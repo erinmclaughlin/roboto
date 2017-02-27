@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candrabindunosp" format="2">
+  <unicode hex="0310"/>
+  <anchor x="-372" y="1169" name="_top"/>
+  <anchor x="-372" y="1169" name="_marktop"/>
+  <anchor x="-320" y="1504" name="parent_top"/>
+  <anchor x="-265" y="1869" name="mkmktop"/>
+  <outline>
+    <contour>
+      <point x="-226" y="1525" type="line"/>
+      <point x="-236" y="1444"/>
+      <point x="-276" y="1391"/>
+      <point x="-342" y="1392" type="curve" smooth="yes"/>
+      <point x="-406" y="1394"/>
+      <point x="-426" y="1448"/>
+      <point x="-425" y="1526" type="curve"/>
+      <point x="-616" y="1527" type="line"/>
+      <point x="-612" y="1341"/>
+      <point x="-496" y="1230"/>
+      <point x="-339" y="1226" type="curve" smooth="yes"/>
+      <point x="-174" y="1223"/>
+      <point x="-38" y="1330"/>
+      <point x="-31" y="1526" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-450" y="1638" type="curve" smooth="yes"/>
+      <point x="-446" y="1551"/>
+      <point x="-372" y="1501"/>
+      <point x="-296" y="1502" type="curve" smooth="yes"/>
+      <point x="-217" y="1503"/>
+      <point x="-146" y="1558"/>
+      <point x="-150" y="1647" type="curve" smooth="yes"/>
+      <point x="-153" y="1734"/>
+      <point x="-227" y="1784"/>
+      <point x="-304" y="1783" type="curve" smooth="yes"/>
+      <point x="-382" y="1782"/>
+      <point x="-453" y="1726"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

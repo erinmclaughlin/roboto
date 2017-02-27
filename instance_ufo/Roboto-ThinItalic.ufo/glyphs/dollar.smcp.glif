@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.smcp" format="2">
+  <advance width="1010"/>
+  <outline>
+    <contour>
+      <point x="687" y="1395" type="line"/>
+      <point x="633" y="1395" type="line"/>
+      <point x="595" y="1169" type="line"/>
+      <point x="649" y="1169" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="-11" type="line"/>
+      <point x="390" y="-11" type="line"/>
+      <point x="352" y="-237" type="line"/>
+      <point x="405" y="-237" type="line"/>
+    </contour>
+    <component base="S.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

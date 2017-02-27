@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bbar_uni1ABE" format="2">
+  <advance width="1390"/>
+  <anchor x="722" y="-10" name="markbottom"/>
+  <anchor x="1008" y="1603" name="top"/>
+  <anchor x="722" y="-10" name="bottom"/>
+  <anchor x="661" y="1302" name="cross"/>
+  <anchor x="1563" y="1603" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="273" y="1120" type="curve"/>
+      <point x="294" y="1195" type="line"/>
+      <point x="250" y="1219"/>
+      <point x="222" y="1245"/>
+      <point x="230" y="1301" type="curve" smooth="yes"/>
+      <point x="239" y="1360"/>
+      <point x="282" y="1397"/>
+      <point x="332" y="1422" type="curve"/>
+      <point x="320" y="1504" type="line"/>
+      <point x="224" y="1476"/>
+      <point x="131" y="1411"/>
+      <point x="129" y="1302" type="curve" smooth="yes"/>
+      <point x="127" y="1213"/>
+      <point x="192" y="1146"/>
+    </contour>
+    <contour>
+      <point x="1019" y="1198" type="curve"/>
+      <point x="1034" y="1115" type="line"/>
+      <point x="1129" y="1143"/>
+      <point x="1219" y="1207"/>
+      <point x="1221" y="1317" type="curve" smooth="yes"/>
+      <point x="1223" y="1405"/>
+      <point x="1158" y="1473"/>
+      <point x="1078" y="1500" type="curve"/>
+      <point x="1057" y="1424" type="line"/>
+      <point x="1101" y="1401"/>
+      <point x="1128" y="1375"/>
+      <point x="1120" y="1320" type="curve" smooth="yes"/>
+      <point x="1112" y="1261"/>
+      <point x="1069" y="1224"/>
+    </contour>
+    <component base="bbar" xOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

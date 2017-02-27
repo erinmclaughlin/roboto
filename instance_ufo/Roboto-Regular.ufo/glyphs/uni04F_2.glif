@@ -7,6 +7,6 @@
   <anchor x="1288" y="1612" name="top0315"/>
   <outline>
     <component base="uni0423"/>
-    <component base="hungarumlaut" xOffset="303" yOffset="322"/>
+    <component base="hungarumlaut" xOffset="302" yOffset="322"/>
   </outline>
 </glyph>

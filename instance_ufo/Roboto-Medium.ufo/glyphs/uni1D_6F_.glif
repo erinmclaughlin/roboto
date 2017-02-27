@@ -2,8 +2,8 @@
 <glyph name="uni1D6F" format="2">
   <advance width="2007"/>
   <unicode hex="1D6F"/>
-  <anchor x="1015" y="1290" name="top"/>
-  <anchor x="1015" y="0" name="bottom"/>
+  <anchor x="1014" y="1290" name="top"/>
+  <anchor x="1014" y="0" name="bottom"/>
   <anchor x="2007" y="1290" name="top0315"/>
   <outline>
     <contour>
@@ -34,9 +34,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

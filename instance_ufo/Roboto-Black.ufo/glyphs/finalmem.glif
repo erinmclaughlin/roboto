@@ -3,19 +3,19 @@
   <advance width="1027"/>
   <unicode hex="02AD"/>
   <anchor x="520" y="1600" name="top"/>
-  <anchor x="1027" y="1600" name="top0315"/>
   <anchor x="520" y="0" name="bottom"/>
+  <anchor x="1027" y="1600" name="top0315"/>
   <outline>
     <contour>
-      <point x="697" y="585" type="line"/>
+      <point x="696" y="585" type="line"/>
       <point x="327" y="585" type="line"/>
       <point x="327" y="400" type="line"/>
-      <point x="697" y="400" type="line"/>
+      <point x="696" y="400" type="line"/>
     </contour>
     <contour>
       <point x="346" y="585" type="line"/>
-      <point x="103" y="585" type="line"/>
-      <point x="103" y="0" type="line"/>
+      <point x="102" y="585" type="line"/>
+      <point x="102" y="0" type="line"/>
       <point x="346" y="0" type="line"/>
     </contour>
     <contour>
@@ -25,15 +25,15 @@
       <point x="925" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="697" y="1456" type="line"/>
+      <point x="696" y="1456" type="line"/>
       <point x="327" y="1456" type="line"/>
       <point x="327" y="1271" type="line"/>
-      <point x="697" y="1271" type="line"/>
+      <point x="696" y="1271" type="line"/>
     </contour>
     <contour>
       <point x="346" y="1456" type="line"/>
-      <point x="103" y="1456" type="line"/>
-      <point x="103" y="871" type="line"/>
+      <point x="102" y="1456" type="line"/>
+      <point x="102" y="871" type="line"/>
       <point x="346" y="871" type="line"/>
     </contour>
     <contour>

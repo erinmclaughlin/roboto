@@ -2,8 +2,8 @@
 <glyph name="uni1D6C" format="2">
   <advance width="1274"/>
   <unicode hex="1D6C"/>
-  <anchor x="741" y="1600" name="top"/>
-  <anchor x="741" y="0" name="bottom"/>
+  <anchor x="740" y="1600" name="top"/>
+  <anchor x="740" y="0" name="bottom"/>
   <anchor x="1274" y="1600" name="top0315"/>
   <outline>
     <contour>
@@ -25,7 +25,7 @@
       <point x="355" y="155"/>
       <point x="493" y="-20"/>
       <point x="753" y="-20" type="curve" smooth="yes"/>
-      <point x="1015" y="-20"/>
+      <point x="1014" y="-20"/>
       <point x="1166" y="207"/>
       <point x="1166" y="530" type="curve" smooth="yes"/>
     </contour>
@@ -61,9 +61,9 @@
       <point x="146" y="1283"/>
       <point x="207" y="1283" type="curve" smooth="yes"/>
       <point x="322" y="1283"/>
-      <point x="345" y="1173"/>
-      <point x="485" y="1173" type="curve" smooth="yes"/>
-      <point x="594" y="1173"/>
+      <point x="345" y="1172"/>
+      <point x="485" y="1172" type="curve" smooth="yes"/>
+      <point x="594" y="1172"/>
       <point x="680" y="1257"/>
       <point x="680" y="1386" type="curve"/>
     </contour>
@@ -72,9 +72,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

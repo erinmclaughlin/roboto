@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dasiaoxia" format="2">
   <advance width="805"/>
-  <anchor x="509" y="1234" name="_tonos"/>
+  <anchor x="508" y="1234" name="_tonos"/>
   <outline>
     <contour>
       <point x="390" y="1137" type="line"/>

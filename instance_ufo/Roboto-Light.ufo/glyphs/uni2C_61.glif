@@ -5,7 +5,7 @@
   <outline>
     <component base="l" xOffset="116"/>
     <component base="crossbar" xOffset="-86" yOffset="214"/>
-    <component base="crossbar" xOffset="-86" yOffset="-87"/>
+    <component base="crossbar" xOffset="-86" yOffset="-86"/>
   </outline>
   <lib>
     <dict>

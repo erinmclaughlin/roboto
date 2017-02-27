@@ -4,10 +4,10 @@
   <anchor x="-636" y="1170" name="_marktop"/>
   <outline>
     <contour>
-      <point x="-685" y="1753" type="line"/>
+      <point x="-684" y="1753" type="line"/>
       <point x="-978" y="1753" type="line"/>
-      <point x="-978" y="1643" type="line"/>
-      <point x="-685" y="1643" type="line"/>
+      <point x="-978" y="1642" type="line"/>
+      <point x="-684" y="1642" type="line"/>
     </contour>
     <component base="uniA67A"/>
   </outline>

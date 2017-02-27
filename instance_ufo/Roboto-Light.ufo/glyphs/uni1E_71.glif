@@ -10,6 +10,6 @@
   <anchor x="659" y="-407" name="bottom_dd"/>
   <outline>
     <component base="t"/>
-    <component base="circumflexsubnosp" xOffset="1007"/>
+    <component base="circumflexsubnosp" xOffset="1006"/>
   </outline>
 </glyph>

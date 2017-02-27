@@ -24,12 +24,12 @@
     <contour>
       <point x="1112" y="518" type="line"/>
       <point x="1112" y="356"/>
-      <point x="1077" y="240"/>
+      <point x="1076" y="240"/>
       <point x="964" y="240" type="curve" smooth="yes"/>
       <point x="811" y="240"/>
       <point x="749" y="328"/>
-      <point x="752" y="480" type="curve" smooth="yes"/>
-      <point x="752" y="562" type="line" smooth="yes"/>
+      <point x="752" y="480" type="curve"/>
+      <point x="752" y="562" type="line"/>
       <point x="750" y="738"/>
       <point x="811" y="842"/>
       <point x="962" y="842" type="curve" smooth="yes"/>
@@ -42,12 +42,12 @@
       <point x="53" y="203"/>
       <point x="195" y="-20"/>
       <point x="454" y="-20" type="curve" smooth="yes"/>
-      <point x="709" y="-20"/>
+      <point x="708" y="-20"/>
       <point x="809" y="217"/>
       <point x="852" y="510" type="curve"/>
       <point x="852" y="535" type="line"/>
       <point x="809" y="848"/>
-      <point x="709" y="1102"/>
+      <point x="708" y="1102"/>
       <point x="456" y="1102" type="curve" smooth="yes"/>
       <point x="195" y="1102"/>
       <point x="53" y="868"/>
@@ -59,13 +59,13 @@
       <point x="431" y="842"/>
       <point x="542" y="842" type="curve" smooth="yes"/>
       <point x="693" y="842"/>
-      <point x="755" y="738"/>
-      <point x="752" y="562" type="curve" smooth="yes"/>
-      <point x="752" y="483" type="line" smooth="yes"/>
+      <point x="754" y="738"/>
+      <point x="752" y="562" type="curve"/>
+      <point x="752" y="483" type="line"/>
       <point x="755" y="329"/>
       <point x="693" y="241"/>
       <point x="540" y="241" type="curve" smooth="yes"/>
-      <point x="427" y="241"/>
+      <point x="426" y="241"/>
       <point x="390" y="356"/>
       <point x="390" y="518" type="curve" smooth="yes"/>
     </contour>
@@ -76,15 +76,4 @@
       <point x="583" y="1536" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

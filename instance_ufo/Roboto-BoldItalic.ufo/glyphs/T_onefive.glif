@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tonefive" format="2">
+  <advance width="1211"/>
+  <unicode hex="01BC"/>
+  <outline>
+    <contour>
+      <point x="514" y="1456" type="line"/>
+      <point x="207" y="1456" type="line"/>
+      <point x="165" y="1216" type="line"/>
+      <point x="472" y="1216" type="line"/>
+    </contour>
+    <component base="five" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

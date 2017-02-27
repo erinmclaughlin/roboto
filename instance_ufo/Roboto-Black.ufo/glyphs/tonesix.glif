@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="228" y="1536" type="line"/>
-      <point x="33" y="1371" type="line"/>
-      <point x="33" y="1211" type="line"/>
+      <point x="32" y="1371" type="line"/>
+      <point x="32" y="1211" type="line"/>
       <point x="228" y="1047" type="line"/>
       <point x="276" y="1047" type="line"/>
       <point x="276" y="1536" type="line"/>
     </contour>
-    <component base="b" xOffset="131"/>
+    <component base="b" xOffset="130"/>
   </outline>
   <lib>
     <dict>

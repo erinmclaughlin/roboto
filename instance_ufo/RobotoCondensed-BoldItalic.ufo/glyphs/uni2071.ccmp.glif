@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2071.ccmp" format="2">
+  <advance width="468"/>
+  <anchor x="384" y="1587" name="top"/>
+  <outline>
+    <contour>
+      <point x="449" y="1368" type="line"/>
+      <point x="249" y="1368" type="line"/>
+      <point x="131" y="560" type="line"/>
+      <point x="331" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

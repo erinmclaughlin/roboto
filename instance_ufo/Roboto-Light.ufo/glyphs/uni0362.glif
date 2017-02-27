@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0362" format="2">
   <unicode hex="0362"/>
-  <anchor x="0" y="-145" name="_markbottom_dd"/>
+  <anchor x="0" y="-144" name="_markbottom_dd"/>
   <outline>
     <contour>
       <point x="753" y="-289" type="line"/>

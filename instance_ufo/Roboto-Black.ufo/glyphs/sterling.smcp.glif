@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sterling.smcp" format="2">
-  <advance width="1217"/>
+  <advance width="1216"/>
   <outline>
     <contour>
       <point x="1126" y="0" type="line"/>
@@ -10,8 +10,8 @@
     </contour>
     <contour>
       <point x="918" y="652" type="line"/>
-      <point x="73" y="652" type="line"/>
-      <point x="73" y="469" type="line"/>
+      <point x="72" y="652" type="line"/>
+      <point x="72" y="469" type="line"/>
       <point x="918" y="469" type="line"/>
     </contour>
     <contour>

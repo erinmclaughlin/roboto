@@ -2,7 +2,7 @@
 <glyph name="Jcircumflex.smcp" format="2">
   <advance width="971"/>
   <anchor x="753" y="1320" name="parent_top"/>
-  <anchor x="453" y="-10" name="bottom"/>
+  <anchor x="452" y="-10" name="bottom"/>
   <anchor x="753" y="1650" name="top"/>
   <anchor x="971" y="1320" name="top0315"/>
   <anchor x="971" y="1600" name="top_dd"/>

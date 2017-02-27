@@ -4,10 +4,10 @@
   <anchor x="0" y="-110" name="_markbottom_dd"/>
   <outline>
     <contour>
-      <point x="817" y="-276" type="line"/>
+      <point x="816" y="-276" type="line"/>
       <point x="-821" y="-276" type="line"/>
       <point x="-821" y="-414" type="line"/>
-      <point x="817" y="-414" type="line"/>
+      <point x="816" y="-414" type="line"/>
     </contour>
     <contour>
       <point x="664" y="-551" type="line"/>

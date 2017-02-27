@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rturnsuper" format="2">
-  <advance width="605"/>
+  <advance width="604"/>
   <unicode hex="02B4"/>
   <outline>
     <contour>
@@ -22,8 +22,8 @@
     <contour>
       <point x="275" y="827" type="line"/>
       <point x="320" y="655" type="line"/>
-      <point x="505" y="655" type="line"/>
-      <point x="505" y="1456" type="line"/>
+      <point x="504" y="655" type="line"/>
+      <point x="504" y="1456" type="line"/>
       <point x="275" y="1456" type="line"/>
     </contour>
   </outline>

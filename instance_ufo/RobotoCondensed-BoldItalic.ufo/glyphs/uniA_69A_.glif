@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA69A" format="2">
+  <advance width="1200"/>
+  <unicode hex="A69A"/>
+  <outline>
+    <contour>
+      <point x="805" y="1394" type="line"/>
+      <point x="642" y="1394" type="line"/>
+      <point x="435" y="68" type="line"/>
+      <point x="599" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="971" y="643" type="line"/>
+      <point x="1001" y="818" type="line"/>
+      <point x="264" y="818" type="line"/>
+      <point x="234" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="1136" y="764" type="line" smooth="yes"/>
+      <point x="1171" y="1113"/>
+      <point x="1044" y="1469"/>
+      <point x="707" y="1476" type="curve" smooth="yes"/>
+      <point x="354" y="1484"/>
+      <point x="144" y="1132"/>
+      <point x="102" y="759" type="curve" smooth="yes"/>
+      <point x="100" y="693" type="line" smooth="yes"/>
+      <point x="66" y="343"/>
+      <point x="192" y="-13"/>
+      <point x="530" y="-20" type="curve" smooth="yes"/>
+      <point x="886" y="-28"/>
+      <point x="1092" y="326"/>
+      <point x="1134" y="700" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="846" y="695" type="line" smooth="yes"/>
+      <point x="823" y="483"/>
+      <point x="737" y="216"/>
+      <point x="541" y="226" type="curve" smooth="yes"/>
+      <point x="354" y="236"/>
+      <point x="370" y="490"/>
+      <point x="388" y="694" type="curve" smooth="yes"/>
+      <point x="392" y="762" type="line" smooth="yes"/>
+      <point x="411" y="975"/>
+      <point x="508" y="1240"/>
+      <point x="697" y="1230" type="curve" smooth="yes"/>
+      <point x="876" y="1220"/>
+      <point x="874" y="988"/>
+      <point x="850" y="763" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

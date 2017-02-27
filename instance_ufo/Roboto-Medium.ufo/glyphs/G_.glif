@@ -3,7 +3,7 @@
   <advance width="1395"/>
   <unicode hex="0047"/>
   <anchor x="681" y="1621" name="top"/>
-  <anchor x="729" y="-7" name="bottom"/>
+  <anchor x="729" y="-6" name="bottom"/>
   <anchor x="1395" y="1600" name="top_dd"/>
   <anchor x="1395" y="-407" name="bottom_dd"/>
   <anchor x="1395" y="1621" name="top0315"/>
@@ -71,6 +71,13 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

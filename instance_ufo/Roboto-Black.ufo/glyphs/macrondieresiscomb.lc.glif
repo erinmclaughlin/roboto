@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macrondieresiscomb.lc" format="2">
-  <anchor x="-575" y="1296" name="_top"/>
-  <anchor x="-575" y="1930" name="mkmktop_acc"/>
+  <anchor x="-574" y="1296" name="_top"/>
+  <anchor x="-574" y="1930" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="-228" y="1458" type="line"/>

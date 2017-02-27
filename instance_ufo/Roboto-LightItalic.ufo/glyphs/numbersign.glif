@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="2">
+  <advance width="1155"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="768" y="1455" type="line"/>
+      <point x="667" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="551" y="0" type="line"/>
+      <point x="651" y="0" type="line"/>
+      <point x="1170" y="1455" type="line"/>
+      <point x="1069" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1226" y="945" type="line"/>
+      <point x="1242" y="1040" type="line"/>
+      <point x="232" y="1040" type="line"/>
+      <point x="216" y="945" type="line"/>
+    </contour>
+    <contour>
+      <point x="1061" y="410" type="line"/>
+      <point x="1076" y="504" type="line"/>
+      <point x="65" y="504" type="line"/>
+      <point x="50" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

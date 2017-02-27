@@ -21,12 +21,12 @@
     </contour>
     <contour>
       <point x="-797" y="1324" type="curve" smooth="yes"/>
-      <point x="-873" y="1324"/>
+      <point x="-872" y="1324"/>
       <point x="-909" y="1383"/>
       <point x="-909" y="1466" type="curve" smooth="yes"/>
       <point x="-909" y="1489" type="line" smooth="yes"/>
       <point x="-909" y="1570"/>
-      <point x="-873" y="1631"/>
+      <point x="-872" y="1631"/>
       <point x="-798" y="1631" type="curve" smooth="yes"/>
       <point x="-700" y="1631"/>
       <point x="-661" y="1509"/>

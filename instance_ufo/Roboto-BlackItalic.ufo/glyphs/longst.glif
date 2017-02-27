@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longst" format="2">
+  <advance width="1312"/>
+  <unicode hex="FB05"/>
+  <outline>
+    <contour>
+      <point x="486" y="1082" type="line"/>
+      <point x="95" y="1082" type="line"/>
+      <point x="52" y="848" type="line"/>
+      <point x="443" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="1559" type="curve" smooth="yes"/>
+      <point x="467" y="1560"/>
+      <point x="288" y="1421"/>
+      <point x="257" y="1170" type="curve" smooth="yes"/>
+      <point x="59" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="590" y="1170" type="line" smooth="yes"/>
+      <point x="608" y="1255"/>
+      <point x="671" y="1300"/>
+      <point x="752" y="1300" type="curve" smooth="yes"/>
+      <point x="802" y="1300"/>
+      <point x="857" y="1293"/>
+      <point x="904" y="1274" type="curve"/>
+      <point x="902" y="1244" type="line"/>
+      <point x="1214" y="1243" type="line"/>
+      <point x="1250" y="1449" type="line"/>
+      <point x="1077" y="1503"/>
+      <point x="905" y="1558"/>
+    </contour>
+    <component base="t" xOffset="627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

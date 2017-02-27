@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aacute" format="2">
+  <advance width="945"/>
+  <unicode hex="00E1"/>
+  <anchor x="593" y="1291" name="parent_top"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="637" y="1593" name="top"/>
+  <anchor x="1017" y="1291" name="top0315"/>
+  <anchor x="1062" y="1600" name="top_dd"/>
+  <anchor x="771" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="a"/>
+    <component base="acute" xOffset="308" yOffset="-1"/>
+  </outline>
+</glyph>

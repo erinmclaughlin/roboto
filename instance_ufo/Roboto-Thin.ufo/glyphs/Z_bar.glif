@@ -7,7 +7,7 @@
   <anchor x="1224" y="1612" name="top0315"/>
   <outline>
     <contour>
-      <point x="1015" y="783" type="line"/>
+      <point x="1015" y="783" type="line" name="hr00"/>
       <point x="188" y="783" type="line"/>
       <point x="188" y="729" type="line"/>
       <point x="1015" y="729" type="line"/>
@@ -16,11 +16,14 @@
   </outline>
   <lib>
     <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

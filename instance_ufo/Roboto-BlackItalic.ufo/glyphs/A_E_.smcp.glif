@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.smcp" format="2">
+  <advance width="1577"/>
+  <anchor x="926" y="1290" name="top"/>
+  <anchor x="703" y="0" name="bottom"/>
+  <anchor x="1697" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1467" y="258" type="line"/>
+      <point x="741" y="258" type="line"/>
+      <point x="694" y="0" type="line"/>
+      <point x="1420" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1446" y="734" type="line"/>
+      <point x="793" y="734" type="line"/>
+      <point x="745" y="475" type="line"/>
+      <point x="1398" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="1578" y="1165" type="line"/>
+      <point x="852" y="1165" type="line"/>
+      <point x="804" y="907" type="line"/>
+      <point x="1530" y="907" type="line"/>
+    </contour>
+    <contour>
+      <point x="799" y="1028" type="line"/>
+      <point x="786" y="1165" type="line"/>
+      <point x="552" y="1165" type="line"/>
+      <point x="-180" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="893" y="453" type="line"/>
+      <point x="228" y="453" type="line"/>
+      <point x="181" y="199" type="line"/>
+      <point x="846" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="1065" y="1165" type="line"/>
+      <point x="740" y="1165" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="908" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

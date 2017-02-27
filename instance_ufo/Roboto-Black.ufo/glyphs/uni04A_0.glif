@@ -4,10 +4,10 @@
   <unicode hex="04A0"/>
   <outline>
     <contour>
-      <point x="619" y="1456" type="line"/>
+      <point x="618" y="1456" type="line"/>
       <point x="22" y="1456" type="line"/>
       <point x="22" y="1195" type="line"/>
-      <point x="619" y="1195" type="line"/>
+      <point x="618" y="1195" type="line"/>
     </contour>
     <component base="K.alt" xOffset="389"/>
   </outline>

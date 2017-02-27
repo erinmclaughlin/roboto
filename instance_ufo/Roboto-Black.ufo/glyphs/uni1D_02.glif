@@ -3,8 +3,8 @@
   <advance width="1730"/>
   <unicode hex="1D02"/>
   <anchor x="822" y="1290" name="top"/>
-  <anchor x="1730" y="1290" name="top0315"/>
   <anchor x="822" y="0" name="bottom"/>
+  <anchor x="1730" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="1013" y="901" type="line"/>
@@ -26,7 +26,7 @@
     </contour>
     <contour>
       <point x="969" y="429" type="line"/>
-      <point x="1149" y="429" type="line" name="hr01"/>
+      <point x="1149" y="429" type="line"/>
       <point x="1490" y="429"/>
       <point x="1669" y="549"/>
       <point x="1669" y="760" type="curve" smooth="yes"/>
@@ -39,14 +39,14 @@
       <point x="965" y="735" type="line"/>
       <point x="965" y="794"/>
       <point x="1083" y="872"/>
-      <point x="1182" y="872" type="curve" smooth="yes" name="hr02"/>
+      <point x="1182" y="872" type="curve" smooth="yes"/>
       <point x="1284" y="872"/>
       <point x="1332" y="831"/>
       <point x="1332" y="764" type="curve" smooth="yes"/>
       <point x="1332" y="696"/>
       <point x="1268" y="633"/>
       <point x="1147" y="633" type="curve"/>
-      <point x="967" y="633" type="line"/>
+      <point x="966" y="633" type="line"/>
     </contour>
     <contour>
       <point x="492" y="1104" type="curve"/>
@@ -75,19 +75,16 @@
       <point x="44" y="171"/>
       <point x="221" y="-18"/>
       <point x="503" y="-18" type="curve" smooth="yes"/>
-      <point x="847" y="-20"/>
+      <point x="846" y="-20"/>
       <point x="1014" y="204"/>
       <point x="1014" y="520" type="curve" smooth="yes"/>
       <point x="1014" y="599" type="line" smooth="yes"/>
       <point x="1014" y="893"/>
-      <point x="829" y="1104"/>
+      <point x="828" y="1104"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.939</real>

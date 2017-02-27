@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE2A" format="2">
+  <unicode hex="FE2A"/>
+  <outline>
+    <contour>
+      <point x="-116" y="-360" type="line"/>
+      <point x="-28" y="-371"/>
+      <point x="62" y="-381"/>
+      <point x="150" y="-390" type="curve" smooth="yes"/>
+      <point x="236" y="-399"/>
+      <point x="324" y="-408"/>
+      <point x="410" y="-409" type="curve" smooth="yes"/>
+      <point x="551" y="-409"/>
+      <point x="714" y="-349"/>
+      <point x="767" y="-185" type="curve"/>
+      <point x="673" y="-153" type="line"/>
+      <point x="606" y="-241"/>
+      <point x="504" y="-266"/>
+      <point x="411" y="-267" type="curve" smooth="yes"/>
+      <point x="321" y="-267"/>
+      <point x="231" y="-258"/>
+      <point x="142" y="-251" type="curve" smooth="yes"/>
+      <point x="60" y="-243"/>
+      <point x="-23" y="-235"/>
+      <point x="-103" y="-217" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

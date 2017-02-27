@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopbarinv" format="2">
+  <advance width="897"/>
+  <unicode hex="01BE"/>
+  <outline>
+    <contour>
+      <point x="719" y="265" type="curve" smooth="yes"/>
+      <point x="687" y="106"/>
+      <point x="502" y="36"/>
+      <point x="358" y="34" type="curve" smooth="yes"/>
+      <point x="202" y="33"/>
+      <point x="52" y="98"/>
+      <point x="64" y="275" type="curve"/>
+      <point x="10" y="275" type="line"/>
+      <point x="-13" y="69"/>
+      <point x="179" y="-20"/>
+      <point x="359" y="-20" type="curve" smooth="yes"/>
+      <point x="536" y="-20"/>
+      <point x="742" y="69"/>
+      <point x="772" y="264" type="curve" smooth="yes"/>
+      <point x="814" y="526"/>
+      <point x="425" y="534"/>
+      <point x="476" y="831" type="curve" smooth="yes"/>
+      <point x="570" y="1374" type="line"/>
+      <point x="515" y="1374" type="line"/>
+      <point x="422" y="829" type="line" smooth="yes"/>
+      <point x="376" y="527"/>
+      <point x="764" y="491"/>
+    </contour>
+    <contour>
+      <point x="758" y="1082" type="line"/>
+      <point x="270" y="1082" type="line"/>
+      <point x="263" y="1027" type="line"/>
+      <point x="750" y="1027" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

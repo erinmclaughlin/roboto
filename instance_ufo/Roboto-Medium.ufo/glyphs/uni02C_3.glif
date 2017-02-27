@@ -7,12 +7,12 @@
       <point x="509" y="946" type="line"/>
       <point x="803" y="1015" type="line"/>
       <point x="803" y="880" type="line"/>
-      <point x="61" y="591" type="line"/>
-      <point x="61" y="783" type="line"/>
+      <point x="60" y="591" type="line"/>
+      <point x="60" y="783" type="line"/>
     </contour>
     <contour>
-      <point x="61" y="1141" type="line"/>
-      <point x="61" y="1333" type="line"/>
+      <point x="60" y="1141" type="line"/>
+      <point x="60" y="1332" type="line"/>
       <point x="803" y="1044" type="line"/>
       <point x="803" y="909" type="line"/>
       <point x="509" y="975" type="line"/>

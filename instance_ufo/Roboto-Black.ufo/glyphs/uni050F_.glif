@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni050F" format="2">
-  <advance width="1301"/>
+  <advance width="1300"/>
   <unicode hex="050F"/>
   <anchor x="615" y="0" name="right"/>
   <outline>
@@ -24,7 +24,7 @@
       <point x="860" y="703" type="line"/>
       <point x="900" y="614"/>
       <point x="922" y="515"/>
-      <point x="920" y="425" type="curve"/>
+      <point x="920" y="425" type="curve" smooth="yes"/>
       <point x="916" y="311"/>
       <point x="869" y="245"/>
       <point x="786" y="243" type="curve"/>
@@ -35,15 +35,4 @@
       <point x="330" y="1082" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

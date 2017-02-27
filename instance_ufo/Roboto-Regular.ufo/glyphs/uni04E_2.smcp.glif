@@ -6,6 +6,6 @@
   <anchor x="1260" y="1320" name="top0315"/>
   <outline>
     <component base="uni0418.smcp"/>
-    <component base="macron" xOffset="157" yOffset="38"/>
+    <component base="macron" xOffset="156" yOffset="38"/>
   </outline>
 </glyph>

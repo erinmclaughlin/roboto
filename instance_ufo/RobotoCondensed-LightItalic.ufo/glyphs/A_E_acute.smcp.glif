@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute.smcp" format="2">
+  <advance width="1333"/>
+  <anchor x="885" y="1592" name="top"/>
+  <anchor x="653" y="0" name="bottom"/>
+  <anchor x="840" y="1290" name="parent_top"/>
+  <anchor x="1405" y="1290" name="top0315"/>
+  <outline>
+    <component base="AE.smcp"/>
+    <component base="acute" xOffset="556" yOffset="-2"/>
+  </outline>
+</glyph>

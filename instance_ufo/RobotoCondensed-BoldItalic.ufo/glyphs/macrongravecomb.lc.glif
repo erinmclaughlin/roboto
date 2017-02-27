@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrongravecomb.lc" format="2">
+  <anchor x="-354" y="1292" name="_top"/>
+  <anchor x="-249" y="1978" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-36" y="1455" type="line"/>
+      <point x="-619" y="1455" type="line"/>
+      <point x="-648" y="1288" type="line"/>
+      <point x="-64" y="1288" type="line"/>
+    </contour>
+    <contour>
+      <point x="-308" y="1848" type="line"/>
+      <point x="-592" y="1847" type="line"/>
+      <point x="-396" y="1539" type="line"/>
+      <point x="-188" y="1540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0466" format="2">
+  <advance width="1254"/>
+  <unicode hex="0466"/>
+  <outline>
+    <contour>
+      <point x="834" y="1300" type="line"/>
+      <point x="818" y="1456" type="line"/>
+      <point x="673" y="1456" type="line"/>
+      <point x="-82" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="911" y="0" type="line"/>
+      <point x="1157" y="0" type="line"/>
+      <point x="912" y="1456" type="line"/>
+      <point x="767" y="1456" type="line"/>
+      <point x="711" y="1336" type="line"/>
+    </contour>
+    <contour>
+      <point x="1000" y="616" type="line"/>
+      <point x="280" y="616" type="line"/>
+      <point x="246" y="426" type="line"/>
+      <point x="966" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="743" y="541" type="line"/>
+      <point x="524" y="541" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

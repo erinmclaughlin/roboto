@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron.smcp" format="2">
+  <advance width="987"/>
+  <anchor x="531" y="1320" name="parent_top"/>
+  <anchor x="341" y="10" name="bottom"/>
+  <anchor x="581" y="1658" name="top"/>
+  <anchor x="1063" y="1320" name="top0315"/>
+  <anchor x="1104" y="1600" name="top_dd"/>
+  <anchor x="812" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="D.smcp"/>
+    <component base="caron" xOffset="36" yOffset="30"/>
+  </outline>
+</glyph>

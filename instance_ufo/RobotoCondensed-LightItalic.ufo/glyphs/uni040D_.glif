@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040D" format="2">
+  <advance width="1235"/>
+  <unicode hex="040D"/>
+  <anchor x="810" y="1914" name="top"/>
+  <anchor x="766" y="1612" name="parent_top"/>
+  <anchor x="1353" y="1612" name="top0315"/>
+  <outline>
+    <component base="uni0418"/>
+    <component base="grave" xOffset="348" yOffset="320"/>
+  </outline>
+</glyph>

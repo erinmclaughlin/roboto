@@ -12,15 +12,15 @@
       <point x="22" y="493" type="line"/>
       <point x="1273" y="493" type="line"/>
     </contour>
-    <component base="u" xOffset="85"/>
+    <component base="u" xOffset="84"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -12,18 +12,33 @@
     <contour>
       <point x="965" y="760" type="line"/>
       <point x="268" y="483" type="line"/>
-      <point x="268" y="293" type="line"/>
+      <point x="268" y="292" type="line"/>
       <point x="965" y="569" type="line"/>
     </contour>
     <component base="T"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>611.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

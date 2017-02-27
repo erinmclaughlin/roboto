@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rfishhook" format="2">
+  <advance width="693"/>
+  <unicode hex="027E"/>
+  <anchor x="381" y="1290" name="top"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="813" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="447" y="743" type="line" smooth="yes"/>
+      <point x="469" y="842"/>
+      <point x="559" y="884"/>
+      <point x="653" y="881" type="curve" smooth="yes"/>
+      <point x="679" y="880"/>
+      <point x="705" y="876"/>
+      <point x="730" y="871" type="curve"/>
+      <point x="750" y="1088" type="line"/>
+      <point x="687" y="1098"/>
+      <point x="625" y="1103"/>
+      <point x="562" y="1104" type="curve" smooth="yes"/>
+      <point x="307" y="1107"/>
+      <point x="141" y="999"/>
+      <point x="111" y="743" type="curve" smooth="yes"/>
+      <point x="-10" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

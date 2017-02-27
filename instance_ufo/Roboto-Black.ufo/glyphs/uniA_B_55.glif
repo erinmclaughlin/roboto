@@ -9,7 +9,7 @@
       <point x="511" y="-226" type="line"/>
       <point x="-12" y="-226" type="line"/>
     </contour>
-    <component base="uniAB53" xOffset="-1"/>
+    <component base="uniAB53"/>
   </outline>
   <lib>
     <dict>

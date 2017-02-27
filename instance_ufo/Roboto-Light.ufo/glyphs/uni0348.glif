@@ -5,7 +5,7 @@
   <anchor x="-575" y="0" name="_markbottom"/>
   <outline>
     <component base="linevert" xOffset="-792" yOffset="-1640"/>
-    <component base="linevert" xOffset="-589" yOffset="-1640"/>
+    <component base="linevert" xOffset="-588" yOffset="-1640"/>
   </outline>
   <lib>
     <dict>

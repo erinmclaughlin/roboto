@@ -33,7 +33,7 @@
       <point x="322" y="1374" type="line" smooth="yes"/>
       <point x="322" y="1297"/>
       <point x="296" y="1239"/>
-      <point x="238" y="1191" type="curve"/>
+      <point x="238" y="1190" type="curve"/>
       <point x="292" y="1145" type="line"/>
       <point x="375" y="1191"/>
       <point x="422" y="1283"/>
@@ -52,7 +52,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>340.0</real>
+          <real>372.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

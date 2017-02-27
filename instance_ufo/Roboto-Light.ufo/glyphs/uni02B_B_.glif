@@ -11,7 +11,7 @@
       <point x="230" y="1432"/>
       <point x="291" y="1518" type="curve"/>
       <point x="220" y="1569" type="line"/>
-      <point x="133" y="1489"/>
+      <point x="133" y="1488"/>
       <point x="80" y="1365"/>
       <point x="80" y="1239" type="curve" smooth="yes"/>
     </contour>

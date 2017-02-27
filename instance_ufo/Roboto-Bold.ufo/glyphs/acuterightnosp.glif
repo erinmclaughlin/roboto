@@ -2,7 +2,7 @@
 <glyph name="acuterightnosp" format="2">
   <unicode hex="0341"/>
   <anchor x="-105" y="1290" name="_marktop"/>
-  <anchor x="-105" y="1657" name="mkmktop"/>
+  <anchor x="-105" y="1656" name="mkmktop"/>
   <outline>
     <component base="acute" xOffset="-364"/>
   </outline>

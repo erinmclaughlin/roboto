@@ -4,17 +4,6 @@
   <unicode hex="045B"/>
   <outline>
     <component base="h"/>
-    <component base="crossbar" xOffset="-197" yOffset="548"/>
+    <component base="crossbar" xOffset="-196" yOffset="548"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

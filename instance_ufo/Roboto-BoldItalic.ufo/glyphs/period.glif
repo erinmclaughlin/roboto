@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="578"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="43" y="138" type="curve" smooth="yes"/>
+      <point x="45" y="48"/>
+      <point x="116" y="-14"/>
+      <point x="204" y="-13" type="curve" smooth="yes"/>
+      <point x="294" y="-11"/>
+      <point x="363" y="57"/>
+      <point x="361" y="148" type="curve" smooth="yes"/>
+      <point x="360" y="238"/>
+      <point x="289" y="301"/>
+      <point x="201" y="299" type="curve" smooth="yes"/>
+      <point x="110" y="298"/>
+      <point x="41" y="229"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

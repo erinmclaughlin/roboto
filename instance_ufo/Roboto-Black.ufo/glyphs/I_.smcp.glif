@@ -2,12 +2,12 @@
 <glyph name="I.smcp" format="2">
   <advance width="546"/>
   <anchor x="442" y="0" name="right"/>
-  <anchor x="276" y="-5" name="bottom"/>
+  <anchor x="546" y="1320" name="top0315"/>
   <anchor x="-38" y="1166" name="tonos"/>
   <anchor x="274" y="1320" name="top"/>
-  <anchor x="546" y="1320" name="top0315"/>
+  <anchor x="276" y="-5" name="bottom"/>
   <anchor x="546" y="1600" name="top_dd"/>
-  <anchor x="377" y="0" name="ogonek"/>
+  <anchor x="376" y="0" name="ogonek"/>
   <anchor x="546" y="-407" name="bottom_dd"/>
   <outline>
     <contour>
@@ -45,13 +45,6 @@
           <key>y</key>
           <real>444.0</real>
         </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
       </array>
     </dict>
   </lib>

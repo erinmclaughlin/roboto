@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0220" format="2">
-  <advance width="1353"/>
+  <advance width="1352"/>
   <unicode hex="0220"/>
   <outline>
     <contour>
-      <point x="1213" y="-418" type="line"/>
-      <point x="1213" y="993" type="line" smooth="yes"/>
-      <point x="1213" y="1315"/>
+      <point x="1212" y="-418" type="line"/>
+      <point x="1212" y="993" type="line" smooth="yes"/>
+      <point x="1212" y="1315"/>
       <point x="967" y="1476"/>
       <point x="690" y="1476" type="curve" smooth="yes"/>
       <point x="532" y="1476"/>

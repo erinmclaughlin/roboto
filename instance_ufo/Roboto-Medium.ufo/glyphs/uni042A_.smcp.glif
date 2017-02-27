@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="10" y="1165" type="line"/>
-      <point x="469" y="1165" type="line"/>
-      <point x="469" y="969" type="line"/>
+      <point x="468" y="1165" type="line"/>
+      <point x="468" y="969" type="line"/>
       <point x="10" y="969" type="line"/>
     </contour>
     <component base="uni042C.smcp" xOffset="242"/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubar" format="2">
-  <advance width="1439"/>
+  <advance width="1438"/>
   <unicode hex="0289"/>
   <anchor x="723" y="1290" name="top"/>
-  <anchor x="1439" y="1290" name="top0315"/>
   <anchor x="723" y="0" name="bottom"/>
+  <anchor x="1438" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="1407" y="665" type="line"/>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nhook" format="2">
+  <advance width="1316"/>
+  <unicode hex="019D"/>
+  <outline>
+    <contour>
+      <point x="252" y="869" type="line"/>
+      <point x="120" y="-34" type="line" smooth="yes"/>
+      <point x="106" y="-124"/>
+      <point x="81" y="-190"/>
+      <point x="10" y="-189" type="curve" smooth="yes"/>
+      <point x="-15" y="-189"/>
+      <point x="-39" y="-182"/>
+      <point x="-62" y="-174" type="curve"/>
+      <point x="-100" y="-421" type="line"/>
+      <point x="-56" y="-432"/>
+      <point x="-12" y="-439"/>
+      <point x="34" y="-440" type="curve" smooth="yes"/>
+      <point x="255" y="-442"/>
+      <point x="376" y="-272"/>
+      <point x="408" y="-32" type="curve" smooth="yes"/>
+      <point x="529" y="869" type="line"/>
+    </contour>
+    <component base="N" xOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042E" format="2">
+  <advance width="1830"/>
+  <unicode hex="042E"/>
+  <anchor x="1061" y="1600" name="top"/>
+  <anchor x="1992" y="1600" name="top0315"/>
+  <outline>
+    <component base="I" xOffset="-3"/>
+    <component base="hyphen" xScale="0.7" xOffset="307" yOffset="84"/>
+    <component base="O" xOffset="474"/>
+  </outline>
+</glyph>

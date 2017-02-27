@@ -5,7 +5,7 @@
   <anchor x="-573" y="0" name="_markbottom"/>
   <anchor x="-573" y="-394" name="mkmkbottom_acc"/>
   <outline>
-    <component base="tilde" xOffset="-1024" yOffset="-1615"/>
+    <component base="tilde" xOffset="-1024" yOffset="-1614"/>
   </outline>
   <lib>
     <dict>

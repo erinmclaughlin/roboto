@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve.unic" format="2">
+  <advance width="1231"/>
+  <anchor x="758" y="1642" name="parent_top"/>
+  <anchor x="515" y="0" name="bottom"/>
+  <anchor x="799" y="1914" name="top"/>
+  <anchor x="1353" y="1642" name="top0315"/>
+  <anchor x="1348" y="1600" name="top_dd"/>
+  <anchor x="1057" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="U.unic"/>
+    <component base="breve" xOffset="289" yOffset="353"/>
+  </outline>
+</glyph>

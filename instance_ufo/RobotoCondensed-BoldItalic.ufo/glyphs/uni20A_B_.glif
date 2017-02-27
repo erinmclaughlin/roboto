@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AB" format="2">
+  <advance width="1018"/>
+  <unicode hex="20AB"/>
+  <anchor x="564" y="1603" name="parent_top"/>
+  <anchor x="1135" y="1603" name="top0315"/>
+  <anchor x="564" y="1603" name="top"/>
+  <anchor x="412" y="0" name="bottom"/>
+  <anchor x="1136" y="1600" name="top_dd"/>
+  <anchor x="844" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="d"/>
+    <component base="crossbar" xOffset="364" yOffset="569"/>
+    <component base="underscore" xOffset="95" yOffset="-138"/>
+  </outline>
+</glyph>

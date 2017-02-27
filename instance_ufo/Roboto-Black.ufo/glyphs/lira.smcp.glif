@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lira.smcp" format="2">
-  <advance width="1217"/>
+  <advance width="1216"/>
   <outline>
     <contour>
       <point x="918" y="732" type="line"/>
-      <point x="73" y="732" type="line"/>
-      <point x="73" y="549" type="line"/>
+      <point x="72" y="732" type="line"/>
+      <point x="72" y="549" type="line"/>
       <point x="918" y="549" type="line"/>
     </contour>
     <contour>
       <point x="918" y="492" type="line"/>
-      <point x="73" y="492" type="line"/>
-      <point x="73" y="309" type="line"/>
+      <point x="72" y="492" type="line"/>
+      <point x="72" y="309" type="line"/>
       <point x="918" y="309" type="line"/>
     </contour>
     <contour>

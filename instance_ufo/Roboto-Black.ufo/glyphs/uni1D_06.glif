@@ -3,10 +3,10 @@
   <advance width="1292"/>
   <unicode hex="1D06"/>
   <anchor x="720" y="1290" name="top"/>
-  <anchor x="720" y="0" name="bottom"/>
   <anchor x="1292" y="1290" name="top0315"/>
+  <anchor x="720" y="0" name="bottom"/>
   <outline>
-    <component base="uni1D05" xOffset="147"/>
+    <component base="uni1D05" xOffset="146"/>
     <component base="crossbar" xOffset="-99" yOffset="-200"/>
   </outline>
   <lib>

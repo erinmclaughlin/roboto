@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qofdagesh" format="2">
+  <advance width="686"/>
+  <unicode hex="02DF"/>
+  <anchor x="442" y="1170" name="_top"/>
+  <outline>
+    <contour>
+      <point x="305" y="1151" type="line"/>
+      <point x="777" y="1567" type="line"/>
+      <point x="669" y="1704" type="line"/>
+      <point x="196" y="1290" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="1149" type="line"/>
+      <point x="722" y="1261" type="line"/>
+      <point x="378" y="1706" type="line"/>
+      <point x="251" y="1594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>1066.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>326.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

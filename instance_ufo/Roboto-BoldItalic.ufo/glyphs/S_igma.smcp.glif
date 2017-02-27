@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma.smcp" format="2">
+  <advance width="1058"/>
+  <outline>
+    <contour>
+      <point x="936" y="233" type="line"/>
+      <point x="113" y="233" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="895" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1071" y="1165" type="line"/>
+      <point x="292" y="1165" type="line"/>
+      <point x="251" y="932" type="line"/>
+      <point x="1030" y="932" type="line"/>
+    </contour>
+    <contour>
+      <point x="662" y="611" type="line"/>
+      <point x="359" y="1165" type="line"/>
+      <point x="168" y="1165" type="line"/>
+      <point x="143" y="1029" type="line"/>
+      <point x="372" y="615" type="line"/>
+      <point x="-6" y="167" type="line"/>
+      <point x="-35" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="661" y="593" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

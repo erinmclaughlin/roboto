@@ -10,6 +10,6 @@
   <anchor x="1816" y="-407" name="bottom_dd"/>
   <outline>
     <component base="m"/>
-    <component base="dotaccent" xOffset="683" yOffset="-2"/>
+    <component base="dotaccent" xOffset="682" yOffset="-2"/>
   </outline>
 </glyph>

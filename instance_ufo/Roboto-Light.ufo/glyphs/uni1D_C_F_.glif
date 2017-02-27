@@ -4,8 +4,8 @@
   <anchor x="-574" y="0" name="_markbottom"/>
   <outline>
     <contour>
-      <point x="-585" y="-107" type="line"/>
-      <point x="-680" y="-107" type="line"/>
+      <point x="-585" y="-106" type="line"/>
+      <point x="-680" y="-106" type="line"/>
       <point x="-756" y="-370" type="line"/>
       <point x="-661" y="-370" type="line"/>
     </contour>

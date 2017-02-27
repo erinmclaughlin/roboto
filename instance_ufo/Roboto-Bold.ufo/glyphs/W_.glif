@@ -10,7 +10,7 @@
   <outline>
     <contour>
       <point x="484" y="218" type="line"/>
-      <point x="485" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
       <point x="661" y="0" type="line"/>
       <point x="968" y="1263" type="line"/>
       <point x="936" y="1456" type="line"/>
@@ -67,6 +67,13 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

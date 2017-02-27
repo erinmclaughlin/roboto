@@ -6,7 +6,7 @@
     <contour>
       <point x="-904" y="1068" type="line"/>
       <point x="-808" y="1012" type="line"/>
-      <point x="-645" y="1275" type="line"/>
+      <point x="-644" y="1275" type="line"/>
       <point x="-740" y="1331" type="line"/>
     </contour>
     <component base="uni0367" xOffset="-18"/>

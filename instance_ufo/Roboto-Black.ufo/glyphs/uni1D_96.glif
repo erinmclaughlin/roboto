@@ -3,13 +3,13 @@
   <advance width="778"/>
   <unicode hex="1D96"/>
   <anchor x="283" y="1600" name="top"/>
-  <anchor x="778" y="1600" name="top0315"/>
   <anchor x="283" y="-447" name="bottom"/>
+  <anchor x="778" y="1600" name="top0315"/>
   <outline>
     <contour>
-      <point x="367" y="320" type="line"/>
-      <point x="367" y="-57" type="line" smooth="yes"/>
-      <point x="367" y="-289"/>
+      <point x="366" y="320" type="line"/>
+      <point x="366" y="-57" type="line" smooth="yes"/>
+      <point x="366" y="-289"/>
       <point x="493" y="-416"/>
       <point x="711" y="-416" type="curve" smooth="yes"/>
       <point x="760" y="-416"/>
@@ -30,9 +30,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

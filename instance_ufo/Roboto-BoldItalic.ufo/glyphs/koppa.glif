@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppa" format="2">
+  <advance width="1159"/>
+  <unicode hex="03DF"/>
+  <outline>
+    <contour>
+      <point x="965" y="834" type="line"/>
+      <point x="282" y="834" type="line"/>
+      <point x="241" y="601" type="line"/>
+      <point x="924" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="838" y="1456" type="line"/>
+      <point x="516" y="1456" type="line"/>
+      <point x="116" y="777" type="line"/>
+      <point x="87" y="601" type="line"/>
+      <point x="335" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="1085" y="669" type="line"/>
+      <point x="1113" y="834" type="line"/>
+      <point x="876" y="834" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0268.ccmp" format="2">
+  <advance width="607"/>
+  <anchor x="402" y="1279" name="top"/>
+  <anchor x="678" y="1279" name="top0315"/>
+  <anchor x="216" y="10" name="bottom"/>
+  <outline>
+    <component base="dotlessi" xOffset="92"/>
+    <component base="crossbar" xOffset="-95" yOffset="-127"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.779</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

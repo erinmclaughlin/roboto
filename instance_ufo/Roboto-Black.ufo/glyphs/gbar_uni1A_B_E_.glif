@@ -3,9 +3,9 @@
   <advance width="1493"/>
   <anchor x="689" y="-487" name="markbottom"/>
   <anchor x="689" y="1290" name="top"/>
-  <anchor x="689" y="-487" name="bottom"/>
-  <anchor x="736" y="-128" name="cross"/>
   <anchor x="1492" y="1290" name="top0315"/>
+  <anchor x="736" y="-128" name="cross"/>
+  <anchor x="689" y="-487" name="bottom"/>
   <outline>
     <component base="gbar" xOffset="137"/>
     <component base="uni1ABE" xOffset="1294" yOffset="-718"/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="versicle" format="2">
+  <advance width="1310"/>
+  <unicode hex="2123"/>
+  <outline>
+    <contour>
+      <point x="1115" y="1635" type="line"/>
+      <point x="763" y="1755" type="line"/>
+      <point x="687" y="1587" type="line"/>
+      <point x="874" y="1537" type="line"/>
+      <point x="75" y="-360" type="line"/>
+      <point x="253" y="-360" type="line"/>
+    </contour>
+    <component base="V"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

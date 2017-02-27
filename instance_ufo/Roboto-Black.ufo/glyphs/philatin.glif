@@ -3,8 +3,8 @@
   <advance width="1377"/>
   <unicode hex="0278"/>
   <anchor x="688" y="1600" name="top"/>
-  <anchor x="1377" y="1600" name="top0315"/>
   <anchor x="688" y="-447" name="bottom"/>
+  <anchor x="1377" y="1600" name="top0315"/>
   <outline>
     <contour>
       <point x="54" y="530" type="line"/>
@@ -57,7 +57,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>677.0</real>
+          <real>586.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

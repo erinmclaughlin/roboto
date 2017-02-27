@@ -2,7 +2,7 @@
 <glyph name="Y.smcp" format="2">
   <advance width="1067"/>
   <anchor x="1067" y="1320" name="top0315"/>
-  <anchor x="-57" y="1163" name="tonos"/>
+  <anchor x="-56" y="1163" name="tonos"/>
   <anchor x="533" y="1320" name="top"/>
   <anchor x="533" y="10" name="bottom"/>
   <anchor x="530" y="477" name="cross"/>

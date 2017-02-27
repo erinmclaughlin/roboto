@@ -4,7 +4,7 @@
   <unicode hex="0433"/>
   <anchor x="423" y="1290" name="top"/>
   <anchor x="426" y="0" name="right"/>
-  <anchor x="273" y="537" name="cross"/>
+  <anchor x="272" y="537" name="cross"/>
   <anchor x="858" y="1290" name="top0315"/>
   <outline>
     <contour>
@@ -16,15 +16,4 @@
       <point x="852" y="822" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

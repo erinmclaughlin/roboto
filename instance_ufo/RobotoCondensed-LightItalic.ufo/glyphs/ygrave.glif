@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave" format="2">
+  <advance width="841"/>
+  <unicode hex="1EF3"/>
+  <anchor x="538" y="1292" name="parent_top"/>
+  <anchor x="491" y="-158" name="bottom"/>
+  <anchor x="583" y="1593" name="top"/>
+  <anchor x="912" y="1292" name="top0315"/>
+  <anchor x="958" y="1600" name="top_dd"/>
+  <anchor x="666" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="y"/>
+    <component base="grave" xOffset="120"/>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D6F" format="2">
+  <advance width="1876"/>
+  <unicode hex="1D6F"/>
+  <anchor x="1062" y="1290" name="top"/>
+  <anchor x="840" y="0" name="bottom"/>
+  <anchor x="1995" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1785" y="702" type="line"/>
+      <point x="1712" y="593"/>
+      <point x="1612" y="561"/>
+      <point x="1483" y="561" type="curve" smooth="yes"/>
+      <point x="1114" y="558"/>
+      <point x="754" y="674"/>
+      <point x="385" y="673" type="curve" smooth="yes"/>
+      <point x="225" y="672"/>
+      <point x="76" y="623"/>
+      <point x="6" y="470" type="curve"/>
+      <point x="83" y="441" type="line"/>
+      <point x="154" y="554"/>
+      <point x="259" y="575"/>
+      <point x="387" y="575" type="curve" smooth="yes"/>
+      <point x="755" y="576"/>
+      <point x="1115" y="461"/>
+      <point x="1483" y="463" type="curve" smooth="yes"/>
+      <point x="1645" y="464"/>
+      <point x="1791" y="512"/>
+      <point x="1859" y="667" type="curve"/>
+    </contour>
+    <component base="m" xOffset="55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

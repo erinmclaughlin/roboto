@@ -10,35 +10,20 @@
       <point x="80" y="1644" type="line"/>
     </contour>
     <contour>
-      <point x="512" y="1157" type="line"/>
-      <point x="623" y="1157" type="line"/>
+      <point x="512" y="1156" type="line"/>
+      <point x="623" y="1156" type="line"/>
       <point x="623" y="1454" type="line"/>
       <point x="512" y="1499" type="line"/>
     </contour>
     <contour>
       <point x="80" y="1528" type="line"/>
-      <point x="1163" y="1234" type="line"/>
-      <point x="1192" y="1341" type="line"/>
+      <point x="1162" y="1234" type="line"/>
+      <point x="1192" y="1340" type="line"/>
       <point x="80" y="1644" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>538.0</real>
-          <key>y</key>
-          <real>0.0</real>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.967</real>

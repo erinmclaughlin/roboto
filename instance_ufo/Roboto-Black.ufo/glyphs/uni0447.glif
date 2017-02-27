@@ -4,8 +4,8 @@
   <unicode hex="0447"/>
   <anchor x="602" y="1290" name="top"/>
   <anchor x="1056" y="0" name="right"/>
-  <anchor x="1143" y="1290" name="top0315"/>
   <anchor x="719" y="0" name="left"/>
+  <anchor x="1143" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="1056" y="1082" type="line"/>
@@ -32,15 +32,4 @@
       <point x="885" y="375" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

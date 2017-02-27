@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute.smcp" format="2">
+  <advance width="1168"/>
+  <anchor x="701" y="1320" name="parent_top"/>
+  <anchor x="488" y="-1" name="bottom"/>
+  <anchor x="753" y="1620" name="top"/>
+  <anchor x="1283" y="1320" name="top0315"/>
+  <anchor x="1331" y="1600" name="top_dd"/>
+  <anchor x="984" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="acute" xOffset="392" yOffset="28"/>
+  </outline>
+</glyph>

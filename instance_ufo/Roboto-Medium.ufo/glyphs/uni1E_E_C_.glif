@@ -8,6 +8,6 @@
   <anchor x="1445" y="1612" name="top0315"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="hook" xOffset="1307" yOffset="328"/>
+    <component base="hook" xOffset="1306" yOffset="328"/>
   </outline>
 </glyph>

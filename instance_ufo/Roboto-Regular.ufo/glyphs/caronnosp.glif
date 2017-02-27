@@ -3,14 +3,14 @@
   <outline>
     <contour>
       <point x="-734" y="1515" type="line"/>
-      <point x="-893" y="1515" type="line"/>
-      <point x="-893" y="1494" type="line"/>
-      <point x="-643" y="1252" type="line"/>
+      <point x="-892" y="1515" type="line"/>
+      <point x="-892" y="1494" type="line"/>
+      <point x="-642" y="1252" type="line"/>
       <point x="-527" y="1252" type="line"/>
       <point x="-273" y="1497" type="line"/>
       <point x="-273" y="1515" type="line"/>
       <point x="-435" y="1515" type="line"/>
-      <point x="-585" y="1365" type="line"/>
+      <point x="-584" y="1365" type="line"/>
     </contour>
   </outline>
   <lib>

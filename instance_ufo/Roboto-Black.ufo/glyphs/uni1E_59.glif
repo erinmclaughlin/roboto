@@ -3,13 +3,13 @@
   <advance width="776"/>
   <unicode hex="1E59"/>
   <anchor x="413" y="1290" name="parent_top"/>
-  <anchor x="776" y="1290" name="top0315"/>
-  <anchor x="413" y="1668" name="top"/>
   <anchor x="266" y="10" name="bottom"/>
+  <anchor x="413" y="1668" name="top"/>
+  <anchor x="776" y="1290" name="top0315"/>
   <anchor x="776" y="1600" name="top_dd"/>
   <anchor x="776" y="-407" name="bottom_dd"/>
   <outline>
     <component base="r"/>
-    <component base="dotaccent" xOffset="139" yOffset="23"/>
+    <component base="dotaccent" xOffset="138" yOffset="23"/>
   </outline>
 </glyph>

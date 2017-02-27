@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash.smcp" format="2">
   <advance width="1212"/>
-  <anchor x="631" y="0" name="bottom"/>
+  <anchor x="630" y="0" name="bottom"/>
   <anchor x="131" y="1163" name="tonos"/>
   <anchor x="606" y="1320" name="top"/>
   <anchor x="1212" y="1320" name="top0315"/>
@@ -41,7 +41,7 @@
       <point x="932" y="617" type="curve"/>
     </contour>
     <contour>
-      <point x="1107" y="1207" type="line"/>
+      <point x="1106" y="1207" type="line"/>
       <point x="958" y="1207" type="line"/>
       <point x="112" y="-58" type="line"/>
       <point x="262" y="-58" type="line"/>

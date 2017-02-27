@@ -12,7 +12,7 @@
       <point x="-642" y="1753" type="line"/>
     </contour>
     <contour>
-      <point x="-841" y="1753" type="line"/>
+      <point x="-840" y="1753" type="line"/>
       <point x="-962" y="1753" type="line"/>
       <point x="-808" y="1201" type="line"/>
       <point x="-729" y="1201" type="line"/>
@@ -22,12 +22,12 @@
       <point x="-408" y="1402" type="line"/>
       <point x="-439" y="1201" type="line"/>
       <point x="-361" y="1201" type="line"/>
-      <point x="-207" y="1753" type="line"/>
-      <point x="-329" y="1753" type="line"/>
+      <point x="-206" y="1753" type="line"/>
+      <point x="-328" y="1753" type="line"/>
     </contour>
     <contour>
       <point x="-527" y="1753" type="line"/>
-      <point x="-631" y="1753" type="line"/>
+      <point x="-630" y="1753" type="line"/>
       <point x="-561" y="1531" type="line"/>
       <point x="-457" y="1201" type="line"/>
       <point x="-392" y="1201" type="line"/>

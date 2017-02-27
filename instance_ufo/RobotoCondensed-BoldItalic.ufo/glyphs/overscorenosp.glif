@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overscorenosp" format="2">
+  <unicode hex="0305"/>
+  <anchor x="-305" y="1581" name="_marktop"/>
+  <anchor x="-259" y="1891" name="mkmktop"/>
+  <anchor x="-292" y="1694" name="parent_top"/>
+  <outline>
+    <component base="underscore" xOffset="-584" yOffset="1809"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

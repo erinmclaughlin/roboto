@@ -2,10 +2,10 @@
 <glyph name="P" format="2">
   <advance width="1334"/>
   <unicode hex="0050"/>
-  <anchor x="1334" y="1612" name="top0315"/>
+  <anchor x="530" y="10" name="bottom"/>
   <anchor x="-59" y="1454" name="tonos"/>
   <anchor x="594" y="1612" name="top"/>
-  <anchor x="530" y="10" name="bottom"/>
+  <anchor x="1334" y="1612" name="top0315"/>
   <anchor x="1334" y="1600" name="top_dd"/>
   <anchor x="1334" y="-407" name="bottom_dd"/>
   <outline>
@@ -34,45 +34,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>901.0</real>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>555.0</real>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>1129.0</real>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.6</real>

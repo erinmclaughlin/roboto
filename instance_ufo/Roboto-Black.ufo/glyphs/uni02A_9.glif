@@ -3,8 +3,8 @@
   <advance width="1826"/>
   <unicode hex="02A9"/>
   <anchor x="1252" y="1700" name="top"/>
-  <anchor x="1826" y="1700" name="top0315"/>
   <anchor x="1252" y="-447" name="bottom"/>
+  <anchor x="1826" y="1700" name="top0315"/>
   <outline>
     <contour>
       <point x="1095" y="1082" type="line"/>
@@ -49,7 +49,7 @@
       <point x="1734" y="116" type="line"/>
     </contour>
     <contour>
-      <point x="508" y="0" type="line" name="hr01"/>
+      <point x="508" y="0" type="line"/>
       <point x="508" y="1170" type="line" smooth="yes"/>
       <point x="508" y="1252"/>
       <point x="562" y="1297"/>
@@ -57,7 +57,7 @@
       <point x="697" y="1297"/>
       <point x="720" y="1294"/>
       <point x="744" y="1288" type="curve"/>
-      <point x="743" y="1536" type="line"/>
+      <point x="742" y="1536" type="line"/>
       <point x="694" y="1548"/>
       <point x="642" y="1557"/>
       <point x="584" y="1557" type="curve" smooth="yes"/>
@@ -75,9 +75,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.939</real>

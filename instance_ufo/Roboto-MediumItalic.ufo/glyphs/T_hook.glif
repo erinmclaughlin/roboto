@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thook" format="2">
+  <advance width="1319"/>
+  <unicode hex="01AC"/>
+  <outline>
+    <contour>
+      <point x="987" y="1456" type="line"/>
+      <point x="741" y="1456" type="line"/>
+      <point x="489" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1427" y="1456" type="line"/>
+      <point x="591" y="1456" type="line"/>
+      <point x="555" y="1253" type="line"/>
+      <point x="1391" y="1253" type="line"/>
+    </contour>
+    <contour>
+      <point x="691" y="1253" type="line"/>
+      <point x="726" y="1456" type="line"/>
+      <point x="525" y="1456" type="line" smooth="yes"/>
+      <point x="311" y="1456"/>
+      <point x="135" y="1357"/>
+      <point x="118" y="1129" type="curve" smooth="yes"/>
+      <point x="115" y="1086"/>
+      <point x="118" y="1044"/>
+      <point x="125" y="1001" type="curve"/>
+      <point x="312" y="1001" type="line"/>
+      <point x="311" y="1026"/>
+      <point x="309" y="1051"/>
+      <point x="312" y="1076" type="curve" smooth="yes"/>
+      <point x="325" y="1190"/>
+      <point x="402" y="1253"/>
+      <point x="516" y="1253" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

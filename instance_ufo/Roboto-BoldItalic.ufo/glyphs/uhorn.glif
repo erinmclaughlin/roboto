@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="2">
+  <advance width="1212"/>
+  <unicode hex="01B0"/>
+  <anchor x="354" y="0" name="bottomu"/>
+  <anchor x="675" y="1269" name="top"/>
+  <anchor x="911" y="0" name="right"/>
+  <anchor x="1327" y="1269" name="top0315"/>
+  <anchor x="451" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="1222" y="1178" type="line"/>
+      <point x="1200" y="1016"/>
+      <point x="1142" y="932"/>
+      <point x="970" y="932" type="curve"/>
+      <point x="960" y="797" type="line"/>
+      <point x="1226" y="803"/>
+      <point x="1373" y="907"/>
+      <point x="1385" y="1179" type="curve"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

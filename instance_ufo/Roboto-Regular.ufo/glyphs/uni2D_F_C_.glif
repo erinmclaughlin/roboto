@@ -11,8 +11,8 @@
     </contour>
     <contour>
       <point x="-758" y="1753" type="line"/>
-      <point x="-881" y="1753" type="line"/>
-      <point x="-881" y="1201" type="line"/>
+      <point x="-880" y="1753" type="line"/>
+      <point x="-880" y="1201" type="line"/>
       <point x="-758" y="1201" type="line"/>
     </contour>
     <component base="uni0363" xOffset="156"/>

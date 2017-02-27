@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA717" format="2">
-  <advance width="773"/>
+  <advance width="772"/>
   <unicode hex="A717"/>
   <outline>
     <contour>
       <point x="462" y="1466" type="line"/>
       <point x="462" y="655" type="line"/>
-      <point x="693" y="655" type="line"/>
-      <point x="693" y="1466" type="line"/>
+      <point x="692" y="655" type="line"/>
+      <point x="692" y="1466" type="line"/>
     </contour>
     <contour>
       <point x="80" y="1060" type="curve" smooth="yes"/>
@@ -38,7 +38,7 @@
           <key>x</key>
           <real>0.0</real>
           <key>y</key>
-          <real>1060.0</real>
+          <real>1051.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>

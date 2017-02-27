@@ -2,9 +2,9 @@
 <glyph name="dyogh" format="2">
   <advance width="1905"/>
   <unicode hex="02A4"/>
-  <anchor x="1307" y="1600" name="top"/>
+  <anchor x="1306" y="1600" name="top"/>
+  <anchor x="1306" y="-447" name="bottom"/>
   <anchor x="1905" y="1600" name="top0315"/>
-  <anchor x="1307" y="-447" name="bottom"/>
   <outline>
     <contour>
       <point x="863" y="1082" type="line"/>

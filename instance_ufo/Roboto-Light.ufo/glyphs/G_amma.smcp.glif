@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma.smcp" format="2">
   <advance width="945"/>
-  <anchor x="521" y="1320" name="top"/>
+  <anchor x="520" y="1320" name="top"/>
   <anchor x="945" y="1320" name="top0315"/>
   <outline>
     <contour>

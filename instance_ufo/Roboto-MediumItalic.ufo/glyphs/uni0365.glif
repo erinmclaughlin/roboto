@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0365" format="2">
+  <unicode hex="0365"/>
+  <anchor x="-450" y="1170" name="_marktop"/>
+  <anchor x="-304" y="2018" name="_mkmktop"/>
+  <outline>
+    <contour>
+      <point x="-277" y="1753" type="line"/>
+      <point x="-418" y="1753" type="line"/>
+      <point x="-514" y="1201" type="line"/>
+      <point x="-374" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-405" y="1890" type="curve" smooth="yes"/>
+      <point x="-407" y="1843"/>
+      <point x="-370" y="1810"/>
+      <point x="-325" y="1812" type="curve" smooth="yes"/>
+      <point x="-282" y="1813"/>
+      <point x="-248" y="1844"/>
+      <point x="-246" y="1887" type="curve" smooth="yes"/>
+      <point x="-243" y="1934"/>
+      <point x="-280" y="1968"/>
+      <point x="-326" y="1967" type="curve" smooth="yes"/>
+      <point x="-369" y="1966"/>
+      <point x="-403" y="1933"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

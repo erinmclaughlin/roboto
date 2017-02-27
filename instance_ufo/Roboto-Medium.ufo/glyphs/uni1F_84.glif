@@ -9,6 +9,6 @@
   <outline>
     <component base="alpha"/>
     <component base="uni1FBE" xOffset="334" yOffset="-10"/>
-    <component base="uni1FCE" xOffset="303" yOffset="108"/>
+    <component base="uni1FCE" xOffset="302" yOffset="108"/>
   </outline>
 </glyph>

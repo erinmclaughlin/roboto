@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D43" format="2">
+  <advance width="731"/>
+  <unicode hex="1D43"/>
+  <outline>
+    <contour>
+      <point x="471" y="838" type="line" smooth="yes"/>
+      <point x="464" y="776"/>
+      <point x="470" y="713"/>
+      <point x="478" y="653" type="curve"/>
+      <point x="670" y="650" type="line"/>
+      <point x="672" y="668" type="line"/>
+      <point x="652" y="726"/>
+      <point x="663" y="790"/>
+      <point x="670" y="850" type="curve" smooth="yes"/>
+      <point x="710" y="1183" type="line"/>
+      <point x="720" y="1360"/>
+      <point x="618" y="1464"/>
+      <point x="472" y="1467" type="curve" smooth="yes"/>
+      <point x="333" y="1470"/>
+      <point x="179" y="1390"/>
+      <point x="175" y="1210" type="curve"/>
+      <point x="379" y="1211" type="line"/>
+      <point x="393" y="1269"/>
+      <point x="415" y="1299"/>
+      <point x="458" y="1297" type="curve" smooth="yes"/>
+      <point x="508" y="1295"/>
+      <point x="516" y="1248"/>
+      <point x="513" y="1184" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="540" y="1145" type="line"/>
+      <point x="433" y="1146" type="line" smooth="yes"/>
+      <point x="278" y="1146"/>
+      <point x="106" y="1084"/>
+      <point x="108" y="870" type="curve" smooth="yes"/>
+      <point x="109" y="730"/>
+      <point x="198" y="638"/>
+      <point x="315" y="638" type="curve" smooth="yes"/>
+      <point x="413" y="637"/>
+      <point x="494" y="716"/>
+      <point x="531" y="821" type="curve"/>
+      <point x="482" y="919" type="line"/>
+      <point x="471" y="849"/>
+      <point x="410" y="806"/>
+      <point x="364" y="808" type="curve" smooth="yes"/>
+      <point x="328" y="809"/>
+      <point x="307" y="837"/>
+      <point x="312" y="891" type="curve" smooth="yes"/>
+      <point x="322" y="985"/>
+      <point x="395" y="1012"/>
+      <point x="454" y="1014" type="curve" smooth="yes"/>
+      <point x="520" y="1013" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

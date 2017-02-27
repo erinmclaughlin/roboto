@@ -9,6 +9,6 @@
   <anchor x="1533" y="-407" name="bottom_dd"/>
   <outline>
     <component base="W.smcp"/>
-    <component base="acute" xOffset="517" yOffset="30"/>
+    <component base="acute" xOffset="516" yOffset="30"/>
   </outline>
 </glyph>

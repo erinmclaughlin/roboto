@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta.smcp" format="2">
+  <advance width="970"/>
+  <outline>
+    <contour>
+      <point x="707" y="0" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="112" y="152" type="line"/>
+      <point x="731" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="861" type="line"/>
+      <point x="522" y="1165" type="line"/>
+      <point x="642" y="1165" type="line"/>
+      <point x="844" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="-58" y="0" type="line"/>
+      <point x="484" y="1165" type="line"/>
+      <point x="623" y="1165" type="line"/>
+      <point x="509" y="884" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

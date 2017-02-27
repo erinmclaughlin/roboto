@@ -5,6 +5,6 @@
   <outline>
     <component base="Gamma" xOffset="68"/>
     <component base="crossbar" xOffset="-86" yOffset="64"/>
-    <component base="cyrillichook" xOffset="241"/>
+    <component base="cyrillichook" xOffset="240"/>
   </outline>
 </glyph>

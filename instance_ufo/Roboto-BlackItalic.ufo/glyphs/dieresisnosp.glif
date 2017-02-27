@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisnosp" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-487" y="1290" name="_marktop"/>
+  <anchor x="-431" y="1610" name="mkmktop"/>
+  <anchor x="-474" y="1365" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-872" y="1361" type="curve" smooth="yes"/>
+      <point x="-870" y="1283"/>
+      <point x="-796" y="1229"/>
+      <point x="-720" y="1231" type="curve" smooth="yes"/>
+      <point x="-643" y="1233"/>
+      <point x="-575" y="1291"/>
+      <point x="-578" y="1369" type="curve" smooth="yes"/>
+      <point x="-581" y="1447"/>
+      <point x="-655" y="1501"/>
+      <point x="-731" y="1499" type="curve" smooth="yes"/>
+      <point x="-807" y="1497"/>
+      <point x="-875" y="1439"/>
+    </contour>
+    <contour>
+      <point x="-369" y="1361" type="curve" smooth="yes"/>
+      <point x="-366" y="1283"/>
+      <point x="-292" y="1229"/>
+      <point x="-216" y="1231" type="curve" smooth="yes"/>
+      <point x="-140" y="1233"/>
+      <point x="-72" y="1291"/>
+      <point x="-75" y="1369" type="curve" smooth="yes"/>
+      <point x="-77" y="1447"/>
+      <point x="-151" y="1501"/>
+      <point x="-227" y="1499" type="curve" smooth="yes"/>
+      <point x="-304" y="1497"/>
+      <point x="-372" y="1439"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

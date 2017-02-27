@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="digamma" format="2">
+  <advance width="1004"/>
+  <unicode hex="03DD"/>
+  <outline>
+    <contour>
+      <point x="359" y="1082" type="line"/>
+      <point x="241" y="1082" type="line"/>
+      <point x="-18" y="-416" type="line"/>
+      <point x="100" y="-416" type="line"/>
+    </contour>
+    <contour>
+      <point x="833" y="555" type="line"/>
+      <point x="228" y="555" type="line"/>
+      <point x="211" y="454" type="line"/>
+      <point x="816" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="1009" y="1082" type="line"/>
+      <point x="320" y="1082" type="line"/>
+      <point x="303" y="981" type="line"/>
+      <point x="992" y="981" type="line"/>
+    </contour>
+    <contour>
+      <point x="778" y="230" type="line"/>
+      <point x="834" y="555" type="line"/>
+      <point x="734" y="555" type="line"/>
+      <point x="678" y="231" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

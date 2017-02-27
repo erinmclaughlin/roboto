@@ -10,6 +10,6 @@
   <anchor x="1114" y="-407" name="bottom_dd"/>
   <outline>
     <component base="a"/>
-    <component base="circumflexhookcomb" xOffset="109" yOffset="-27"/>
+    <component base="circumflexhookcomb" xOffset="108" yOffset="-27"/>
   </outline>
 </glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC9" format="2">
+  <advance width="531"/>
+  <unicode hex="1EC9"/>
+  <anchor x="425" y="1724" name="top"/>
+  <anchor x="600" y="1274" name="top0315"/>
+  <anchor x="358" y="1274" name="parent_top"/>
+  <anchor x="165" y="10" name="bottom"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="hook" xOffset="739" yOffset="-19"/>
+  </outline>
+</glyph>

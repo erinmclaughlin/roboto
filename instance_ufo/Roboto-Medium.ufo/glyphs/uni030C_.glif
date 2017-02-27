@@ -7,8 +7,8 @@
   <anchor x="-585" y="1393" name="parent_top"/>
   <outline>
     <contour>
-      <point x="-515" y="1249" type="line"/>
-      <point x="-658" y="1249" type="line"/>
+      <point x="-515" y="1248" type="line"/>
+      <point x="-658" y="1248" type="line"/>
       <point x="-928" y="1524" type="line"/>
       <point x="-928" y="1537" type="line"/>
       <point x="-736" y="1537" type="line"/>

@@ -3,14 +3,14 @@
   <advance width="1156"/>
   <unicode hex="0281"/>
   <anchor x="617" y="1290" name="top"/>
-  <anchor x="1156" y="1290" name="top0315"/>
   <anchor x="617" y="0" name="bottom"/>
+  <anchor x="1156" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="824" y="531" type="line"/>
-      <point x="1119" y="1082" type="line"/>
+      <point x="1118" y="1082" type="line"/>
       <point x="783" y="1082" type="line"/>
-      <point x="489" y="531" type="line"/>
+      <point x="488" y="531" type="line"/>
     </contour>
     <contour>
       <point x="612" y="0" type="line"/>
@@ -39,8 +39,8 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.939</real>
         <real>1.0</real>
+        <real>0.779</real>
         <real>0.6</real>
         <real>1.0</real>
       </array>

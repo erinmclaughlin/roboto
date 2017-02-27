@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.smcp" format="2">
+  <advance width="904"/>
+  <outline>
+    <contour>
+      <point x="823" y="580" type="line"/>
+      <point x="68" y="580" type="line"/>
+      <point x="42" y="434" type="line"/>
+      <point x="797" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="363" type="line"/>
+      <point x="30" y="363" type="line"/>
+      <point x="4" y="217" type="line"/>
+      <point x="760" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="525" type="line"/>
+      <point x="388" y="386" type="line"/>
+      <point x="523" y="386" type="line"/>
+      <point x="1000" y="1165" type="line"/>
+      <point x="739" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="1166" type="line"/>
+      <point x="111" y="1165" type="line"/>
+      <point x="316" y="386" type="line"/>
+      <point x="447" y="387" type="line"/>
+      <point x="490" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="550" type="line"/>
+      <point x="322" y="550" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

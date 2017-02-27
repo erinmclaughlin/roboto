@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1173"/>
+  <unicode hex="0138"/>
+  <anchor x="700" y="1290" name="top"/>
+  <anchor x="478" y="10" name="bottom"/>
+  <anchor x="1292" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="492" y="1082" type="line"/>
+      <point x="209" y="1082" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="304" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1214" y="1082" type="line"/>
+      <point x="838" y="1082" type="line"/>
+      <point x="494" y="676" type="line"/>
+      <point x="336" y="675" type="line"/>
+      <point x="322" y="399" type="line"/>
+      <point x="613" y="399" type="line"/>
+    </contour>
+    <contour>
+      <point x="681" y="0" type="line"/>
+      <point x="1027" y="0" type="line"/>
+      <point x="717" y="597" type="line"/>
+      <point x="466" y="464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

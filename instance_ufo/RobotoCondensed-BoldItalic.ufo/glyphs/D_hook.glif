@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dhook" format="2">
+  <advance width="1396"/>
+  <unicode hex="018A"/>
+  <outline>
+    <contour>
+      <point x="678" y="1211" type="line"/>
+      <point x="718" y="1456" type="line"/>
+      <point x="498" y="1457" type="line" smooth="yes"/>
+      <point x="287" y="1458"/>
+      <point x="135" y="1330"/>
+      <point x="119" y="1082" type="curve" smooth="yes"/>
+      <point x="116" y="1034"/>
+      <point x="118" y="986"/>
+      <point x="125" y="938" type="curve"/>
+      <point x="345" y="938" type="line"/>
+      <point x="344" y="968"/>
+      <point x="343" y="996"/>
+      <point x="345" y="1026" type="curve" smooth="yes"/>
+      <point x="354" y="1135"/>
+      <point x="399" y="1212"/>
+      <point x="488" y="1214" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="688" y="0" type="line" smooth="yes"/>
+      <point x="1038" y="-2"/>
+      <point x="1287" y="302"/>
+      <point x="1331" y="695" type="curve" smooth="yes"/>
+      <point x="1334" y="760" type="line" smooth="yes"/>
+      <point x="1368" y="1126"/>
+      <point x="1200" y="1446"/>
+      <point x="868" y="1455" type="curve" smooth="yes"/>
+      <point x="627" y="1456" type="line"/>
+      <point x="585" y="1211" type="line"/>
+      <point x="860" y="1210" type="line" smooth="yes"/>
+      <point x="1055" y="1207"/>
+      <point x="1062" y="969"/>
+      <point x="1043" y="764" type="curve" smooth="yes"/>
+      <point x="1040" y="697" type="line" smooth="yes"/>
+      <point x="1013" y="450"/>
+      <point x="912" y="242"/>
+      <point x="696" y="243" type="curve" smooth="yes"/>
+      <point x="462" y="244" type="line"/>
+      <point x="419" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="799" y="1456" type="line"/>
+      <point x="520" y="1456" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="587" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

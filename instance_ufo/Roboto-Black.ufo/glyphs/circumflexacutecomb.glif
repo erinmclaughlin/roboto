@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexacutecomb" format="2">
-  <advance width="1027"/>
+  <advance width="1026"/>
   <anchor x="505" y="1335" name="_top"/>
   <outline>
     <contour>
@@ -19,4 +19,15 @@
       <point x="966" y="1656" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

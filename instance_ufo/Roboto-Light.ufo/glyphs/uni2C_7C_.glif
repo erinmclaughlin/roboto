@@ -3,7 +3,7 @@
   <advance width="473"/>
   <unicode hex="2C7C"/>
   <outline>
-    <component base="jsuper" xOffset="5" yOffset="-858"/>
+    <component base="jsuper" xOffset="4" yOffset="-858"/>
   </outline>
   <lib>
     <dict>

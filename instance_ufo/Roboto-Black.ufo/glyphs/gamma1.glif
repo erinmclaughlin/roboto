@@ -2,9 +2,9 @@
 <glyph name="gamma1" format="2">
   <advance width="1149"/>
   <unicode hex="0263"/>
-  <anchor x="577" y="1290" name="top"/>
+  <anchor x="576" y="1290" name="top"/>
+  <anchor x="576" y="-447" name="bottom"/>
   <anchor x="1149" y="1290" name="top0315"/>
-  <anchor x="577" y="-447" name="bottom"/>
   <outline>
     <contour>
       <point x="575" y="-437" type="curve" smooth="yes"/>

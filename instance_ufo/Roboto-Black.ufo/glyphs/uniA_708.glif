@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA708" format="2">
-  <advance width="795"/>
+  <advance width="794"/>
   <unicode hex="A708"/>
   <outline>
     <contour>
-      <point x="679" y="1456" type="line"/>
+      <point x="678" y="1456" type="line"/>
       <point x="495" y="1456" type="line"/>
       <point x="495" y="-270" type="line"/>
-      <point x="679" y="-270" type="line"/>
+      <point x="678" y="-270" type="line"/>
     </contour>
     <contour>
       <point x="26" y="1328" type="curve" smooth="yes"/>

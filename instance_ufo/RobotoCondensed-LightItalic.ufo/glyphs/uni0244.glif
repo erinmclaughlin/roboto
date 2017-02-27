@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0244" format="2">
+  <advance width="1296"/>
+  <unicode hex="0244"/>
+  <anchor x="794" y="1606" name="top"/>
+  <anchor x="561" y="0" name="bottom"/>
+  <anchor x="1422" y="1606" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1278" y="802" type="line"/>
+      <point x="77" y="802" type="line"/>
+      <point x="62" y="698" type="line"/>
+      <point x="1263" y="698" type="line"/>
+    </contour>
+    <component base="U" xOffset="81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

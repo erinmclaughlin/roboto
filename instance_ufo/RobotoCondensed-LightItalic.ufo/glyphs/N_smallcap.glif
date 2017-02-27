@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nsmallcap" format="2">
+  <advance width="966"/>
+  <unicode hex="0274"/>
+  <anchor x="585" y="1290" name="top"/>
+  <anchor x="397" y="0" name="bottom"/>
+  <anchor x="1046" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="327" y="1080" type="line"/>
+      <point x="713" y="69" type="line"/>
+      <point x="623" y="0" type="line"/>
+      <point x="239" y="1013" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="216" y="1082" type="line"/>
+      <point x="323" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="734" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="787" y="1082" type="line"/>
+      <point x="893" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.779</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

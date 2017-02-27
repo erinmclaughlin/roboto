@@ -2,7 +2,7 @@
 <glyph name="ringlefthalfsubnosp" format="2">
   <unicode hex="031C"/>
   <anchor x="-531" y="-475" name="mkmkbottom_acc"/>
-  <anchor x="-531" y="-7" name="_markbottom"/>
+  <anchor x="-531" y="-6" name="_markbottom"/>
   <outline>
     <contour>
       <point x="-447" y="-469" type="line"/>
@@ -25,9 +25,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.798</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

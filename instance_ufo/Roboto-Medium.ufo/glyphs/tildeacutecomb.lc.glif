@@ -26,10 +26,10 @@
       <point x="-211" y="1513" type="curve"/>
     </contour>
     <contour>
-      <point x="-701" y="1574" type="line"/>
+      <point x="-700" y="1574" type="line"/>
       <point x="-505" y="1574" type="line"/>
-      <point x="-229" y="1877" type="line"/>
-      <point x="-505" y="1877" type="line"/>
+      <point x="-229" y="1876" type="line"/>
+      <point x="-505" y="1876" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0474" format="2">
+  <advance width="1073"/>
+  <unicode hex="0474"/>
+  <anchor x="638" y="1544" name="top"/>
+  <anchor x="1190" y="1544" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="474" y="267" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="950" y="1181" type="line" smooth="yes"/>
+      <point x="989" y="1276"/>
+      <point x="1037" y="1366"/>
+      <point x="1131" y="1366" type="curve"/>
+      <point x="1139" y="1366" type="line"/>
+      <point x="1151" y="1476" type="line"/>
+      <point x="1123" y="1476" type="line" smooth="yes"/>
+      <point x="975" y="1476"/>
+      <point x="902" y="1352"/>
+      <point x="845" y="1205" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="286" y="1456" type="line"/>
+      <point x="168" y="1457" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="422" y="254" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

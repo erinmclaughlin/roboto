@@ -3,9 +3,9 @@
   <advance width="1308"/>
   <unicode hex="0058"/>
   <anchor x="1139" y="0" name="right"/>
-  <anchor x="655" y="19" name="bottom"/>
-  <anchor x="636" y="1612" name="top"/>
   <anchor x="1308" y="1612" name="top0315"/>
+  <anchor x="636" y="1612" name="top"/>
+  <anchor x="655" y="19" name="bottom"/>
   <anchor x="650" y="742" name="cross"/>
   <anchor x="1308" y="1600" name="top_dd"/>
   <anchor x="1308" y="-407" name="bottom_dd"/>
@@ -55,25 +55,13 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>1269.0</real>
-        </dict>
-        <dict>
-          <key>angle</key>
           <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>623.0</real>
+          <real>698.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

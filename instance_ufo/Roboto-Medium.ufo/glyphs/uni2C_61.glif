@@ -4,7 +4,7 @@
   <unicode hex="2C61"/>
   <outline>
     <component base="l" xOffset="106"/>
-    <component base="crossbar" xOffset="-111" yOffset="213"/>
+    <component base="crossbar" xOffset="-111" yOffset="212"/>
     <component base="crossbar" xOffset="-111" yOffset="-88"/>
   </outline>
   <lib>

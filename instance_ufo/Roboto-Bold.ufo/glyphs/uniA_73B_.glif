@@ -40,7 +40,7 @@
       <point x="710" y="59"/>
       <point x="738" y="0" type="curve"/>
       <point x="978" y="0" type="line"/>
-      <point x="978" y="722" type="line"/>
+      <point x="978" y="722" type="line" smooth="yes"/>
       <point x="978" y="975"/>
       <point x="799" y="1102"/>
       <point x="553" y="1102" type="curve" smooth="yes"/>

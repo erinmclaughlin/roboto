@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="1196"/>
+  <unicode hex="0166"/>
+  <anchor x="765" y="1602" name="parent_top"/>
+  <anchor x="491" y="0" name="bottom"/>
+  <anchor x="765" y="1602" name="top"/>
+  <anchor x="1360" y="1602" name="top0315"/>
+  <anchor x="1359" y="1600" name="top_dd"/>
+  <anchor x="1012" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="T"/>
+    <component base="crossbar" xOffset="196" yOffset="148"/>
+  </outline>
+</glyph>

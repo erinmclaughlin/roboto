@@ -31,7 +31,7 @@
       <point x="1080" y="189"/>
       <point x="1034" y="208"/>
       <point x="1034" y="306" type="curve"/>
-      <point x="1035" y="1082" type="line"/>
+      <point x="1034" y="1082" type="line"/>
     </contour>
   </outline>
   <lib>

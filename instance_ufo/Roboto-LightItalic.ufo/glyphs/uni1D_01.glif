@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D01" format="2">
+  <advance width="1526"/>
+  <unicode hex="1D01"/>
+  <anchor x="974" y="1290" name="top"/>
+  <anchor x="751" y="0" name="bottom"/>
+  <anchor x="1645" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1372" y="101" type="line"/>
+      <point x="730" y="101" type="line"/>
+      <point x="713" y="0" type="line"/>
+      <point x="1356" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1368" y="615" type="line"/>
+      <point x="806" y="615" type="line"/>
+      <point x="789" y="514" type="line"/>
+      <point x="1352" y="514" type="line"/>
+    </contour>
+    <contour>
+      <point x="1522" y="1082" type="line"/>
+      <point x="880" y="1082" type="line"/>
+      <point x="864" y="981" type="line"/>
+      <point x="1506" y="981" type="line"/>
+    </contour>
+    <contour>
+      <point x="800" y="1002" type="line"/>
+      <point x="827" y="1081" type="line"/>
+      <point x="741" y="1081" type="line"/>
+      <point x="-93" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="384" type="line"/>
+      <point x="243" y="384" type="line"/>
+      <point x="226" y="283" type="line"/>
+      <point x="757" y="283" type="line"/>
+    </contour>
+    <contour>
+      <point x="909" y="1082" type="line"/>
+      <point x="792" y="1082" type="line"/>
+      <point x="625" y="0" type="line"/>
+      <point x="742" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

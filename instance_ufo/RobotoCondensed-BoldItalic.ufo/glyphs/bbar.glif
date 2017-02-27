@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bbar" format="2">
+  <advance width="1074"/>
+  <unicode hex="0180"/>
+  <anchor x="482" y="-10" name="markbottom"/>
+  <anchor x="723" y="1603" name="top"/>
+  <anchor x="433" y="1302" name="parenthesses.w2"/>
+  <anchor x="482" y="-10" name="bottom"/>
+  <anchor x="1191" y="1603" name="top0315"/>
+  <outline>
+    <component base="b" xOffset="81"/>
+    <component base="crossbar" xOffset="-24" yOffset="560"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

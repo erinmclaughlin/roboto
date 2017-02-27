@@ -5,6 +5,6 @@
   <anchor x="707" y="-3" name="bottom"/>
   <outline>
     <component base="uni04BD"/>
-    <component base="cyrillictic" xOffset="513" yOffset="-66"/>
+    <component base="cyrillictic" xOffset="512" yOffset="-66"/>
   </outline>
 </glyph>

@@ -3,13 +3,13 @@
   <advance width="1355"/>
   <unicode hex="0110"/>
   <anchor x="482" y="1600" name="parent_top"/>
-  <anchor x="1355" y="1600" name="top0315"/>
-  <anchor x="482" y="1600" name="top"/>
   <anchor x="481" y="10" name="bottom"/>
+  <anchor x="482" y="1600" name="top"/>
+  <anchor x="1355" y="1600" name="top0315"/>
   <anchor x="1355" y="1600" name="top_dd"/>
   <anchor x="1355" y="-407" name="bottom_dd"/>
   <outline>
     <component base="D" xOffset="30"/>
-    <component base="crossbar" xOffset="-139" yOffset="-16"/>
+    <component base="crossbar" xOffset="-138" yOffset="-16"/>
   </outline>
 </glyph>

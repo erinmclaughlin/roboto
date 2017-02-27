@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1AB1" format="2">
   <unicode hex="1AB1"/>
-  <anchor x="-575" y="1170" name="_marktop"/>
+  <anchor x="-574" y="1170" name="_marktop"/>
   <outline>
     <contour>
       <point x="-1168" y="1365" type="curve" smooth="yes"/>
@@ -31,7 +31,7 @@
       <point x="-240" y="1498"/>
       <point x="-306" y="1440"/>
     </contour>
-    <component base="ring" xOffset="-917" yOffset="69"/>
+    <component base="ring" xOffset="-916" yOffset="69"/>
   </outline>
   <lib>
     <dict>

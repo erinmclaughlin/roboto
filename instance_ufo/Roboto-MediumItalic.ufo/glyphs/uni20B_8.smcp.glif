@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B8.smcp" format="2">
+  <advance width="985"/>
+  <outline>
+    <contour>
+      <point x="649" y="832" type="line"/>
+      <point x="411" y="832" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="997" y="871" type="line"/>
+      <point x="82" y="871" type="line"/>
+      <point x="48" y="677" type="line"/>
+      <point x="962" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="1047" y="1165" type="line"/>
+      <point x="133" y="1165" type="line"/>
+      <point x="99" y="970" type="line"/>
+      <point x="1013" y="970" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="2">
+  <advance width="445"/>
+  <unicode hex="F6C3"/>
+  <anchor x="123" y="78" name="_right"/>
+  <anchor x="90" y="116" name="_caron"/>
+  <anchor x="172" y="215" name="_bottom"/>
+  <anchor x="100" y="-203" name="mkmkbottom_acc"/>
+  <outline>
+    <contour>
+      <point x="182" y="116" type="line"/>
+      <point x="129" y="116" type="line"/>
+      <point x="115" y="37" type="line" smooth="yes"/>
+      <point x="99" y="-43"/>
+      <point x="64" y="-107"/>
+      <point x="12" y="-169" type="curve"/>
+      <point x="46" y="-203" type="line"/>
+      <point x="113" y="-136"/>
+      <point x="153" y="-55"/>
+      <point x="170" y="39" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

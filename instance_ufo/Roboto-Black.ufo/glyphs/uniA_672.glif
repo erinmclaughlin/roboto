@@ -39,26 +39,26 @@
       <point x="512" y="441" type="line"/>
     </contour>
     <contour>
-      <point x="-91" y="-477" type="line"/>
-      <point x="-91" y="-85" type="line"/>
+      <point x="-90" y="-477" type="line"/>
+      <point x="-90" y="-85" type="line"/>
       <point x="-363" y="-85" type="line"/>
       <point x="-363" y="-477" type="line"/>
     </contour>
     <contour>
-      <point x="-791" y="-477" type="line"/>
-      <point x="-791" y="-85" type="line"/>
+      <point x="-790" y="-477" type="line"/>
+      <point x="-790" y="-85" type="line"/>
       <point x="-1063" y="-85" type="line"/>
       <point x="-1063" y="-477" type="line"/>
     </contour>
     <contour>
-      <point x="-441" y="-477" type="line"/>
-      <point x="-441" y="-85" type="line"/>
+      <point x="-440" y="-477" type="line"/>
+      <point x="-440" y="-85" type="line"/>
       <point x="-713" y="-85" type="line"/>
       <point x="-713" y="-477" type="line"/>
     </contour>
     <contour>
-      <point x="-441" y="1148" type="line"/>
-      <point x="-441" y="1620" type="line"/>
+      <point x="-440" y="1148" type="line"/>
+      <point x="-440" y="1620" type="line"/>
       <point x="-713" y="1620" type="line"/>
       <point x="-713" y="1148" type="line"/>
     </contour>
@@ -71,6 +71,21 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>571.0</real>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.967</real>

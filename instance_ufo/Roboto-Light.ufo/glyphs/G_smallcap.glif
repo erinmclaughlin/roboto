@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gsmallcap" format="2">
-  <advance width="1209"/>
+  <advance width="1208"/>
   <unicode hex="0262"/>
   <anchor x="617" y="1290" name="top"/>
   <anchor x="617" y="0" name="bottom"/>
-  <anchor x="1209" y="1290" name="top0315"/>
+  <anchor x="1208" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="1080" y="521" type="line"/>
@@ -45,8 +45,8 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.939</real>
         <real>1.0</real>
+        <real>0.779</real>
         <real>0.6</real>
         <real>1.0</real>
       </array>

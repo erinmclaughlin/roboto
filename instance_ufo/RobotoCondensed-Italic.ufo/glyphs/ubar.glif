@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubar" format="2">
+  <advance width="1100"/>
+  <unicode hex="0289"/>
+  <anchor x="647" y="1290" name="top"/>
+  <anchor x="459" y="0" name="bottom"/>
+  <anchor x="1180" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1073" y="645" type="line"/>
+      <point x="42" y="645" type="line"/>
+      <point x="17" y="493" type="line"/>
+      <point x="1048" y="493" type="line"/>
+    </contour>
+    <component base="u" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

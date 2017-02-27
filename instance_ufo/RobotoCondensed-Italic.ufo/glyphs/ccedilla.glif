@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+  <advance width="927"/>
+  <unicode hex="00E7"/>
+  <anchor x="552" y="1290" name="parent_top"/>
+  <anchor x="999" y="1290" name="top0315"/>
+  <anchor x="552" y="1290" name="top"/>
+  <anchor x="300" y="-450" name="bottom"/>
+  <anchor x="1044" y="1600" name="top_dd"/>
+  <anchor x="752" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="251" yOffset="-10"/>
+  </outline>
+</glyph>

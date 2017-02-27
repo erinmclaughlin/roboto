@@ -21,6 +21,6 @@
       <point x="422" y="625" type="curve" smooth="yes"/>
       <point x="186" y="625" type="line"/>
     </contour>
-    <component base="uni0433" xOffset="-5"/>
+    <component base="uni0433" xOffset="-4"/>
   </outline>
 </glyph>

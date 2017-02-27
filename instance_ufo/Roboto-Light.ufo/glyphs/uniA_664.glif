@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="1884" y="1456" type="line"/>
-      <point x="1201" y="1456" type="line"/>
-      <point x="1201" y="1351" type="line"/>
+      <point x="1200" y="1456" type="line"/>
+      <point x="1200" y="1351" type="line"/>
       <point x="1884" y="1351" type="line"/>
     </contour>
     <component base="uni041B"/>
@@ -15,9 +15,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+  <advance width="855"/>
+  <unicode hex="0078"/>
+  <anchor x="656" y="0" name="right"/>
+  <anchor x="924" y="1280" name="top0315"/>
+  <anchor x="522" y="1280" name="top"/>
+  <anchor x="361" y="10" name="bottom"/>
+  <anchor x="424" y="553" name="cross"/>
+  <anchor x="966" y="1600" name="top_dd"/>
+  <anchor x="703" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="256" y="1083" type="line"/>
+      <point x="135" y="1083" type="line"/>
+      <point x="362" y="558" type="line"/>
+      <point x="-23" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="411" y="455" type="line"/>
+      <point x="594" y="0" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="479" y="544" type="line"/>
+      <point x="850" y="1081" type="line"/>
+      <point x="715" y="1081" type="line"/>
+      <point x="429" y="647" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>544.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

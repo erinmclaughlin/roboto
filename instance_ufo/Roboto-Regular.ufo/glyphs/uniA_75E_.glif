@@ -7,7 +7,7 @@
       <point x="1007" y="1557" type="line"/>
       <point x="849" y="1557" type="line"/>
       <point x="266" y="-125" type="line"/>
-      <point x="425" y="-125" type="line"/>
+      <point x="424" y="-125" type="line"/>
     </contour>
     <component base="V"/>
   </outline>

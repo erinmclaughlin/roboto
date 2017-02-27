@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="primetriplerev1" format="2">
+  <advance width="1234"/>
+  <unicode hex="2037"/>
+  <outline>
+    <contour>
+      <point x="1169" y="1562" type="line"/>
+      <point x="947" y="1561" type="line"/>
+      <point x="1104" y="1210" type="line"/>
+      <point x="1259" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="820" y="1562" type="line"/>
+      <point x="598" y="1561" type="line"/>
+      <point x="755" y="1210" type="line"/>
+      <point x="910" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="1562" type="line"/>
+      <point x="249" y="1561" type="line"/>
+      <point x="407" y="1210" type="line"/>
+      <point x="562" y="1210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

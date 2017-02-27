@@ -2,7 +2,7 @@
 <glyph name="uni043D" format="2">
   <advance width="1149"/>
   <unicode hex="043D"/>
-  <anchor x="575" y="1269" name="top"/>
+  <anchor x="574" y="1269" name="top"/>
   <anchor x="1059" y="0" name="right"/>
   <anchor x="1149" y="1269" name="top0315"/>
   <outline>
@@ -20,20 +20,9 @@
     </contour>
     <contour>
       <point x="1059" y="1082" type="line"/>
-      <point x="721" y="1082" type="line"/>
-      <point x="721" y="0" type="line"/>
+      <point x="720" y="1082" type="line"/>
+      <point x="720" y="0" type="line"/>
       <point x="1059" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

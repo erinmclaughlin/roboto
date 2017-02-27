@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresisgravecomb.lc" format="2">
-  <anchor x="-575" y="1290" name="_top"/>
-  <anchor x="-575" y="1990" name="mkmktop_acc"/>
+  <anchor x="-574" y="1290" name="_top"/>
+  <anchor x="-574" y="1990" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="-987" y="1365" type="curve" smooth="yes"/>

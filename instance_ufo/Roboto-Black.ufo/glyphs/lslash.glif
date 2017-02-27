@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="663"/>
+  <advance width="662"/>
   <unicode hex="0142"/>
   <anchor x="328" y="1677" name="top"/>
-  <anchor x="663" y="1677" name="top0315"/>
   <anchor x="328" y="10" name="bottom"/>
+  <anchor x="662" y="1677" name="top0315"/>
   <outline>
     <contour>
       <point x="629" y="967" type="line"/>

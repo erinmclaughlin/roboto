@@ -2,10 +2,10 @@
 <glyph name="dotlessi" format="2">
   <advance width="584"/>
   <unicode hex="0131"/>
-  <anchor x="361" y="654" name="rhotichook"/>
+  <anchor x="360" y="654" name="rhotichook"/>
   <anchor x="293" y="1269" name="top"/>
-  <anchor x="584" y="1269" name="top0315"/>
   <anchor x="281" y="10" name="bottom"/>
+  <anchor x="584" y="1269" name="top0315"/>
   <outline>
     <contour>
       <point x="462" y="1082" type="line"/>

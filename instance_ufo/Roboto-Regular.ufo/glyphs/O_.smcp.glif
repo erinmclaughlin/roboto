@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O.smcp" format="2">
   <advance width="1212"/>
-  <anchor x="631" y="0" name="bottom"/>
+  <anchor x="630" y="0" name="bottom"/>
   <anchor x="131" y="1163" name="tonos"/>
   <anchor x="606" y="1320" name="top"/>
   <anchor x="1212" y="1320" name="top0315"/>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+  <advance width="998"/>
+  <unicode hex="006F"/>
+  <anchor x="420" y="-1" name="bottom"/>
+  <anchor x="835" y="654" name="rhotichook"/>
+  <anchor x="580" y="1290" name="top"/>
+  <anchor x="1069" y="1290" name="top0315"/>
+  <anchor x="1110" y="1600" name="top_dd"/>
+  <anchor x="846" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="86" y="524" type="line" smooth="yes"/>
+      <point x="66" y="250"/>
+      <point x="179" y="-14"/>
+      <point x="432" y="-20" type="curve" smooth="yes"/>
+      <point x="698" y="-26"/>
+      <point x="868" y="240"/>
+      <point x="896" y="531" type="curve" smooth="yes"/>
+      <point x="897" y="554" type="line" smooth="yes"/>
+      <point x="918" y="828"/>
+      <point x="806" y="1096"/>
+      <point x="550" y="1102" type="curve" smooth="yes"/>
+      <point x="283" y="1108"/>
+      <point x="115" y="837"/>
+      <point x="88" y="546" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="261" y="546" type="line" smooth="yes"/>
+      <point x="280" y="735"/>
+      <point x="364" y="957"/>
+      <point x="543" y="951" type="curve" smooth="yes"/>
+      <point x="711" y="945"/>
+      <point x="737" y="722"/>
+      <point x="724" y="554" type="curve" smooth="yes"/>
+      <point x="723" y="531" type="line" smooth="yes"/>
+      <point x="704" y="342"/>
+      <point x="617" y="125"/>
+      <point x="440" y="131" type="curve" smooth="yes"/>
+      <point x="272" y="136"/>
+      <point x="247" y="354"/>
+      <point x="259" y="523" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>2079.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

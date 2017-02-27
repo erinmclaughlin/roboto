@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01BB" format="2">
+  <advance width="1087"/>
+  <unicode hex="01BB"/>
+  <outline>
+    <contour>
+      <point x="1017" y="735" type="line"/>
+      <point x="397" y="735" type="line"/>
+      <point x="390" y="681" type="line"/>
+      <point x="1009" y="681" type="line"/>
+    </contour>
+    <component base="two" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

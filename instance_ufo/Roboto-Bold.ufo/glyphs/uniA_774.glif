@@ -29,7 +29,7 @@
       <point x="352" y="742"/>
       <point x="426" y="868"/>
       <point x="578" y="868" type="curve" smooth="yes"/>
-      <point x="689" y="868"/>
+      <point x="688" y="868"/>
       <point x="750" y="828"/>
       <point x="750" y="690" type="curve" smooth="yes"/>
     </contour>
@@ -45,9 +45,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

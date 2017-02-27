@@ -4,7 +4,7 @@
   <anchor x="-568" y="-554" name="mkmkbottom_acc"/>
   <anchor x="-568" y="0" name="_markbottom"/>
   <outline>
-    <component base="uni02F1" xOffset="-895"/>
+    <component base="uni02F1" xOffset="-894"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,8 @@
 <glyph name="overscorenosp" format="2">
   <unicode hex="0305"/>
   <anchor x="-570" y="1584" name="_marktop"/>
-  <anchor x="-570" y="1910" name="mkmktop"/>
   <anchor x="-571" y="1704" name="parent_top"/>
+  <anchor x="-570" y="1910" name="mkmktop"/>
   <outline>
     <component base="underscore" xOffset="-1022" yOffset="1830"/>
   </outline>

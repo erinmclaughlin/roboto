@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BD.smcp" format="2">
+  <advance width="1142"/>
+  <outline>
+    <contour>
+      <point x="638" y="435" type="line" smooth="yes"/>
+      <point x="864" y="437"/>
+      <point x="1062" y="570"/>
+      <point x="1089" y="804" type="curve" smooth="yes"/>
+      <point x="1116" y="1027"/>
+      <point x="960" y="1160"/>
+      <point x="747" y="1164" type="curve" smooth="yes"/>
+      <point x="327" y="1165" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="427" y="1063" type="line"/>
+      <point x="746" y="1063" type="line" smooth="yes"/>
+      <point x="901" y="1058"/>
+      <point x="998" y="960"/>
+      <point x="971" y="803" type="curve" smooth="yes"/>
+      <point x="943" y="636"/>
+      <point x="802" y="541"/>
+      <point x="640" y="538" type="curve" smooth="yes"/>
+      <point x="27" y="538" type="line"/>
+      <point x="10" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="587" y="334" type="line"/>
+      <point x="-8" y="334" type="line"/>
+      <point x="-25" y="233" type="line"/>
+      <point x="570" y="233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

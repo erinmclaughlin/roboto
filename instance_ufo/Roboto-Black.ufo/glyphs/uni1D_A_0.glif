@@ -4,7 +4,7 @@
   <unicode hex="1DA0"/>
   <outline>
     <contour>
-      <point x="382" y="655" type="line" name="hr00"/>
+      <point x="382" y="655" type="line"/>
       <point x="382" y="1508" type="line" smooth="yes"/>
       <point x="382" y="1595"/>
       <point x="440" y="1634"/>
@@ -30,9 +30,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.adobe.type.autohint</key>
-      <data>
-      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.967</real>

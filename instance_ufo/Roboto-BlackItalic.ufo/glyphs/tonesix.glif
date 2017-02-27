@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonesix" format="2">
+  <advance width="1245"/>
+  <unicode hex="0185"/>
+  <outline>
+    <contour>
+      <point x="369" y="1536" type="line"/>
+      <point x="296" y="1492"/>
+      <point x="219" y="1430"/>
+      <point x="157" y="1371" type="curve"/>
+      <point x="142" y="1211" type="line"/>
+      <point x="203" y="1162"/>
+      <point x="263" y="1105"/>
+      <point x="314" y="1046" type="curve"/>
+      <point x="356" y="1046" type="line"/>
+      <point x="423" y="1537" type="line"/>
+    </contour>
+    <component base="b" xOffset="126"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

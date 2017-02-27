@@ -7,7 +7,7 @@
       <point x="341" y="1723" type="line"/>
       <point x="107" y="1723" type="line"/>
       <point x="131" y="966" type="line"/>
-      <point x="317" y="966" type="line"/>
+      <point x="316" y="966" type="line"/>
     </contour>
     <contour>
       <point x="100" y="753" type="curve" smooth="yes"/>
@@ -36,7 +36,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>175.0</real>
+          <real>499.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

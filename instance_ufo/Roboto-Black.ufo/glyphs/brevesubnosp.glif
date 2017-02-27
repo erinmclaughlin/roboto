@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevesubnosp" format="2">
   <unicode hex="032E"/>
-  <anchor x="-575" y="0" name="_bottom"/>
-  <anchor x="-575" y="0" name="_markbottom"/>
-  <anchor x="-575" y="-392" name="mkmkbottom_acc"/>
+  <anchor x="-574" y="0" name="_bottom"/>
+  <anchor x="-574" y="0" name="_markbottom"/>
+  <anchor x="-574" y="-392" name="mkmkbottom_acc"/>
   <outline>
     <contour>
       <point x="-437" y="-82" type="line"/>

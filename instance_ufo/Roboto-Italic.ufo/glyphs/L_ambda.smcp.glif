@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda.smcp" format="2">
+  <advance width="1094"/>
+  <outline>
+    <contour>
+      <point x="625" y="861" type="line"/>
+      <point x="594" y="1165" type="line"/>
+      <point x="727" y="1165" type="line"/>
+      <point x="968" y="0" type="line"/>
+      <point x="782" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="0" type="line"/>
+      <point x="-89" y="0" type="line"/>
+      <point x="558" y="1165" type="line"/>
+      <point x="695" y="1165" type="line"/>
+      <point x="580" y="884" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

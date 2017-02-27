@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eturn" format="2">
+  <advance width="988"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="174" y="1299" type="line"/>
+      <point x="788" y="1299" type="line"/>
+      <point x="814" y="1456" type="line"/>
+      <point x="200" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="569" y="0" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="961" y="1456" type="line"/>
+      <point x="781" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="630" type="line"/>
+      <point x="690" y="630" type="line"/>
+      <point x="717" y="787" type="line"/>
+      <point x="186" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3" y="0" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="628" y="158" type="line"/>
+      <point x="23" y="158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

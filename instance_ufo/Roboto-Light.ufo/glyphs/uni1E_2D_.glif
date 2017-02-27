@@ -12,7 +12,7 @@
   <anchor x="579" y="-407" name="bottom_dd"/>
   <outline>
     <component base="i" xOffset="120"/>
-    <component base="tilde" xOffset="-102" yOffset="-1605"/>
+    <component base="tilde" xOffset="-102" yOffset="-1604"/>
   </outline>
   <lib>
     <dict>

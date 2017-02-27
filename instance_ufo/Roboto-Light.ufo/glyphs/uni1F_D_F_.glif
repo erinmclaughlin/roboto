@@ -10,7 +10,7 @@
       <point x="316" y="1283"/>
       <point x="362" y="1191"/>
       <point x="445" y="1145" type="curve"/>
-      <point x="499" y="1191" type="line"/>
+      <point x="499" y="1190" type="line"/>
       <point x="441" y="1239"/>
       <point x="415" y="1297"/>
       <point x="415" y="1374" type="curve" smooth="yes"/>
@@ -42,6 +42,21 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>372.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.967</real>

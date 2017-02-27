@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0519" format="2">
-  <advance width="1775"/>
+  <advance width="1774"/>
   <unicode hex="0519"/>
   <outline>
     <contour>
@@ -31,7 +31,7 @@
       <point x="967" y="500" type="line"/>
       <point x="967" y="1082" type="line"/>
     </contour>
-    <component base="e" xOffset="689"/>
+    <component base="e" xOffset="688"/>
   </outline>
   <lib>
     <dict>

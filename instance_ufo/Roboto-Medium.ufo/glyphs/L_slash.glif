@@ -9,7 +9,7 @@
     <contour>
       <point x="652" y="943" type="line"/>
       <point x="34" y="756" type="line"/>
-      <point x="34" y="609" type="line"/>
+      <point x="34" y="608" type="line"/>
       <point x="652" y="796" type="line"/>
     </contour>
     <component base="L" xOffset="16"/>

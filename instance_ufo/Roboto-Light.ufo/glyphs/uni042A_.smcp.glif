@@ -3,10 +3,10 @@
   <advance width="1288"/>
   <outline>
     <contour>
-      <point x="5" y="1165" type="line"/>
+      <point x="4" y="1165" type="line"/>
       <point x="422" y="1165" type="line"/>
       <point x="422" y="1063" type="line"/>
-      <point x="5" y="1063" type="line"/>
+      <point x="4" y="1063" type="line"/>
     </contour>
     <component base="uni042C.smcp" xOffset="205"/>
   </outline>

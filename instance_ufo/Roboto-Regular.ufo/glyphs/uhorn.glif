@@ -4,7 +4,7 @@
   <unicode hex="01B0"/>
   <anchor x="509" y="0" name="bottomu"/>
   <anchor x="580" y="1269" name="top"/>
-  <anchor x="1015" y="0" name="right"/>
+  <anchor x="1014" y="0" name="right"/>
   <anchor x="1267" y="1269" name="top0315"/>
   <anchor x="563" y="0" name="bottom"/>
   <outline>
@@ -14,7 +14,7 @@
       <point x="1148" y="952"/>
       <point x="968" y="952" type="curve"/>
       <point x="968" y="838" type="line"/>
-      <point x="1225" y="838"/>
+      <point x="1224" y="838"/>
       <point x="1296" y="950"/>
       <point x="1296" y="1169" type="curve"/>
     </contour>

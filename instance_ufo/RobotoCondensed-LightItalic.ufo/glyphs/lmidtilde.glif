@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmidtilde" format="2">
+  <advance width="641"/>
+  <unicode hex="026B"/>
+  <anchor x="461" y="1600" name="top"/>
+  <anchor x="341" y="785" name="parenthesses.w2"/>
+  <anchor x="758" y="1600" name="top0315"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <outline>
+    <component base="l" xOffset="104"/>
+    <component base="tilde" xOffset="-157" yOffset="-584"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78E" format="2">
+  <advance width="940"/>
+  <unicode hex="A78E"/>
+  <outline>
+    <contour>
+      <point x="918" y="754" type="curve"/>
+      <point x="375" y="752" type="line"/>
+      <point x="347" y="754"/>
+      <point x="315" y="772"/>
+      <point x="321" y="823" type="curve" smooth="yes"/>
+      <point x="328" y="876"/>
+      <point x="365" y="910"/>
+      <point x="400" y="909" type="curve" smooth="yes"/>
+      <point x="439" y="908"/>
+      <point x="444" y="855"/>
+      <point x="442" y="801" type="curve"/>
+      <point x="396" y="422" type="line"/>
+      <point x="468" y="424"/>
+      <point x="608" y="448"/>
+      <point x="672" y="422" type="curve"/>
+      <point x="705" y="725" type="line" smooth="yes"/>
+      <point x="725" y="952"/>
+      <point x="612" y="1100"/>
+      <point x="410" y="1103" type="curve" smooth="yes"/>
+      <point x="250" y="1106"/>
+      <point x="86" y="1016"/>
+      <point x="83" y="814" type="curve" smooth="yes"/>
+      <point x="81" y="638"/>
+      <point x="206" y="553"/>
+      <point x="348" y="549" type="curve" smooth="yes"/>
+      <point x="903" y="545" type="line"/>
+      <point x="903" y="614"/>
+      <point x="918" y="684"/>
+    </contour>
+    <contour>
+      <point x="553" y="1536" type="line"/>
+      <point x="380" y="301" type="line"/>
+      <point x="366" y="101"/>
+      <point x="476" y="-14"/>
+      <point x="646" y="-18" type="curve" smooth="yes"/>
+      <point x="704" y="-19"/>
+      <point x="763" y="-13"/>
+      <point x="818" y="5" type="curve"/>
+      <point x="838" y="228" type="line"/>
+      <point x="806" y="224"/>
+      <point x="774" y="221"/>
+      <point x="742" y="222" type="curve" smooth="yes"/>
+      <point x="686" y="224"/>
+      <point x="650" y="249"/>
+      <point x="657" y="330" type="curve"/>
+      <point x="829" y="1536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

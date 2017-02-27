@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D62.ccmp" format="2">
+  <advance width="362"/>
+  <anchor x="210" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="232" y="602" type="line"/>
+      <point x="130" y="602" type="line"/>
+      <point x="14" y="-199" type="line"/>
+      <point x="115" y="-199" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

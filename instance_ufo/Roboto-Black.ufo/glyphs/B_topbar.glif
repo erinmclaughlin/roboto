@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Btopbar" format="2">
-  <advance width="1279"/>
+  <advance width="1278"/>
   <unicode hex="0182"/>
   <outline>
     <component base="Gamma" xOffset="2"/>

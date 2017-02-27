@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="1196"/>
+  <unicode hex="0176"/>
+  <anchor x="763" y="1601" name="parent_top"/>
+  <anchor x="492" y="10" name="bottom"/>
+  <anchor x="817" y="1914" name="top"/>
+  <anchor x="1359" y="1601" name="top0315"/>
+  <anchor x="1359" y="1600" name="top_dd"/>
+  <anchor x="1012" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflex" xOffset="253" yOffset="308"/>
+  </outline>
+</glyph>

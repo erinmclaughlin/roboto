@@ -25,15 +25,15 @@
     </contour>
     <contour>
       <point x="1527" y="602" type="line"/>
-      <point x="821" y="602" type="line"/>
-      <point x="821" y="439" type="line"/>
+      <point x="820" y="602" type="line"/>
+      <point x="820" y="439" type="line"/>
       <point x="1527" y="439" type="line"/>
     </contour>
     <contour>
-      <point x="1265" y="551" type="line"/>
+      <point x="1264" y="551" type="line"/>
       <point x="1076" y="551" type="line"/>
       <point x="1076" y="0" type="line"/>
-      <point x="1265" y="0" type="line"/>
+      <point x="1264" y="0" type="line"/>
     </contour>
     <component base="I" xOffset="19"/>
   </outline>

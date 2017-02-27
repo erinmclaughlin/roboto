@@ -4,12 +4,12 @@
   <unicode hex="0469"/>
   <outline>
     <contour>
-      <point x="721" y="449" type="line"/>
+      <point x="720" y="449" type="line"/>
       <point x="253" y="449" type="line"/>
       <point x="253" y="347" type="line"/>
-      <point x="721" y="347" type="line"/>
+      <point x="720" y="347" type="line"/>
     </contour>
-    <component base="uni0467" xOffset="447"/>
     <component base="dotlessi" xOffset="33"/>
+    <component base="uni0467" xOffset="447"/>
   </outline>
 </glyph>

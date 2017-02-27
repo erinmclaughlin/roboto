@@ -3,15 +3,15 @@
   <advance width="1482"/>
   <outline>
     <component base="oopen"/>
-    <component base="uni02DE" xOffset="1077"/>
+    <component base="uni02DE" xOffset="1076"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.798</real>
-        <real>1.0</real>
         <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
         <real>1.0</real>
       </array>
     </dict>

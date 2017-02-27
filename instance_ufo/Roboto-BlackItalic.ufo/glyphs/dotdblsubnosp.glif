@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotdblsubnosp" format="2">
+  <unicode hex="0324"/>
+  <anchor x="-708" y="0" name="_bottom"/>
+  <anchor x="-708" y="0" name="_markbottom"/>
+  <anchor x="-771" y="-363" name="mkmkbottom_acc"/>
+  <outline>
+    <contour>
+      <point x="-1150" y="-234" type="curve" smooth="yes"/>
+      <point x="-1148" y="-312"/>
+      <point x="-1074" y="-366"/>
+      <point x="-998" y="-364" type="curve" smooth="yes"/>
+      <point x="-921" y="-362"/>
+      <point x="-854" y="-304"/>
+      <point x="-856" y="-226" type="curve" smooth="yes"/>
+      <point x="-859" y="-148"/>
+      <point x="-933" y="-94"/>
+      <point x="-1009" y="-96" type="curve" smooth="yes"/>
+      <point x="-1085" y="-98"/>
+      <point x="-1153" y="-156"/>
+    </contour>
+    <contour>
+      <point x="-647" y="-234" type="curve" smooth="yes"/>
+      <point x="-644" y="-312"/>
+      <point x="-570" y="-366"/>
+      <point x="-494" y="-364" type="curve" smooth="yes"/>
+      <point x="-418" y="-362"/>
+      <point x="-350" y="-304"/>
+      <point x="-353" y="-226" type="curve" smooth="yes"/>
+      <point x="-356" y="-148"/>
+      <point x="-429" y="-94"/>
+      <point x="-505" y="-96" type="curve" smooth="yes"/>
+      <point x="-582" y="-98"/>
+      <point x="-650" y="-156"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

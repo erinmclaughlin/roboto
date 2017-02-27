@@ -3,7 +3,7 @@
   <advance width="2044"/>
   <unicode hex="0416"/>
   <anchor x="1025" y="1603" name="top"/>
-  <anchor x="1953" y="0" name="right"/>
+  <anchor x="1952" y="0" name="right"/>
   <anchor x="2044" y="1603" name="top0315"/>
   <outline>
     <contour>
@@ -36,9 +36,20 @@
     </contour>
     <contour>
       <point x="1668" y="0" type="line"/>
-      <point x="2043" y="0" type="line"/>
+      <point x="2042" y="0" type="line"/>
       <point x="1575" y="819" type="line"/>
       <point x="1334" y="642" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mhook" format="2">
+  <advance width="1711"/>
+  <unicode hex="0271"/>
+  <anchor x="977" y="1290" name="top"/>
+  <anchor x="677" y="-447" name="bottom"/>
+  <anchor x="1830" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1218" y="216" type="line"/>
+      <point x="1172" y="-77" type="line" smooth="yes"/>
+      <point x="1150" y="-175"/>
+      <point x="1063" y="-218"/>
+      <point x="968" y="-215" type="curve" smooth="yes"/>
+      <point x="942" y="-214"/>
+      <point x="917" y="-210"/>
+      <point x="892" y="-205" type="curve"/>
+      <point x="872" y="-422" type="line"/>
+      <point x="934" y="-432"/>
+      <point x="995" y="-438"/>
+      <point x="1058" y="-439" type="curve" smooth="yes"/>
+      <point x="1315" y="-442"/>
+      <point x="1465" y="-333"/>
+      <point x="1507" y="-76" type="curve" smooth="yes"/>
+      <point x="1548" y="216" type="line"/>
+    </contour>
+    <component base="m"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>-437.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

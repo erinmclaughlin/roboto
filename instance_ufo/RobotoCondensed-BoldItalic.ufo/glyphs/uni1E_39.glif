@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E39" format="2">
+  <advance width="511"/>
+  <unicode hex="1E39"/>
+  <anchor x="408" y="1682" name="parent_top"/>
+  <anchor x="107" y="-365" name="bottom"/>
+  <anchor x="454" y="1992" name="top"/>
+  <anchor x="640" y="1682" name="top0315"/>
+  <anchor x="628" y="1600" name="top_dd"/>
+  <anchor x="336" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelow" xOffset="724" yOffset="10"/>
+    <component base="macron" xOffset="-146" yOffset="390"/>
+  </outline>
+</glyph>

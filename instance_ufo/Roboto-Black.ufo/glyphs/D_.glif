@@ -2,9 +2,9 @@
 <glyph name="D" format="2">
   <advance width="1325"/>
   <unicode hex="0044"/>
-  <anchor x="1325" y="1600" name="top0315"/>
-  <anchor x="482" y="1600" name="top"/>
   <anchor x="481" y="10" name="bottom"/>
+  <anchor x="482" y="1600" name="top"/>
+  <anchor x="1325" y="1600" name="top0315"/>
   <anchor x="328" y="726" name="cross"/>
   <anchor x="1325" y="1600" name="top_dd"/>
   <anchor x="1325" y="-407" name="bottom_dd"/>
@@ -65,18 +65,6 @@
           <real>0.0</real>
           <key>y</key>
           <real>555.0</real>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>1127.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>

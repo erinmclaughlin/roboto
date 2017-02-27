@@ -61,10 +61,17 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>709.0</real>
+          <real>698.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

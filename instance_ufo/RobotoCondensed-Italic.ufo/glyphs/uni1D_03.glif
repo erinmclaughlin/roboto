@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D03" format="2">
+  <advance width="1087"/>
+  <unicode hex="1D03"/>
+  <anchor x="617" y="1290" name="top"/>
+  <anchor x="430" y="0" name="bottom"/>
+  <anchor x="1167" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="239" y="624" type="line"/>
+      <point x="40" y="624" type="line"/>
+      <point x="15" y="476" type="line"/>
+      <point x="215" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="1045" y="624" type="line"/>
+      <point x="766" y="624" type="line"/>
+      <point x="741" y="476" type="line"/>
+      <point x="1021" y="476" type="line"/>
+    </contour>
+    <component base="uni0432" xOffset="54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildedieresiscomb" format="2">
+  <anchor x="-442" y="1263" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-224" y="1399" type="line"/>
+      <point x="-242" y="1348"/>
+      <point x="-277" y="1303"/>
+      <point x="-336" y="1302" type="curve" smooth="yes"/>
+      <point x="-413" y="1301"/>
+      <point x="-456" y="1386"/>
+      <point x="-536" y="1387" type="curve" smooth="yes"/>
+      <point x="-631" y="1387"/>
+      <point x="-692" y="1314"/>
+      <point x="-709" y="1227" type="curve"/>
+      <point x="-643" y="1212" type="line"/>
+      <point x="-625" y="1263"/>
+      <point x="-590" y="1303"/>
+      <point x="-532" y="1304" type="curve" smooth="yes"/>
+      <point x="-455" y="1306"/>
+      <point x="-414" y="1221"/>
+      <point x="-333" y="1221" type="curve" smooth="yes"/>
+      <point x="-237" y="1221"/>
+      <point x="-177" y="1295"/>
+      <point x="-159" y="1382" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-682" y="1553" type="curve" smooth="yes"/>
+      <point x="-684" y="1507"/>
+      <point x="-651" y="1473"/>
+      <point x="-605" y="1473" type="curve" smooth="yes"/>
+      <point x="-561" y="1474"/>
+      <point x="-523" y="1509"/>
+      <point x="-520" y="1554" type="curve" smooth="yes"/>
+      <point x="-518" y="1599"/>
+      <point x="-552" y="1635"/>
+      <point x="-597" y="1634" type="curve" smooth="yes"/>
+      <point x="-643" y="1634"/>
+      <point x="-679" y="1597"/>
+    </contour>
+    <contour>
+      <point x="-261" y="1552" type="curve" smooth="yes"/>
+      <point x="-264" y="1507"/>
+      <point x="-230" y="1472"/>
+      <point x="-185" y="1473" type="curve" smooth="yes"/>
+      <point x="-140" y="1473"/>
+      <point x="-102" y="1508"/>
+      <point x="-100" y="1553" type="curve" smooth="yes"/>
+      <point x="-97" y="1598"/>
+      <point x="-131" y="1634"/>
+      <point x="-177" y="1633" type="curve" smooth="yes"/>
+      <point x="-222" y="1633"/>
+      <point x="-258" y="1597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

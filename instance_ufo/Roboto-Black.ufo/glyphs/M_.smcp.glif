@@ -2,9 +2,9 @@
 <glyph name="M.smcp" format="2">
   <advance width="1546"/>
   <anchor x="1470" y="0" name="right"/>
-  <anchor x="1546" y="1320" name="top0315"/>
-  <anchor x="770" y="1320" name="top"/>
   <anchor x="770" y="10" name="bottom"/>
+  <anchor x="770" y="1320" name="top"/>
+  <anchor x="1546" y="1320" name="top0315"/>
   <anchor x="1546" y="1600" name="top_dd"/>
   <anchor x="1546" y="-407" name="bottom_dd"/>
   <outline>
@@ -32,15 +32,4 @@
       <point x="1463" y="1165" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -3,8 +3,8 @@
   <advance width="771"/>
   <unicode hex="0268"/>
   <anchor x="386" y="1600" name="top"/>
-  <anchor x="386" y="0" name="bottom"/>
   <anchor x="771" y="1600" name="top0315"/>
+  <anchor x="386" y="0" name="bottom"/>
   <outline>
     <component base="i" xOffset="105"/>
     <component base="crossbar" xOffset="-118" yOffset="-177"/>
@@ -21,7 +21,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>381.0</real>
+          <real>341.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

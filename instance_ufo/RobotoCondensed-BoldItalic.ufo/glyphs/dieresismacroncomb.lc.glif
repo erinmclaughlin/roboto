@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresismacroncomb.lc" format="2">
+  <anchor x="-354" y="1290" name="_top"/>
+  <anchor x="-262" y="1912" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-674" y="1362" type="curve" smooth="yes"/>
+      <point x="-672" y="1287"/>
+      <point x="-610" y="1236"/>
+      <point x="-542" y="1238" type="curve" smooth="yes"/>
+      <point x="-475" y="1240"/>
+      <point x="-418" y="1294"/>
+      <point x="-421" y="1369" type="curve" smooth="yes"/>
+      <point x="-423" y="1444"/>
+      <point x="-485" y="1496"/>
+      <point x="-553" y="1494" type="curve" smooth="yes"/>
+      <point x="-620" y="1492"/>
+      <point x="-676" y="1437"/>
+    </contour>
+    <contour>
+      <point x="-269" y="1361" type="curve" smooth="yes"/>
+      <point x="-266" y="1286"/>
+      <point x="-205" y="1235"/>
+      <point x="-138" y="1237" type="curve" smooth="yes"/>
+      <point x="-70" y="1239"/>
+      <point x="-13" y="1294"/>
+      <point x="-15" y="1369" type="curve" smooth="yes"/>
+      <point x="-18" y="1444"/>
+      <point x="-80" y="1496"/>
+      <point x="-148" y="1494" type="curve" smooth="yes"/>
+      <point x="-216" y="1492"/>
+      <point x="-271" y="1436"/>
+    </contour>
+    <contour>
+      <point x="11" y="1765" type="line"/>
+      <point x="-574" y="1765" type="line"/>
+      <point x="-602" y="1598" type="line"/>
+      <point x="-18" y="1598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar.smcp" format="2">
+  <advance width="1250"/>
+  <anchor x="1011" y="0" name="right"/>
+  <anchor x="1354" y="1320" name="top0315"/>
+  <anchor x="137" y="1161" name="tonos"/>
+  <anchor x="740" y="1320" name="top"/>
+  <anchor x="514" y="10" name="bottom"/>
+  <anchor x="1402" y="1600" name="top_dd"/>
+  <anchor x="1056" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="953" y="671" type="line"/>
+      <point x="320" y="671" type="line"/>
+      <point x="286" y="475" type="line"/>
+      <point x="918" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="1165" type="line"/>
+      <point x="233" y="1165" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1214" y="1165" type="line"/>
+      <point x="977" y="1165" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="1012" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1276" y="1018" type="line"/>
+      <point x="120" y="1018" type="line"/>
+      <point x="90" y="847" type="line"/>
+      <point x="1246" y="847" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

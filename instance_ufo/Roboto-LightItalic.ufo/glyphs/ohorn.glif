@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="2">
+  <advance width="1112"/>
+  <unicode hex="01A1"/>
+  <anchor x="684" y="1290" name="top"/>
+  <anchor x="459" y="-10" name="bottom"/>
+  <anchor x="1231" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1151" y="1198" type="line"/>
+      <point x="1126" y="1056"/>
+      <point x="1075" y="963"/>
+      <point x="920" y="956" type="curve"/>
+      <point x="910" y="872" type="line"/>
+      <point x="1124" y="878"/>
+      <point x="1222" y="993"/>
+      <point x="1250" y="1198" type="curve"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>

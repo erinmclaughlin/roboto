@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.smcp" format="2">
+  <advance width="1028"/>
+  <anchor x="1152" y="1320" name="top0315"/>
+  <anchor x="40" y="1163" name="tonos"/>
+  <anchor x="637" y="1320" name="top"/>
+  <anchor x="411" y="8" name="bottom"/>
+  <anchor x="489" y="472" name="cross"/>
+  <anchor x="1201" y="1600" name="top_dd"/>
+  <anchor x="854" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="476" y="503" type="line"/>
+      <point x="458" y="418" type="line"/>
+      <point x="539" y="418" type="line"/>
+      <point x="1107" y="1164" type="line"/>
+      <point x="966" y="1164" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="1166" type="line"/>
+      <point x="121" y="1166" type="line"/>
+      <point x="432" y="417" type="line"/>
+      <point x="508" y="417" type="line"/>
+      <point x="514" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="506" type="line"/>
+      <point x="436" y="506" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>721.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>444.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

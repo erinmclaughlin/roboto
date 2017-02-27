@@ -10,7 +10,7 @@
   <anchor x="1337" y="-407" name="bottom_dd"/>
   <outline>
     <component base="C"/>
-    <component base="cedilla" xOffset="457" yOffset="-7"/>
+    <component base="cedilla" xOffset="457" yOffset="-6"/>
     <component base="acute" xOffset="448" yOffset="331"/>
   </outline>
 </glyph>

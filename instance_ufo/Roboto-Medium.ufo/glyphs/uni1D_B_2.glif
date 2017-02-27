@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1DB2" format="2">
-  <advance width="1133"/>
+  <advance width="1132"/>
   <unicode hex="1DB2"/>
   <outline>
     <contour>
-      <point x="1073" y="1041" type="line"/>
-      <point x="1073" y="1290"/>
+      <point x="1072" y="1041" type="line"/>
+      <point x="1072" y="1290"/>
       <point x="965" y="1466"/>
       <point x="772" y="1466" type="curve" smooth="yes"/>
       <point x="603" y="1466"/>
@@ -16,8 +16,8 @@
       <point x="603" y="635"/>
       <point x="774" y="635" type="curve" smooth="yes"/>
       <point x="965" y="635"/>
-      <point x="1073" y="798"/>
-      <point x="1073" y="1025" type="curve" smooth="yes"/>
+      <point x="1072" y="798"/>
+      <point x="1072" y="1025" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="875" y="1025" type="line"/>

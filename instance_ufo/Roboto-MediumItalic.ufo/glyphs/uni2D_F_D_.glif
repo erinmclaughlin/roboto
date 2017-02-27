@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DFD" format="2">
+  <unicode hex="2DFD"/>
+  <anchor x="-467" y="1170" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="-403" y="1569" type="line"/>
+      <point x="-314" y="1753" type="line"/>
+      <point x="-441" y="1753" type="line"/>
+      <point x="-754" y="1201" type="line"/>
+      <point x="-601" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-311" y="1201" type="line"/>
+      <point x="-179" y="1201" type="line"/>
+      <point x="-301" y="1753" type="line"/>
+      <point x="-407" y="1753" type="line"/>
+      <point x="-385" y="1577" type="line"/>
+    </contour>
+    <contour>
+      <point x="-254" y="1432" type="line"/>
+      <point x="-583" y="1432" type="line"/>
+      <point x="-601" y="1332" type="line"/>
+      <point x="-272" y="1332" type="line"/>
+    </contour>
+    <contour>
+      <point x="-375" y="1400" type="line"/>
+      <point x="-481" y="1399" type="line"/>
+      <point x="-519" y="1201" type="line"/>
+      <point x="-404" y="1201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

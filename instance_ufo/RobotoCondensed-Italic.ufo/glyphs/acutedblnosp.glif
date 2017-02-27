@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedblnosp" format="2">
+  <unicode hex="030B"/>
+  <anchor x="-420" y="1290" name="_marktop"/>
+  <anchor x="-347" y="1388" name="parent_top"/>
+  <anchor x="-372" y="1618" name="mkmktop"/>
+  <outline>
+    <component base="acute" xOffset="-933"/>
+    <component base="acute" xOffset="-595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

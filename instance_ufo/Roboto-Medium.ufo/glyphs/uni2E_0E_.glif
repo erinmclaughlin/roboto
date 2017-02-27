@@ -79,11 +79,11 @@
       <point x="821" y="587"/>
       <point x="872" y="641"/>
       <point x="872" y="710" type="curve" smooth="yes"/>
-      <point x="872" y="781"/>
+      <point x="872" y="780"/>
       <point x="821" y="823"/>
       <point x="734" y="823" type="curve" smooth="yes"/>
       <point x="647" y="823"/>
-      <point x="596" y="781"/>
+      <point x="596" y="780"/>
     </contour>
   </outline>
   <lib>

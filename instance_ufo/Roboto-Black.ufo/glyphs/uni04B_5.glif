@@ -9,17 +9,6 @@
       <point x="52" y="821" type="line"/>
       <point x="759" y="821" type="line"/>
     </contour>
-    <component base="uni0446" xOffset="159"/>
+    <component base="uni0446" xOffset="158"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

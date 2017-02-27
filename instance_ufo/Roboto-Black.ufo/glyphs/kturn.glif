@@ -3,8 +3,8 @@
   <advance width="1120"/>
   <unicode hex="029E"/>
   <anchor x="533" y="1290" name="top"/>
-  <anchor x="1120" y="1290" name="top0315"/>
   <anchor x="533" y="-447" name="bottom"/>
+  <anchor x="1120" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="686" y="-415" type="line"/>
@@ -29,21 +29,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>-415.0</real>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.939</real>

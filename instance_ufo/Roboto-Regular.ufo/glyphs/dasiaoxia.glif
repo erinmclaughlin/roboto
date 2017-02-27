@@ -4,12 +4,12 @@
   <anchor x="530" y="1249" name="_tonos"/>
   <outline>
     <contour>
-      <point x="391" y="1138" type="line"/>
+      <point x="390" y="1138" type="line"/>
       <point x="479" y="1138" type="line"/>
       <point x="675" y="1465" type="line"/>
       <point x="675" y="1477" type="line"/>
       <point x="480" y="1477" type="line"/>
-      <point x="391" y="1155" type="line"/>
+      <point x="390" y="1155" type="line"/>
     </contour>
     <contour>
       <point x="130" y="1137" type="line"/>

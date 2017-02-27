@@ -6,7 +6,7 @@
     <component base="O"/>
     <component base="dotnosp" xOffset="1285" yOffset="-633"/>
     <component base="dotnosp" xOffset="2222" yOffset="-633"/>
-    <component base="O" xOffset="937"/>
+    <component base="O" xOffset="936"/>
   </outline>
   <lib>
     <dict>

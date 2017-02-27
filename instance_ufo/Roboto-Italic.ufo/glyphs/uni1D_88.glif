@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D88" format="2">
+  <advance width="1115"/>
+  <unicode hex="1D88"/>
+  <anchor x="729" y="1290" name="top"/>
+  <anchor x="429" y="-447" name="bottom"/>
+  <anchor x="1235" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="673" y="165" type="line"/>
+      <point x="624" y="-135" type="line" smooth="yes"/>
+      <point x="606" y="-237"/>
+      <point x="548" y="-308"/>
+      <point x="438" y="-305" type="curve" smooth="yes"/>
+      <point x="418" y="-304"/>
+      <point x="400" y="-300"/>
+      <point x="381" y="-295" type="curve"/>
+      <point x="367" y="-422" type="line"/>
+      <point x="402" y="-431"/>
+      <point x="437" y="-439"/>
+      <point x="473" y="-439" type="curve" smooth="yes"/>
+      <point x="657" y="-442"/>
+      <point x="784" y="-312"/>
+      <point x="807" y="-135" type="curve" smooth="yes"/>
+      <point x="855" y="167" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

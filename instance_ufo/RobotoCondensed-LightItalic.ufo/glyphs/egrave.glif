@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="2">
+  <advance width="915"/>
+  <unicode hex="00E8"/>
+  <anchor x="581" y="1291" name="parent_top"/>
+  <anchor x="395" y="2" name="bottom"/>
+  <anchor x="626" y="1592" name="top"/>
+  <anchor x="987" y="1291" name="top0315"/>
+  <anchor x="1032" y="1600" name="top_dd"/>
+  <anchor x="741" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="163" yOffset="-1"/>
+  </outline>
+</glyph>

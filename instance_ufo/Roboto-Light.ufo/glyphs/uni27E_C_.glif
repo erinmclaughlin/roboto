@@ -6,10 +6,10 @@
     <contour>
       <point x="297" y="2" type="line"/>
       <point x="297" y="1355" type="line"/>
-      <point x="668" y="1621" type="line"/>
+      <point x="668" y="1620" type="line"/>
       <point x="613" y="1707" type="line"/>
-      <point x="187" y="1411" type="line"/>
-      <point x="187" y="-55" type="line"/>
+      <point x="186" y="1411" type="line"/>
+      <point x="186" y="-55" type="line"/>
       <point x="613" y="-350" type="line"/>
       <point x="668" y="-264" type="line"/>
     </contour>

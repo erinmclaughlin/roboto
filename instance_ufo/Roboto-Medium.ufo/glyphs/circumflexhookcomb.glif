@@ -4,7 +4,7 @@
   <anchor x="491" y="1326" name="_top"/>
   <outline>
     <contour>
-      <point x="583" y="1505" type="line"/>
+      <point x="582" y="1505" type="line"/>
       <point x="395" y="1505" type="line"/>
       <point x="118" y="1256" type="line"/>
       <point x="310" y="1256" type="line"/>
@@ -31,4 +31,15 @@
       <point x="768" y="1390" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

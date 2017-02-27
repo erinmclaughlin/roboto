@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="1749"/>
+  <unicode hex="0057"/>
+  <anchor x="1043" y="1600" name="top"/>
+  <anchor x="792" y="10" name="bottom"/>
+  <anchor x="1905" y="1600" name="top_dd"/>
+  <anchor x="1592" y="-407" name="bottom_dd"/>
+  <anchor x="1905" y="1600" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="464" y="351" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="992" y="1139" type="line"/>
+      <point x="1065" y="1456" type="line"/>
+      <point x="910" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="1456" type="line"/>
+      <point x="183" y="1456" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="473" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="1212" y="363" type="line"/>
+      <point x="1129" y="0" type="line"/>
+      <point x="1297" y="0" type="line"/>
+      <point x="1850" y="1456" type="line"/>
+      <point x="1599" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1117" y="1456" type="line"/>
+      <point x="966" y="1456" type="line"/>
+      <point x="948" y="1164" type="line"/>
+      <point x="1060" y="0" type="line"/>
+      <point x="1216" y="0" type="line"/>
+      <point x="1216" y="325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -3,7 +3,7 @@
   <advance width="1262"/>
   <unicode hex="0210"/>
   <anchor x="610" y="1601" name="parent_top"/>
-  <anchor x="611" y="10" name="bottom"/>
+  <anchor x="610" y="10" name="bottom"/>
   <anchor x="610" y="1906" name="top"/>
   <anchor x="1262" y="1601" name="top0315"/>
   <anchor x="1262" y="1600" name="top_dd"/>

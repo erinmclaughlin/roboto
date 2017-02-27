@@ -3,17 +3,17 @@
   <advance width="1100"/>
   <unicode hex="050D"/>
   <anchor x="540" y="1290" name="top"/>
-  <anchor x="1100" y="1290" name="top0315"/>
   <anchor x="540" y="-10" name="bottom"/>
+  <anchor x="1100" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="621" y="243" type="curve"/>
-      <point x="459" y="243"/>
+      <point x="458" y="243"/>
       <point x="395" y="389"/>
       <point x="395" y="520" type="curve" smooth="yes"/>
       <point x="395" y="562" type="line" smooth="yes"/>
       <point x="395" y="693"/>
-      <point x="455" y="838"/>
+      <point x="454" y="838"/>
       <point x="601" y="838" type="curve"/>
       <point x="694" y="838"/>
       <point x="776" y="817"/>
@@ -55,7 +55,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>798.0</real>
+          <real>804.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
@@ -67,17 +67,10 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>1004.0</real>
+          <real>1010.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
       </array>
     </dict>
   </lib>

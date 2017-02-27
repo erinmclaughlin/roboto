@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DA4.ccmp" format="2">
+  <advance width="557"/>
+  <anchor x="434" y="1650" name="top"/>
+  <outline>
+    <contour>
+      <point x="502" y="1455" type="line"/>
+      <point x="302" y="1455" type="line"/>
+      <point x="185" y="654" type="line"/>
+      <point x="386" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="1220" type="line"/>
+      <point x="148" y="1220" type="line"/>
+      <point x="120" y="1052" type="line"/>
+      <point x="568" y="1052" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

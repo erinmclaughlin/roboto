@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fturn" format="2">
+  <advance width="1092"/>
+  <unicode hex="2132"/>
+  <outline>
+    <contour>
+      <point x="598" y="0" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="1097" y="1456" type="line"/>
+      <point x="851" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="637" type="line"/>
+      <point x="768" y="637" type="line"/>
+      <point x="804" y="839" type="line"/>
+      <point x="176" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="-54" y="0" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="694" y="203" type="line"/>
+      <point x="-18" y="203" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

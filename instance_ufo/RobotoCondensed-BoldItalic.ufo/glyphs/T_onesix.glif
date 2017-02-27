@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tonesix" format="2">
+  <advance width="1218"/>
+  <unicode hex="0184"/>
+  <outline>
+    <contour>
+      <point x="347" y="1456" type="line"/>
+      <point x="174" y="1292" type="line"/>
+      <point x="151" y="1154" type="line"/>
+      <point x="302" y="966" type="line"/>
+      <point x="338" y="967" type="line"/>
+      <point x="394" y="1456" type="line"/>
+    </contour>
+    <component base="uni042C" xOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>1211.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

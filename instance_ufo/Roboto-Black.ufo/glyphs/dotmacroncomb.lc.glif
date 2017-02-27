@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotmacroncomb.lc" format="2">
-  <anchor x="-575" y="1267" name="_top"/>
-  <anchor x="-575" y="1959" name="mkmktop_acc"/>
+  <anchor x="-574" y="1267" name="_top"/>
+  <anchor x="-574" y="1959" name="mkmktop_acc"/>
   <outline>
     <contour>
       <point x="-741" y="1378" type="curve" smooth="yes"/>

@@ -7,10 +7,10 @@
   <anchor x="1284" y="1290" name="top0315"/>
   <outline>
     <contour>
-      <point x="1253" y="646" type="line"/>
+      <point x="1252" y="646" type="line"/>
       <point x="31" y="646" type="line"/>
       <point x="31" y="544" type="line"/>
-      <point x="1253" y="544" type="line"/>
+      <point x="1252" y="544" type="line"/>
     </contour>
     <component base="upsilonlatin" xOffset="45"/>
   </outline>

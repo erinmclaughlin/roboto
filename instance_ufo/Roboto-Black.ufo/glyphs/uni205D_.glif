@@ -3,9 +3,9 @@
   <advance width="534"/>
   <unicode hex="205D"/>
   <outline>
-    <component base="dotbelow" xOffset="867" yOffset="1460"/>
-    <component base="dotbelow" xOffset="867" yOffset="898"/>
-    <component base="dotbelow" xOffset="867" yOffset="336"/>
+    <component base="dotbelow" xOffset="866" yOffset="1460"/>
+    <component base="dotbelow" xOffset="866" yOffset="898"/>
+    <component base="dotbelow" xOffset="866" yOffset="336"/>
   </outline>
   <lib>
     <dict>
@@ -13,27 +13,15 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <real>104.0</real>
           <key>y</key>
-          <real>1081.0</real>
-        </dict>
-        <dict>
-          <key>angle</key>
           <real>0.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>0.0</real>
-          <key>y</key>
-          <real>255.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>

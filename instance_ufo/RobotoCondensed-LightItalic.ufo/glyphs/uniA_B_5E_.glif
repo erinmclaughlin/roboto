@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB5E" format="2">
+  <advance width="527"/>
+  <unicode hex="AB5E"/>
+  <outline>
+    <contour>
+      <point x="521" y="1351" type="line"/>
+      <point x="508" y="1305"/>
+      <point x="484" y="1260"/>
+      <point x="438" y="1258" type="curve" smooth="yes"/>
+      <point x="376" y="1256"/>
+      <point x="341" y="1340"/>
+      <point x="276" y="1341" type="curve" smooth="yes"/>
+      <point x="201" y="1340"/>
+      <point x="158" y="1267"/>
+      <point x="146" y="1189" type="curve"/>
+      <point x="198" y="1176" type="line"/>
+      <point x="212" y="1221"/>
+      <point x="236" y="1265"/>
+      <point x="280" y="1267" type="curve" smooth="yes"/>
+      <point x="343" y="1268"/>
+      <point x="376" y="1183"/>
+      <point x="443" y="1183" type="curve" smooth="yes"/>
+      <point x="518" y="1184"/>
+      <point x="561" y="1257"/>
+      <point x="573" y="1336" type="curve"/>
+    </contour>
+    <component base="shindagesh" xOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

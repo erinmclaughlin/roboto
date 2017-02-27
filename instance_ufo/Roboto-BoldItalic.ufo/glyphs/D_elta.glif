@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="2">
+  <advance width="1453"/>
+  <outline>
+    <contour>
+      <point x="942" y="1318" type="line"/>
+      <point x="885" y="1456" type="line"/>
+      <point x="725" y="1456" type="line"/>
+      <point x="-91" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1036" y="0" type="line"/>
+      <point x="1335" y="0" type="line"/>
+      <point x="1028" y="1456" type="line"/>
+      <point x="862" y="1456" type="line"/>
+      <point x="781" y="1357" type="line"/>
+    </contour>
+    <contour>
+      <point x="1108" y="242" type="line"/>
+      <point x="193" y="242" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="1065" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

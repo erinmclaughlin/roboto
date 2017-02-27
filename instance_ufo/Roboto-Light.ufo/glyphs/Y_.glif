@@ -13,11 +13,11 @@
     <contour>
       <point x="170" y="1456" type="line"/>
       <point x="24" y="1456" type="line"/>
-      <point x="550" y="549" type="line"/>
+      <point x="550" y="548" type="line"/>
       <point x="550" y="0" type="line"/>
       <point x="673" y="0" type="line"/>
-      <point x="673" y="549" type="line"/>
-      <point x="1199" y="1456" type="line"/>
+      <point x="673" y="548" type="line"/>
+      <point x="1198" y="1456" type="line"/>
       <point x="1056" y="1456" type="line"/>
       <point x="611" y="662" type="line"/>
     </contour>
@@ -50,6 +50,13 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

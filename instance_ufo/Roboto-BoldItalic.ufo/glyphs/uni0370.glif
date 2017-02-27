@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0370" format="2">
+  <advance width="1120"/>
+  <unicode hex="0370"/>
+  <outline>
+    <contour>
+      <point x="1113" y="866" type="line"/>
+      <point x="380" y="866" type="line"/>
+      <point x="338" y="625" type="line"/>
+      <point x="1071" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="1456" type="line"/>
+      <point x="274" y="1456" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

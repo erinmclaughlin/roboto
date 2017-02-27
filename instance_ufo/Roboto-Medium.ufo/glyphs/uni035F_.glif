@@ -3,7 +3,7 @@
   <unicode hex="035F"/>
   <anchor x="0" y="-36" name="_markbottom_dd"/>
   <outline>
-    <component base="uni035E" yOffset="-1591"/>
+    <component base="uni035E" yOffset="-1590"/>
   </outline>
   <lib>
     <dict>

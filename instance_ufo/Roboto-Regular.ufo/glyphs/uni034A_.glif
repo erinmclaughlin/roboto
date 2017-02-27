@@ -10,7 +10,7 @@
       <point x="-632" y="1187" type="line"/>
       <point x="-444" y="1514" type="line"/>
     </contour>
-    <component base="tilde" xOffset="-1061"/>
+    <component base="tilde" xOffset="-1060"/>
   </outline>
   <lib>
     <dict>

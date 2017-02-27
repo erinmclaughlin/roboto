@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0370" format="2">
-  <advance width="1147"/>
+  <advance width="1146"/>
   <unicode hex="0370"/>
   <outline>
     <contour>
-      <point x="1105" y="830" type="line"/>
+      <point x="1105" y="830" type="line" name="hr00"/>
       <point x="332" y="830" type="line"/>
       <point x="332" y="673" type="line"/>
       <point x="1105" y="673" type="line"/>
@@ -18,11 +18,14 @@
   </outline>
   <lib>
     <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

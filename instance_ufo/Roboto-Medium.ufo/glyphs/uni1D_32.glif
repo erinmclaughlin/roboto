@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="53" y="1563" type="line"/>
-      <point x="619" y="1563" type="line"/>
-      <point x="619" y="1729" type="line"/>
+      <point x="618" y="1563" type="line"/>
+      <point x="618" y="1729" type="line"/>
       <point x="53" y="1729" type="line"/>
     </contour>
     <contour>
@@ -17,14 +17,14 @@
     </contour>
     <contour>
       <point x="128" y="1097" type="line"/>
-      <point x="619" y="1097" type="line"/>
-      <point x="619" y="1264" type="line"/>
+      <point x="618" y="1097" type="line"/>
+      <point x="618" y="1264" type="line"/>
       <point x="128" y="1264" type="line"/>
     </contour>
     <contour>
       <point x="58" y="652" type="line"/>
-      <point x="619" y="652" type="line"/>
-      <point x="619" y="819" type="line"/>
+      <point x="618" y="652" type="line"/>
+      <point x="618" y="819" type="line"/>
       <point x="58" y="819" type="line"/>
     </contour>
   </outline>

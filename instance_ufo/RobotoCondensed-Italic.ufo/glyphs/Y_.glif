@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+  <advance width="1043"/>
+  <unicode hex="0059"/>
+  <anchor x="1168" y="1600" name="top0315"/>
+  <anchor x="93" y="1454" name="tonos"/>
+  <anchor x="670" y="1600" name="top"/>
+  <anchor x="434" y="1" name="bottom"/>
+  <anchor x="519" y="593" name="cross"/>
+  <anchor x="1168" y="1600" name="top_dd"/>
+  <anchor x="877" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="352" y="1456" type="line"/>
+      <point x="159" y="1456" type="line"/>
+      <point x="425" y="555" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="600" y="533" type="line"/>
+      <point x="1142" y="1456" type="line"/>
+      <point x="929" y="1456" type="line"/>
+      <point x="537" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>901.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>555.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

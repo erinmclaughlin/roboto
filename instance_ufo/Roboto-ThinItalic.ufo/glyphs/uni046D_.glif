@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046D" format="2">
+  <advance width="1742"/>
+  <unicode hex="046D"/>
+  <outline>
+    <contour>
+      <point x="940" y="585" type="line"/>
+      <point x="179" y="585" type="line"/>
+      <point x="172" y="530" type="line"/>
+      <point x="933" y="530" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+    <component base="uni046B" xOffset="393"/>
+  </outline>
+</glyph>

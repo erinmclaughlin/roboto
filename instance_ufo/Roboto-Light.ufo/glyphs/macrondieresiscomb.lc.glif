@@ -4,8 +4,8 @@
   <anchor x="-573" y="1824" name="mkmktop_acc"/>
   <outline>
     <contour>
-      <point x="-260" y="1441" type="line"/>
-      <point x="-879" y="1441" type="line"/>
+      <point x="-260" y="1440" type="line"/>
+      <point x="-879" y="1440" type="line"/>
       <point x="-879" y="1344" type="line"/>
       <point x="-260" y="1344" type="line"/>
     </contour>

@@ -3,8 +3,8 @@
   <advance width="1223"/>
   <unicode hex="026E"/>
   <anchor x="643" y="1290" name="top"/>
-  <anchor x="1223" y="1290" name="top0315"/>
   <anchor x="643" y="-447" name="bottom"/>
+  <anchor x="1223" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="183" y="1082" type="line"/>
@@ -29,7 +29,7 @@
       <point x="522" y="-176"/>
       <point x="477" y="-152"/>
       <point x="451" y="-71" type="curve"/>
-      <point x="113" y="-71" type="line"/>
+      <point x="112" y="-71" type="line"/>
       <point x="171" y="-350"/>
       <point x="379" y="-436"/>
       <point x="638" y="-436" type="curve" smooth="yes"/>

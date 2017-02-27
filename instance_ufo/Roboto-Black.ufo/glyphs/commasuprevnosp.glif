@@ -2,8 +2,8 @@
 <glyph name="commasuprevnosp" format="2">
   <unicode hex="0314"/>
   <anchor x="-555" y="1069" name="_marktop"/>
-  <anchor x="-575" y="1303" name="parent_top"/>
   <anchor x="-555" y="1684" name="mkmktop"/>
+  <anchor x="-575" y="1303" name="parent_top"/>
   <outline>
     <contour>
       <point x="-746" y="1600" type="line"/>

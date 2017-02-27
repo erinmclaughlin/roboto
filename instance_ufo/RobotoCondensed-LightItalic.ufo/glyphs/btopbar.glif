@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="btopbar" format="2">
+  <advance width="967"/>
+  <unicode hex="0183"/>
+  <outline>
+    <contour>
+      <point x="860" y="1536" type="line"/>
+      <point x="349" y="1536" type="line"/>
+      <point x="333" y="1432" type="line"/>
+      <point x="845" y="1432" type="line"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

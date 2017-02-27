@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DE4" format="2">
+  <unicode hex="2DE4"/>
+  <anchor x="-372" y="1170" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="-510" y="1401" type="line"/>
+      <point x="-379" y="1401" type="line"/>
+      <point x="-336" y="1549" type="line"/>
+      <point x="-433" y="1549" type="line"/>
+      <point x="-479" y="1754" type="line"/>
+      <point x="-636" y="1753" type="line"/>
+    </contour>
+    <contour>
+      <point x="-442" y="1419" type="line"/>
+      <point x="-544" y="1525" type="line"/>
+      <point x="-744" y="1201" type="line"/>
+      <point x="-546" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-212" y="1754" type="line"/>
+      <point x="-359" y="1754" type="line"/>
+      <point x="-440" y="1201" type="line"/>
+      <point x="-293" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="1754" type="line"/>
+      <point x="-107" y="1754" type="line"/>
+      <point x="-213" y="1549" type="line"/>
+      <point x="-296" y="1549" type="line"/>
+      <point x="-302" y="1401" type="line"/>
+      <point x="-150" y="1401" type="line"/>
+    </contour>
+    <contour>
+      <point x="-172" y="1201" type="line"/>
+      <point x="-4" y="1202" type="line"/>
+      <point x="-114" y="1530" type="line"/>
+      <point x="-220" y="1446" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

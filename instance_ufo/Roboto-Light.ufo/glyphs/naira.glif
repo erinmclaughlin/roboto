@@ -6,14 +6,14 @@
     <contour>
       <point x="1540" y="914" type="line"/>
       <point x="36" y="914" type="line"/>
-      <point x="36" y="813" type="line"/>
-      <point x="1540" y="813" type="line"/>
+      <point x="36" y="812" type="line"/>
+      <point x="1540" y="812" type="line"/>
     </contour>
     <contour>
       <point x="1540" y="614" type="line"/>
       <point x="36" y="614" type="line"/>
-      <point x="36" y="513" type="line"/>
-      <point x="1540" y="513" type="line"/>
+      <point x="36" y="512" type="line"/>
+      <point x="1540" y="512" type="line"/>
     </contour>
     <component base="N" xOffset="59"/>
   </outline>
@@ -21,9 +21,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

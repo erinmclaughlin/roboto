@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T.smcp" format="2">
   <advance width="1057"/>
-  <anchor x="585" y="0" name="right"/>
+  <anchor x="584" y="0" name="right"/>
   <anchor x="1057" y="1320" name="top0315"/>
   <anchor x="527" y="1320" name="top"/>
   <anchor x="529" y="1" name="bottom"/>

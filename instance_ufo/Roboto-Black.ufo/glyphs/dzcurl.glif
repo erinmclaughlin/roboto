@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dzcurl" format="2">
-  <advance width="2347"/>
+  <advance width="2346"/>
   <unicode hex="02A5"/>
   <anchor x="1484" y="1600" name="top"/>
-  <anchor x="2347" y="1600" name="top0315"/>
   <anchor x="1485" y="-447" name="bottom"/>
+  <anchor x="2346" y="1600" name="top0315"/>
   <outline>
     <contour>
       <point x="1309" y="-143" type="line"/>
@@ -23,10 +23,10 @@
       <point x="1459" y="0" type="line"/>
       <point x="1956" y="0" type="line" smooth="yes"/>
       <point x="2179" y="0"/>
-      <point x="2317" y="139"/>
-      <point x="2317" y="353" type="curve" smooth="yes"/>
-      <point x="2317" y="535"/>
-      <point x="2229" y="632"/>
+      <point x="2316" y="139"/>
+      <point x="2316" y="353" type="curve" smooth="yes"/>
+      <point x="2316" y="535"/>
+      <point x="2228" y="632"/>
       <point x="2062" y="632" type="curve" smooth="yes"/>
       <point x="1901" y="632"/>
       <point x="1787" y="501"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos.smcp" format="2">
+  <advance width="1092"/>
+  <anchor x="455" y="10" name="bottom"/>
+  <outline>
+    <component base="Omega.smcp" xOffset="8"/>
+    <component base="tonos" xOffset="-213" yOffset="-293"/>
+  </outline>
+</glyph>

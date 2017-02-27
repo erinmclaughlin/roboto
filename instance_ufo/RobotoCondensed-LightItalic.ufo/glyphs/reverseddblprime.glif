@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reverseddblprime" format="2">
+  <advance width="622"/>
+  <unicode hex="2036"/>
+  <outline>
+    <contour>
+      <point x="533" y="1557" type="line"/>
+      <point x="427" y="1557" type="line"/>
+      <point x="549" y="1220" type="line"/>
+      <point x="626" y="1220" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="1557" type="line"/>
+      <point x="228" y="1557" type="line"/>
+      <point x="350" y="1220" type="line"/>
+      <point x="427" y="1220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

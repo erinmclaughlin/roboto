@@ -3,8 +3,8 @@
   <advance width="1652"/>
   <unicode hex="0276"/>
   <anchor x="830" y="1290" name="top"/>
-  <anchor x="1652" y="1290" name="top0315"/>
   <anchor x="830" y="0" name="bottom"/>
+  <anchor x="1652" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="1548" y="258" type="line" name="hr00"/>
@@ -68,8 +68,8 @@
       </data>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.798</real>
         <real>1.0</real>
+        <real>0.779</real>
         <real>0.6</real>
         <real>1.0</real>
       </array>

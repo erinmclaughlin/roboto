@@ -2,15 +2,15 @@
 <glyph name="zbar" format="2">
   <advance width="1034"/>
   <unicode hex="01B6"/>
-  <anchor x="513" y="1290" name="top"/>
+  <anchor x="512" y="1290" name="top"/>
   <anchor x="524" y="10" name="bottom"/>
   <anchor x="1034" y="1290" name="top0315"/>
   <outline>
     <contour>
-      <point x="873" y="622" type="line"/>
+      <point x="872" y="622" type="line"/>
       <point x="151" y="622" type="line"/>
       <point x="151" y="470" type="line"/>
-      <point x="873" y="470" type="line"/>
+      <point x="872" y="470" type="line"/>
     </contour>
     <component base="z" xOffset="10"/>
   </outline>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B.smcp" format="2">
-  <advance width="1105"/>
+  <advance width="1104"/>
   <anchor x="529" y="1320" name="top"/>
   <anchor x="536" y="10" name="bottom"/>
-  <anchor x="1105" y="1600" name="top_dd"/>
-  <anchor x="1105" y="-407" name="bottom_dd"/>
-  <anchor x="1105" y="1320" name="top0315"/>
+  <anchor x="1104" y="1600" name="top_dd"/>
+  <anchor x="1104" y="-407" name="bottom_dd"/>
+  <anchor x="1104" y="1320" name="top0315"/>
   <outline>
     <contour>
       <point x="594" y="531" type="line"/>
@@ -15,12 +15,12 @@
       <point x="975" y="847" type="curve"/>
       <point x="975" y="1065"/>
       <point x="808" y="1165"/>
-      <point x="545" y="1165" type="curve"/>
-      <point x="139" y="1165" type="line"/>
-      <point x="139" y="0" type="line"/>
+      <point x="544" y="1165" type="curve"/>
+      <point x="138" y="1165" type="line"/>
+      <point x="138" y="0" type="line"/>
       <point x="324" y="0" type="line"/>
       <point x="324" y="1012" type="line"/>
-      <point x="545" y="1012" type="line"/>
+      <point x="544" y="1012" type="line"/>
       <point x="704" y="1012"/>
       <point x="790" y="959"/>
       <point x="790" y="839" type="curve"/>

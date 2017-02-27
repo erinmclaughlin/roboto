@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng_uni1ABE" format="2">
+  <advance width="1251"/>
+  <anchor x="443" y="10" name="markbottom"/>
+  <anchor x="671" y="1290" name="top"/>
+  <anchor x="443" y="10" name="bottom"/>
+  <anchor x="428" y="-342" name="cross"/>
+  <anchor x="1265" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="275" y="-521" type="curve"/>
+      <point x="293" y="-449" type="line"/>
+      <point x="240" y="-418"/>
+      <point x="211" y="-381"/>
+      <point x="219" y="-316" type="curve" smooth="yes"/>
+      <point x="228" y="-247"/>
+      <point x="277" y="-202"/>
+      <point x="335" y="-171" type="curve"/>
+      <point x="325" y="-89" type="line"/>
+      <point x="221" y="-120"/>
+      <point x="122" y="-195"/>
+      <point x="119" y="-314" type="curve" smooth="yes"/>
+      <point x="117" y="-412"/>
+      <point x="187" y="-488"/>
+    </contour>
+    <contour>
+      <point x="882" y="-525" type="line"/>
+      <point x="987" y="-493"/>
+      <point x="1086" y="-418"/>
+      <point x="1089" y="-298" type="curve" smooth="yes"/>
+      <point x="1092" y="-201"/>
+      <point x="1022" y="-126"/>
+      <point x="935" y="-94" type="curve"/>
+      <point x="917" y="-168" type="line"/>
+      <point x="969" y="-197"/>
+      <point x="999" y="-232"/>
+      <point x="990" y="-296" type="curve" smooth="yes"/>
+      <point x="980" y="-367"/>
+      <point x="932" y="-414"/>
+      <point x="871" y="-446" type="curve"/>
+    </contour>
+    <component base="eng" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

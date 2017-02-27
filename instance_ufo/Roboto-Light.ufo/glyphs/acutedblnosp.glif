@@ -5,8 +5,8 @@
   <anchor x="-576" y="1385" name="parent_top"/>
   <anchor x="-643" y="1609" name="mkmktop"/>
   <outline>
-    <component base="acute" xOffset="-1015"/>
-    <component base="acute" xOffset="-725"/>
+    <component base="acute" xOffset="-1014"/>
+    <component base="acute" xOffset="-724"/>
   </outline>
   <lib>
     <dict>

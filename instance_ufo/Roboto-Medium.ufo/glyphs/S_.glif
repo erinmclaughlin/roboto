@@ -3,13 +3,13 @@
   <advance width="1237"/>
   <unicode hex="0053"/>
   <anchor x="634" y="1600" name="top"/>
-  <anchor x="639" y="0" name="bottom"/>
+  <anchor x="638" y="0" name="bottom"/>
   <anchor x="1237" y="1600" name="top_dd"/>
   <anchor x="1237" y="-407" name="bottom_dd"/>
   <anchor x="1237" y="1600" name="top0315"/>
   <outline>
     <contour>
-      <point x="909" y="376" type="curve"/>
+      <point x="909" y="376" type="curve" smooth="yes"/>
       <point x="909" y="259"/>
       <point x="820" y="180"/>
       <point x="644" y="180" type="curve" smooth="yes"/>
@@ -27,9 +27,9 @@
       <point x="1009" y="743"/>
       <point x="682" y="839" type="curve"/>
       <point x="474" y="899"/>
-      <point x="373" y="965"/>
-      <point x="373" y="1074" type="curve"/>
-      <point x="373" y="1188"/>
+      <point x="372" y="965"/>
+      <point x="372" y="1074" type="curve"/>
+      <point x="372" y="1188"/>
       <point x="455" y="1275"/>
       <point x="633" y="1275" type="curve" smooth="yes"/>
       <point x="822" y="1275"/>
@@ -44,7 +44,7 @@
       <point x="120" y="1073" type="curve"/>
       <point x="120" y="835"/>
       <point x="321" y="713"/>
-      <point x="598" y="629" type="curve" smooth="yes"/>
+      <point x="598" y="629" type="curve"/>
       <point x="852" y="552"/>
       <point x="909" y="494"/>
     </contour>
@@ -77,6 +77,13 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

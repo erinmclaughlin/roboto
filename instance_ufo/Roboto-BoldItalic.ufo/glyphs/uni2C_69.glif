@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C69" format="2">
+  <advance width="1354"/>
+  <unicode hex="2C69"/>
+  <outline>
+    <contour>
+      <point x="1278" y="242" type="line"/>
+      <point x="953" y="242" type="line"/>
+      <point x="962" y="108" type="line"/>
+      <point x="880" y="-358" type="line"/>
+      <point x="1174" y="-358" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

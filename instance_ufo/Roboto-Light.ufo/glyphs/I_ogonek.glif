@@ -10,6 +10,6 @@
   <anchor x="546" y="-407" name="bottom_dd"/>
   <outline>
     <component base="I"/>
-    <component base="ogonek" xOffset="-23" yOffset="5"/>
+    <component base="ogonek" xOffset="-22" yOffset="4"/>
   </outline>
 </glyph>

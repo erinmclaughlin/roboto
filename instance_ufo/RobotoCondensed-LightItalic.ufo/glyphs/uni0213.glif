@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0213" format="2">
+  <advance width="611"/>
+  <unicode hex="0213"/>
+  <anchor x="454" y="1290" name="parent_top"/>
+  <anchor x="120" y="15" name="bottom"/>
+  <anchor x="503" y="1623" name="top"/>
+  <anchor x="682" y="1290" name="top0315"/>
+  <anchor x="728" y="1600" name="top_dd"/>
+  <anchor x="436" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="r"/>
+    <component base="breveinvnosp" xOffset="818" yOffset="102"/>
+  </outline>
+</glyph>

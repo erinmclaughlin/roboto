@@ -4,7 +4,7 @@
   <unicode hex="A66C"/>
   <outline>
     <component base="O"/>
-    <component base="dotnosp" xOffset="1281" yOffset="-633"/>
+    <component base="dotnosp" xOffset="1280" yOffset="-633"/>
     <component base="dotnosp" xOffset="2197" yOffset="-633"/>
     <component base="O" xOffset="917"/>
   </outline>

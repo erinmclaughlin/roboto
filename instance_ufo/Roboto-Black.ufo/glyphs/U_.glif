@@ -3,9 +3,9 @@
   <advance width="1361"/>
   <unicode hex="0055"/>
   <anchor x="836" y="0" name="right"/>
-  <anchor x="674" y="0" name="bottom"/>
-  <anchor x="674" y="1600" name="top"/>
   <anchor x="1361" y="1600" name="top0315"/>
+  <anchor x="674" y="1600" name="top"/>
+  <anchor x="674" y="0" name="bottom"/>
   <anchor x="1361" y="1600" name="top_dd"/>
   <anchor x="1051" y="76" name="ogonek"/>
   <anchor x="1361" y="-407" name="bottom_dd"/>
@@ -61,15 +61,15 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>0.0</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>0.0</real>
+          <real>664.0</real>
           <key>y</key>
-          <real>1129.0</real>
+          <real>0.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>

@@ -2,7 +2,7 @@
 <glyph name="uni04BD" format="2">
   <advance width="1230"/>
   <unicode hex="04BD"/>
-  <anchor x="723" y="13" name="bottom"/>
+  <anchor x="722" y="13" name="bottom"/>
   <outline>
     <contour>
       <point x="-84" y="864" type="line"/>
@@ -16,15 +16,4 @@
     </contour>
     <component base="e" xOffset="170"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

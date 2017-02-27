@@ -3,9 +3,9 @@
   <advance width="1059"/>
   <unicode hex="04DF"/>
   <anchor x="540" y="1609" name="top"/>
-  <anchor x="1059" y="1289" name="top0315"/>
-  <anchor x="540" y="1289" name="parent_top"/>
   <anchor x="540" y="-9" name="bottom"/>
+  <anchor x="540" y="1289" name="parent_top"/>
+  <anchor x="1059" y="1289" name="top0315"/>
   <outline>
     <component base="uni0437"/>
     <component base="dieresis" xOffset="33" yOffset="-1"/>

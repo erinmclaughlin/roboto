@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+  <advance width="596"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="3" y="153" type="line"/>
+      <point x="155" y="153" type="line"/>
+      <point x="501" y="540" type="line"/>
+      <point x="501" y="556" type="line"/>
+      <point x="327" y="554" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="949" type="line"/>
+      <point x="336" y="546" type="line"/>
+      <point x="506" y="545" type="line"/>
+      <point x="507" y="561" type="line"/>
+      <point x="279" y="949" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>98.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>443.0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

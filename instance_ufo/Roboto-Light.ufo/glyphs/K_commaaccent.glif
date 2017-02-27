@@ -10,6 +10,6 @@
   <anchor x="1292" y="-407" name="bottom_dd"/>
   <outline>
     <component base="K"/>
-    <component base="commaaccent" xOffset="391" yOffset="-183"/>
+    <component base="commaaccent" xOffset="390" yOffset="-183"/>
   </outline>
 </glyph>

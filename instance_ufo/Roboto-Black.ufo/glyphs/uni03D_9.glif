@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03D9" format="2">
-  <advance width="1151"/>
+  <advance width="1150"/>
   <unicode hex="03D9"/>
   <outline>
     <contour>
@@ -26,7 +26,19 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>577.0</real>
+          <real>465.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>586.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

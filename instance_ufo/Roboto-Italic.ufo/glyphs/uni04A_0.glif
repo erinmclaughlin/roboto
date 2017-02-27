@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A0" format="2">
+  <advance width="1626"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="732" y="1456" type="line"/>
+      <point x="215" y="1456" type="line"/>
+      <point x="189" y="1305" type="line"/>
+      <point x="706" y="1305" type="line"/>
+    </contour>
+    <component base="K.alt" xOffset="354"/>
+  </outline>
+</glyph>

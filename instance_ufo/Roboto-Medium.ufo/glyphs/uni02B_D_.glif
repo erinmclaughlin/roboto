@@ -8,11 +8,11 @@
       <point x="300" y="1573" type="line"/>
       <point x="300" y="1381" type="line" smooth="yes"/>
       <point x="300" y="1257"/>
-      <point x="333" y="1161"/>
+      <point x="333" y="1160"/>
       <point x="390" y="1070" type="curve"/>
       <point x="262" y="993" type="line"/>
       <point x="154" y="1088"/>
-      <point x="80" y="1251"/>
+      <point x="80" y="1250"/>
       <point x="80" y="1383" type="curve" smooth="yes"/>
     </contour>
   </outline>

@@ -2,8 +2,8 @@
 <glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
   <anchor x="-581" y="1290" name="_marktop"/>
-  <anchor x="-575" y="1371" name="parent_top"/>
   <anchor x="-581" y="1610" name="mkmktop"/>
+  <anchor x="-574" y="1371" name="parent_top"/>
   <outline>
     <contour>
       <point x="-228" y="1458" type="line"/>

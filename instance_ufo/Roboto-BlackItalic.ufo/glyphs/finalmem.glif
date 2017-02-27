@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalmem" format="2">
+  <advance width="996"/>
+  <unicode hex="02AD"/>
+  <anchor x="677" y="1600" name="top"/>
+  <anchor x="401" y="0" name="bottom"/>
+  <anchor x="1169" y="1600" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="675" y="585" type="line"/>
+      <point x="314" y="585" type="line"/>
+      <point x="280" y="400" type="line"/>
+      <point x="641" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="585" type="line"/>
+      <point x="96" y="585" type="line"/>
+      <point x="-6" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="896" y="585" type="line"/>
+      <point x="658" y="585" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="826" y="1456" type="line"/>
+      <point x="465" y="1456" type="line"/>
+      <point x="431" y="1271" type="line"/>
+      <point x="792" y="1271" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="1456" type="line"/>
+      <point x="247" y="1456" type="line"/>
+      <point x="145" y="871" type="line"/>
+      <point x="384" y="871" type="line"/>
+    </contour>
+    <contour>
+      <point x="1047" y="1456" type="line"/>
+      <point x="809" y="1456" type="line"/>
+      <point x="707" y="871" type="line"/>
+      <point x="945" y="871" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

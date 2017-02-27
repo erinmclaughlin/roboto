@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="1112" y="1844" type="line"/>
-      <point x="775" y="1844" type="line"/>
-      <point x="775" y="1197" type="line"/>
+      <point x="774" y="1844" type="line"/>
+      <point x="774" y="1197" type="line"/>
       <point x="1112" y="1197" type="line"/>
     </contour>
     <component base="Gamma" xOffset="2"/>

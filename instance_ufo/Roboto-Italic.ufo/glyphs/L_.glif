@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+  <advance width="1070"/>
+  <unicode hex="004C"/>
+  <anchor x="1242" y="1596" name="top0315"/>
+  <anchor x="427" y="1596" name="top"/>
+  <anchor x="499" y="10" name="bottom"/>
+  <anchor x="734" y="1455" name="caron"/>
+  <anchor x="1243" y="1600" name="top_dd"/>
+  <anchor x="896" y="-407" name="bottom_dd"/>
+  <anchor x="615" y="791" name="dot"/>
+  <outline>
+    <contour>
+      <point x="945" y="157" type="line"/>
+      <point x="236" y="157" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="918" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="1456" type="line"/>
+      <point x="312" y="1456" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

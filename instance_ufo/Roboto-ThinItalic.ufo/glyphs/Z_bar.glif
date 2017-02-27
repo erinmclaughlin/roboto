@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zbar" format="2">
+  <advance width="1187"/>
+  <unicode hex="01B5"/>
+  <anchor x="766" y="1612" name="top"/>
+  <anchor x="522" y="10" name="bottom"/>
+  <anchor x="1362" y="1612" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="1016" y="783" type="line"/>
+      <point x="213" y="783" type="line"/>
+      <point x="205" y="729" type="line"/>
+      <point x="1009" y="729" type="line"/>
+    </contour>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

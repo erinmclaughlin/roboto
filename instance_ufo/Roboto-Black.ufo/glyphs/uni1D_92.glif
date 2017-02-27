@@ -3,8 +3,8 @@
   <advance width="1237"/>
   <unicode hex="1D92"/>
   <anchor x="593" y="1290" name="top"/>
-  <anchor x="1237" y="1290" name="top0315"/>
   <anchor x="593" y="-447" name="bottom"/>
+  <anchor x="1237" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="822" y="170" type="line"/>
@@ -25,7 +25,7 @@
       <point x="1045" y="170" type="line"/>
     </contour>
     <contour>
-      <point x="619" y="-20" type="curve" smooth="yes"/>
+      <point x="619" y="-20" type="curve"/>
       <point x="827" y="-20"/>
       <point x="978" y="75"/>
       <point x="1045" y="170" type="curve"/>
@@ -39,10 +39,10 @@
       <point x="399" y="543" type="line" smooth="yes"/>
       <point x="399" y="704"/>
       <point x="433" y="842"/>
-      <point x="580" y="842" type="curve" smooth="yes"/>
+      <point x="580" y="842" type="curve"/>
       <point x="686" y="842"/>
       <point x="746" y="779"/>
-      <point x="745" y="672" type="curve" smooth="yes"/>
+      <point x="745" y="672" type="curve"/>
       <point x="745" y="646" type="line"/>
       <point x="190" y="646" type="line"/>
       <point x="190" y="435" type="line"/>
@@ -50,7 +50,7 @@
       <point x="1074" y="572" type="line" smooth="yes"/>
       <point x="1074" y="897"/>
       <point x="890" y="1102"/>
-      <point x="583" y="1102" type="curve" smooth="yes"/>
+      <point x="582" y="1102" type="curve" smooth="yes"/>
       <point x="236" y="1102"/>
       <point x="61" y="859"/>
       <point x="61" y="543" type="curve" smooth="yes"/>

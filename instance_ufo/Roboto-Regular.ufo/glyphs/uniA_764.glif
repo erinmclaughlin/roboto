@@ -30,19 +30,19 @@
       <point x="706" y="1126" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="659" y="1366" type="line"/>
+      <point x="658" y="1366" type="line"/>
       <point x="22" y="1366" type="line"/>
       <point x="22" y="1214" type="line"/>
-      <point x="659" y="1214" type="line"/>
+      <point x="658" y="1214" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="-363" y="1256" name="_top"/>
+  <anchor x="-363" y="1256" name="_marktop"/>
+  <anchor x="-300" y="1658" name="mkmktop"/>
+  <anchor x="-321" y="1393" name="parent_top"/>
+  <outline>
+    <component base="tilde" xOffset="-873"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -10,7 +10,7 @@
       <point x="1071" y="340" type="line"/>
     </contour>
     <contour>
-      <point x="721" y="1261" type="line"/>
+      <point x="721" y="1260" type="line"/>
       <point x="735" y="1456" type="line"/>
       <point x="568" y="1456" type="line"/>
       <point x="18" y="0" type="line"/>
@@ -20,7 +20,7 @@
       <point x="1125" y="559" type="line"/>
       <point x="795" y="1456" type="line"/>
       <point x="627" y="1456" type="line"/>
-      <point x="643" y="1261" type="line"/>
+      <point x="642" y="1260" type="line"/>
       <point x="928" y="442" type="line"/>
     </contour>
     <component base="O" xOffset="805"/>

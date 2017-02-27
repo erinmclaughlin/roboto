@@ -12,7 +12,7 @@
     <contour>
       <point x="959" y="1570" type="line"/>
       <point x="719" y="1570" type="line"/>
-      <point x="171" y="-125" type="line"/>
+      <point x="170" y="-125" type="line"/>
       <point x="410" y="-125" type="line"/>
     </contour>
     <component base="C"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049E" format="2">
+  <advance width="1146"/>
+  <unicode hex="049E"/>
+  <outline>
+    <component base="K.alt" xOffset="16"/>
+    <component base="crossbar" xOffset="-85" yOffset="449"/>
+  </outline>
+</glyph>

@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="1224" y="717" type="line"/>
-      <point x="43" y="717" type="line"/>
-      <point x="43" y="526" type="line"/>
+      <point x="42" y="717" type="line"/>
+      <point x="42" y="526" type="line"/>
       <point x="1224" y="526" type="line"/>
     </contour>
     <component base="uniAB4E" xOffset="60"/>

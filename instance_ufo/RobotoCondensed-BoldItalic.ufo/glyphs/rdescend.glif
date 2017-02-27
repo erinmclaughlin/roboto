@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rdescend" format="2">
+  <advance width="660"/>
+  <unicode hex="027C"/>
+  <anchor x="556" y="1290" name="top"/>
+  <anchor x="740" y="1290" name="top0315"/>
+  <anchor x="304" y="-447" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="408" y="821" type="line"/>
+      <point x="399" y="894" type="line"/>
+      <point x="430" y="1082" type="line"/>
+      <point x="170" y="1082" type="line"/>
+      <point x="-48" y="-417" type="line"/>
+      <point x="228" y="-417" type="line"/>
+    </contour>
+    <contour>
+      <point x="683" y="1092" type="line"/>
+      <point x="654" y="1099"/>
+      <point x="627" y="1106"/>
+      <point x="598" y="1105" type="curve" smooth="yes"/>
+      <point x="418" y="1106"/>
+      <point x="329" y="822"/>
+      <point x="309" y="616" type="curve"/>
+      <point x="358" y="593" type="line"/>
+      <point x="386" y="738"/>
+      <point x="452" y="824"/>
+      <point x="566" y="820" type="curve" smooth="yes"/>
+      <point x="594" y="819"/>
+      <point x="624" y="814"/>
+      <point x="653" y="809" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      </data>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

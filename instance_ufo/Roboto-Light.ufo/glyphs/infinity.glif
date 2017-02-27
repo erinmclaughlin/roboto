@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="infinity" format="2">
-  <advance width="2165"/>
+  <advance width="2164"/>
   <unicode hex="221E"/>
   <outline>
     <contour>
@@ -21,8 +21,8 @@
     </contour>
     <contour>
       <point x="239" y="560" type="line"/>
-      <point x="239" y="783"/>
-      <point x="359" y="1000"/>
+      <point x="239" y="782"/>
+      <point x="358" y="1000"/>
       <point x="588" y="1000" type="curve" smooth="yes"/>
       <point x="881" y="1000"/>
       <point x="998" y="601"/>
@@ -31,8 +31,8 @@
       <point x="998" y="480"/>
       <point x="881" y="81"/>
       <point x="590" y="81" type="curve" smooth="yes"/>
-      <point x="359" y="81"/>
-      <point x="239" y="297"/>
+      <point x="358" y="81"/>
+      <point x="239" y="296"/>
       <point x="239" y="522" type="curve"/>
     </contour>
     <contour>
@@ -53,7 +53,7 @@
     </contour>
     <contour>
       <point x="1912" y="522" type="line"/>
-      <point x="1912" y="297"/>
+      <point x="1912" y="296"/>
       <point x="1791" y="81"/>
       <point x="1561" y="81" type="curve" smooth="yes"/>
       <point x="1269" y="81"/>
@@ -64,7 +64,7 @@
       <point x="1269" y="1000"/>
       <point x="1563" y="1000" type="curve" smooth="yes"/>
       <point x="1791" y="1000"/>
-      <point x="1912" y="783"/>
+      <point x="1912" y="782"/>
       <point x="1912" y="560" type="curve" smooth="yes"/>
     </contour>
   </outline>

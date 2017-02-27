@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0403.smcp" format="2">
+  <advance width="818"/>
+  <anchor x="596" y="1622" name="top"/>
+  <anchor x="551" y="1320" name="parent_top"/>
+  <anchor x="894" y="1320" name="top0315"/>
+  <outline>
+    <component base="Gamma.smcp"/>
+    <component base="acute" xOffset="266" yOffset="28"/>
+  </outline>
+</glyph>

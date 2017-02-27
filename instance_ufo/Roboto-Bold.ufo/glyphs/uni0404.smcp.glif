@@ -7,8 +7,8 @@
     <contour>
       <point x="689" y="700" type="line"/>
       <point x="285" y="700" type="line"/>
-      <point x="285" y="467" type="line"/>
-      <point x="689" y="467" type="line"/>
+      <point x="285" y="466" type="line"/>
+      <point x="689" y="466" type="line"/>
     </contour>
     <component base="C.smcp"/>
   </outline>

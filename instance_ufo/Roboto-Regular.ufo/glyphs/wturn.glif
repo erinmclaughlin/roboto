@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wturn" format="2">
-  <advance width="1535"/>
+  <advance width="1534"/>
   <unicode hex="028D"/>
   <anchor x="766" y="1290" name="top"/>
   <anchor x="766" y="0" name="bottom"/>
-  <anchor x="1535" y="1290" name="top0315"/>
+  <anchor x="1534" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="411" y="690" type="line"/>
@@ -14,7 +14,7 @@
       <point x="228" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="693" y="0" type="line"/>
+      <point x="692" y="0" type="line"/>
       <point x="815" y="0" type="line"/>
       <point x="719" y="418" type="line"/>
       <point x="508" y="1082" type="line"/>
@@ -34,7 +34,7 @@
       <point x="1491" y="0" type="line"/>
       <point x="1177" y="1082" type="line"/>
       <point x="1053" y="1082" type="line"/>
-      <point x="1133" y="690" type="line"/>
+      <point x="1132" y="690" type="line"/>
     </contour>
   </outline>
   <lib>

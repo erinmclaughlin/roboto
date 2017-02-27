@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icaron" format="2">
+  <advance width="531"/>
+  <unicode hex="01D0"/>
+  <anchor x="412" y="1630" name="top"/>
+  <anchor x="600" y="1274" name="top0315"/>
+  <anchor x="358" y="1274" name="parent_top"/>
+  <anchor x="165" y="10" name="bottom"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="caron" xOffset="-166" yOffset="-16"/>
+  </outline>
+</glyph>

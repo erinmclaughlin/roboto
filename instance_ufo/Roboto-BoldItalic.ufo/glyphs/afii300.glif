@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii300" format="2">
+  <unicode hex="200F"/>
+  <outline>
+    <contour>
+      <point x="-170" y="1173" type="line"/>
+      <point x="-738" y="1173" type="line"/>
+      <point x="-705" y="1359" type="line"/>
+      <point x="-137" y="1359" type="line"/>
+    </contour>
+    <contour>
+      <point x="-698" y="1012" type="line"/>
+      <point x="-853" y="1257" type="line"/>
+      <point x="-678" y="1324" type="line"/>
+      <point x="-458" y="1012" type="line"/>
+    </contour>
+    <contour>
+      <point x="-389" y="1523" type="line"/>
+      <point x="-723" y="1206" type="line"/>
+      <point x="-847" y="1259" type="line"/>
+      <point x="-589" y="1524" type="line"/>
+    </contour>
+    <contour>
+      <point x="-408" y="-200" type="line"/>
+      <point x="-601" y="-200" type="line"/>
+      <point x="-341" y="1297" type="line"/>
+      <point x="-148" y="1297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

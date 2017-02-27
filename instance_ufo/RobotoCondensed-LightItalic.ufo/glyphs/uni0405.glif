@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0405" format="2">
+  <advance width="1037"/>
+  <unicode hex="0405"/>
+  <anchor x="678" y="1617" name="parent_top"/>
+  <anchor x="445" y="-5" name="bottom"/>
+  <anchor x="678" y="1617" name="top"/>
+  <anchor x="1157" y="1617" name="top0315"/>
+  <anchor x="1154" y="1600" name="top_dd"/>
+  <anchor x="863" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="S"/>
+  </outline>
+</glyph>

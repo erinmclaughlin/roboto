@@ -28,7 +28,7 @@
       <point x="999" y="1476"/>
       <point x="688" y="1476" type="curve" smooth="yes"/>
       <point x="348" y="1476"/>
-      <point x="132" y="1213"/>
+      <point x="132" y="1212"/>
       <point x="132" y="819" type="curve"/>
       <point x="132" y="637" type="line"/>
       <point x="132" y="243"/>
@@ -67,18 +67,13 @@
           <key>y</key>
           <real>555.0</real>
         </dict>
-        <dict>
-          <key>angle</key>
-          <real>90.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <real>920.0</real>
-          <key>y</key>
-          <real>0.0</real>
-        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
       </array>
     </dict>
   </lib>

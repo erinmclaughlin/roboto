@@ -3,8 +3,8 @@
   <advance width="1414"/>
   <unicode hex="0298"/>
   <anchor x="702" y="1633" name="top"/>
-  <anchor x="1414" y="1633" name="top0315"/>
   <anchor x="702" y="0" name="bottom"/>
+  <anchor x="1414" y="1633" name="top0315"/>
   <outline>
     <contour>
       <point x="516" y="732" type="curve" smooth="yes"/>
@@ -12,9 +12,9 @@
       <point x="592" y="563"/>
       <point x="702" y="563" type="curve" smooth="yes"/>
       <point x="813" y="563"/>
-      <point x="889" y="636"/>
-      <point x="889" y="732" type="curve" smooth="yes"/>
-      <point x="889" y="828"/>
+      <point x="888" y="636"/>
+      <point x="888" y="732" type="curve" smooth="yes"/>
+      <point x="888" y="828"/>
       <point x="813" y="901"/>
       <point x="702" y="901" type="curve" smooth="yes"/>
       <point x="592" y="901"/>
@@ -36,7 +36,7 @@
           <key>x</key>
           <real>0.0</real>
           <key>y</key>
-          <real>732.0</real>
+          <real>722.0</real>
         </dict>
         <dict>
           <key>angle</key>
@@ -46,7 +46,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>703.0</real>
+          <real>708.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

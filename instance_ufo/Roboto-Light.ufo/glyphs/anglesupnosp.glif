@@ -2,7 +2,7 @@
 <glyph name="anglesupnosp" format="2">
   <unicode hex="031A"/>
   <anchor x="-491" y="1263" name="_marktop"/>
-  <anchor x="-491" y="1673" name="mkmktop"/>
+  <anchor x="-491" y="1672" name="mkmktop"/>
   <outline>
     <contour>
       <point x="-802" y="1546" type="line"/>

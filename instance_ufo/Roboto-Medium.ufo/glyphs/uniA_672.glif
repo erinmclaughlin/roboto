@@ -3,40 +3,40 @@
   <unicode hex="A672"/>
   <outline>
     <contour>
-      <point x="-1178" y="1019" type="line"/>
-      <point x="-1670" y="1019" type="line"/>
+      <point x="-1178" y="1018" type="line"/>
+      <point x="-1670" y="1018" type="line"/>
       <point x="-1670" y="824" type="line"/>
       <point x="-1178" y="824" type="line"/>
     </contour>
     <contour>
-      <point x="-1178" y="319" type="line"/>
-      <point x="-1670" y="319" type="line"/>
+      <point x="-1178" y="318" type="line"/>
+      <point x="-1670" y="318" type="line"/>
       <point x="-1670" y="124" type="line"/>
       <point x="-1178" y="124" type="line"/>
     </contour>
     <contour>
-      <point x="-1178" y="669" type="line"/>
-      <point x="-1670" y="669" type="line"/>
+      <point x="-1178" y="668" type="line"/>
+      <point x="-1670" y="668" type="line"/>
       <point x="-1670" y="474" type="line"/>
       <point x="-1178" y="474" type="line"/>
     </contour>
     <contour>
-      <point x="505" y="1019" type="line"/>
-      <point x="13" y="1019" type="line"/>
-      <point x="13" y="824" type="line"/>
-      <point x="505" y="824" type="line"/>
+      <point x="504" y="1018" type="line"/>
+      <point x="12" y="1018" type="line"/>
+      <point x="12" y="824" type="line"/>
+      <point x="504" y="824" type="line"/>
     </contour>
     <contour>
-      <point x="505" y="319" type="line"/>
-      <point x="13" y="319" type="line"/>
-      <point x="13" y="124" type="line"/>
-      <point x="505" y="124" type="line"/>
+      <point x="504" y="318" type="line"/>
+      <point x="12" y="318" type="line"/>
+      <point x="12" y="124" type="line"/>
+      <point x="504" y="124" type="line"/>
     </contour>
     <contour>
-      <point x="505" y="669" type="line"/>
-      <point x="13" y="669" type="line"/>
-      <point x="13" y="474" type="line"/>
-      <point x="505" y="474" type="line"/>
+      <point x="504" y="668" type="line"/>
+      <point x="12" y="668" type="line"/>
+      <point x="12" y="474" type="line"/>
+      <point x="504" y="474" type="line"/>
     </contour>
     <contour>
       <point x="-137" y="-477" type="line"/>
@@ -65,8 +65,8 @@
     <contour>
       <point x="-368" y="1482" type="line"/>
       <point x="-802" y="1482" type="line"/>
-      <point x="-802" y="1287" type="line"/>
-      <point x="-368" y="1287" type="line"/>
+      <point x="-802" y="1286" type="line"/>
+      <point x="-368" y="1286" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -83,7 +83,7 @@
           <key>x</key>
           <real>0.0</real>
           <key>y</key>
-          <real>1384.0</real>
+          <real>571.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>

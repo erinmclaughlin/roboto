@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="-310" y="1290" name="_top"/>
+  <anchor x="-310" y="1290" name="_marktop"/>
+  <anchor x="-255" y="1641" name="mkmktop"/>
+  <anchor x="-399" y="1389" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-358" y="1536" type="line"/>
+      <point x="-553" y="1536" type="line"/>
+      <point x="-376" y="1242" type="line"/>
+      <point x="-244" y="1242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

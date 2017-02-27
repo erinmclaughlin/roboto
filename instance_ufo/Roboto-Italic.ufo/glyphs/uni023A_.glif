@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni023A" format="2">
+  <advance width="1296"/>
+  <unicode hex="023A"/>
+  <outline>
+    <contour>
+      <point x="1477" y="1562" type="line"/>
+      <point x="1307" y="1562" type="line"/>
+      <point x="332" y="537" type="line"/>
+      <point x="304" y="507" type="line"/>
+      <point x="-296" y="-125" type="line"/>
+      <point x="-125" y="-125" type="line"/>
+      <point x="380" y="406" type="line"/>
+      <point x="423" y="451" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

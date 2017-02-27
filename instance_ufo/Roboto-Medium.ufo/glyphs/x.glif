@@ -18,7 +18,7 @@
       <point x="301" y="0" type="line"/>
       <point x="516" y="370" type="line"/>
       <point x="732" y="0" type="line"/>
-      <point x="1001" y="0" type="line"/>
+      <point x="1000" y="0" type="line"/>
       <point x="659" y="550" type="line"/>
       <point x="989" y="1082" type="line"/>
       <point x="720" y="1082" type="line"/>
@@ -61,7 +61,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>547.0</real>
+          <real>544.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

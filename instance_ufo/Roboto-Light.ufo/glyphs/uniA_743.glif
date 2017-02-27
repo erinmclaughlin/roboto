@@ -7,7 +7,7 @@
       <point x="857" y="608" type="line"/>
       <point x="413" y="188" type="line"/>
       <point x="484" y="114" type="line"/>
-      <point x="929" y="535" type="line"/>
+      <point x="928" y="535" type="line"/>
     </contour>
     <component base="k"/>
   </outline>
@@ -15,9 +15,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

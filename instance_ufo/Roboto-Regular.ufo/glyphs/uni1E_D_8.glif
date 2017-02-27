@@ -11,6 +11,6 @@
   <outline>
     <component base="O"/>
     <component base="circumflex" xOffset="235" yOffset="312"/>
-    <component base="dotbelow" xOffset="1305"/>
+    <component base="dotbelow" xOffset="1304"/>
   </outline>
 </glyph>

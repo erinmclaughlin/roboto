@@ -7,7 +7,7 @@
   <anchor x="1031" y="1290" name="top0315"/>
   <outline>
     <contour>
-      <point x="912" y="681" type="line"/>
+      <point x="912" y="680" type="line"/>
       <point x="907" y="607"/>
       <point x="862" y="558"/>
       <point x="789" y="558" type="curve" smooth="yes"/>
@@ -40,9 +40,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

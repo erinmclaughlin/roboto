@@ -19,11 +19,11 @@
       <point x="130" y="1561" type="line"/>
       <point x="130" y="0" type="line"/>
       <point x="625" y="0" type="line"/>
-      <point x="921" y="0"/>
+      <point x="920" y="0"/>
       <point x="1092" y="165"/>
       <point x="1092" y="397" type="curve"/>
       <point x="1092" y="629"/>
-      <point x="921" y="791"/>
+      <point x="920" y="791"/>
       <point x="625" y="791" type="curve"/>
     </contour>
     <contour>

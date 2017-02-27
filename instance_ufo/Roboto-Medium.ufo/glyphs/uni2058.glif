@@ -5,7 +5,7 @@
   <outline>
     <component base="dotbelow" xOffset="808" yOffset="729"/>
     <component base="dotbelow" xOffset="1228" yOffset="335"/>
-    <component base="dotbelow" xOffset="1649" yOffset="729"/>
+    <component base="dotbelow" xOffset="1648" yOffset="729"/>
     <component base="dotbelow" xOffset="1228" yOffset="1122"/>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>530.0</real>
+          <real>536.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
@@ -32,7 +32,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>191.0</real>
+          <real>333.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
@@ -44,7 +44,7 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>641.0</real>
+          <real>768.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>

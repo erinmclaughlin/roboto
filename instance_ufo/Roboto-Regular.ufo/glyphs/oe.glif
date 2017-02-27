@@ -10,7 +10,7 @@
   <outline>
     <contour>
       <point x="1379" y="-21" type="curve"/>
-      <point x="1575" y="-21"/>
+      <point x="1574" y="-21"/>
       <point x="1695" y="49"/>
       <point x="1761" y="113" type="curve"/>
       <point x="1688" y="239" type="line"/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0484" format="2">
+  <unicode hex="0484"/>
+  <anchor x="-238" y="1190" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="-604" y="1438" type="line"/>
+      <point x="-611" y="1301" type="line"/>
+      <point x="-584" y="1302" type="line" smooth="yes"/>
+      <point x="-441" y="1305"/>
+      <point x="-296" y="1428"/>
+      <point x="-159" y="1421" type="curve" smooth="yes"/>
+      <point x="-115" y="1418"/>
+      <point x="-102" y="1383"/>
+      <point x="-104" y="1324" type="curve" smooth="yes"/>
+      <point x="-106" y="1303" type="line"/>
+      <point x="16" y="1301" type="line"/>
+      <point x="17" y="1342" type="line" smooth="yes"/>
+      <point x="17" y="1479"/>
+      <point x="-54" y="1554"/>
+      <point x="-167" y="1555" type="curve" smooth="yes"/>
+      <point x="-312" y="1557"/>
+      <point x="-443" y="1435"/>
+      <point x="-590" y="1437" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

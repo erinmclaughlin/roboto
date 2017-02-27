@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ascriptturn" format="2">
+  <advance width="1155"/>
+  <unicode hex="0252"/>
+  <anchor x="958" y="654" name="rhotichook"/>
+  <anchor x="714" y="1290" name="top"/>
+  <anchor x="491" y="0" name="bottom"/>
+  <anchor x="1290" y="1290" name="top0315"/>
+  <outline>
+    <component base="alpha" xScale="-1.0" yScale="-1.0" xOffset="1151" yOffset="1081"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>0.5163</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

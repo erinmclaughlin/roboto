@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DF0" format="2">
+  <unicode hex="1DF0"/>
+  <anchor x="-507" y="1170" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="-814" y="1082" type="line"/>
+      <point x="-681" y="998" type="line"/>
+      <point x="-484" y="1250" type="line"/>
+      <point x="-617" y="1334" type="line"/>
+    </contour>
+    <component base="uni0367" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

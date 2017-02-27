@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
-  <anchor x="-515" y="1258" name="_top"/>
-  <anchor x="-515" y="1258" name="_marktop"/>
+  <anchor x="-514" y="1258" name="_top"/>
+  <anchor x="-514" y="1258" name="_marktop"/>
   <anchor x="-517" y="1378" name="parent_top"/>
-  <anchor x="-515" y="1553" name="mkmktop"/>
+  <anchor x="-514" y="1553" name="mkmktop"/>
   <outline>
     <component base="tilde" xOffset="-961"/>
   </outline>

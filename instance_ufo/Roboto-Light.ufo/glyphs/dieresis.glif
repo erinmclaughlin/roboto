@@ -2,7 +2,7 @@
 <glyph name="dieresis" format="2">
   <advance width="881"/>
   <unicode hex="00A8"/>
-  <anchor x="437" y="1292" name="_top"/>
+  <anchor x="436" y="1292" name="_top"/>
   <anchor x="437" y="1558" name="mkmktop_acc"/>
   <outline>
     <contour>
@@ -22,9 +22,9 @@
     <contour>
       <point x="575" y="1396" type="curve" smooth="yes"/>
       <point x="575" y="1351"/>
-      <point x="606" y="1317"/>
-      <point x="657" y="1317" type="curve" smooth="yes"/>
-      <point x="709" y="1317"/>
+      <point x="606" y="1316"/>
+      <point x="657" y="1316" type="curve" smooth="yes"/>
+      <point x="709" y="1316"/>
       <point x="740" y="1351"/>
       <point x="740" y="1396" type="curve" smooth="yes"/>
       <point x="740" y="1441"/>

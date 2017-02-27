@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni034D" format="2">
+  <unicode hex="034D"/>
+  <anchor x="-744" y="-552" name="mkmkbottom_acc"/>
+  <anchor x="-649" y="0" name="_markbottom"/>
+  <outline>
+    <contour>
+      <point x="-333" y="-295" type="line"/>
+      <point x="-1069" y="-295" type="line"/>
+      <point x="-1075" y="-337" type="line"/>
+      <point x="-339" y="-337" type="line"/>
+    </contour>
+    <contour>
+      <point x="-898" y="-553" type="line"/>
+      <point x="-1080" y="-293" type="line"/>
+      <point x="-1115" y="-312" type="line"/>
+      <point x="-948" y="-553" type="line"/>
+    </contour>
+    <contour>
+      <point x="-872" y="-76" type="line"/>
+      <point x="-1116" y="-311" type="line"/>
+      <point x="-1080" y="-333" type="line"/>
+      <point x="-815" y="-77" type="line"/>
+    </contour>
+    <contour>
+      <point x="-534" y="-551" type="line"/>
+      <point x="-291" y="-317" type="line"/>
+      <point x="-325" y="-294" type="line"/>
+      <point x="-590" y="-550" type="line"/>
+    </contour>
+    <contour>
+      <point x="-509" y="-74" type="line"/>
+      <point x="-327" y="-334" type="line"/>
+      <point x="-291" y="-316" type="line"/>
+      <point x="-458" y="-74" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -10,10 +10,10 @@
       <point x="303" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="448" y="1077" type="line"/>
+      <point x="448" y="1076" type="line"/>
       <point x="448" y="404" type="line"/>
       <point x="549" y="404" type="line"/>
-      <point x="549" y="1077" type="line"/>
+      <point x="549" y="1076" type="line"/>
     </contour>
     <contour>
       <point x="1027" y="1456" type="line"/>
@@ -30,4 +30,15 @@
       <point x="706" y="808" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="1276"/>
   <unicode hex="03D2"/>
   <anchor x="-112" y="1454" name="tonos"/>
-  <anchor x="633" y="1612" name="top"/>
+  <anchor x="632" y="1612" name="top"/>
   <anchor x="1276" y="1612" name="top0315"/>
   <outline>
     <contour>
@@ -34,7 +34,7 @@
     <contour>
       <point x="478" y="1232" type="line"/>
       <point x="406" y="1429"/>
-      <point x="291" y="1488"/>
+      <point x="290" y="1488"/>
       <point x="135" y="1488" type="curve" smooth="yes"/>
       <point x="71" y="1488"/>
       <point x="19" y="1474"/>
@@ -47,7 +47,7 @@
       <point x="162" y="1184"/>
       <point x="180" y="1139" type="curve" smooth="yes"/>
       <point x="469" y="433" type="line"/>
-      <point x="689" y="433" type="line"/>
+      <point x="688" y="433" type="line"/>
       <point x="668" y="689" type="line"/>
     </contour>
   </outline>
@@ -55,9 +55,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.939</real>
-        <real>1.0</real>
         <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
         <real>1.0</real>
       </array>
     </dict>

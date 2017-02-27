@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E3D" format="2">
+  <advance width="478"/>
+  <unicode hex="2E3D"/>
+  <outline>
+    <component base="dotbelow" xOffset="699" yOffset="-44"/>
+    <component base="dotbelow" xOffset="807" yOffset="714"/>
+    <component base="dotbelow" xOffset="971" yOffset="1852"/>
+    <component base="dotbelow" xOffset="916" yOffset="1471"/>
+    <component base="dotbelow" xOffset="862" yOffset="1091"/>
+    <component base="dotbelow" xOffset="754" yOffset="336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

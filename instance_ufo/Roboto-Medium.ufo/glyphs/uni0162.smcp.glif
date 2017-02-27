@@ -9,6 +9,6 @@
   <anchor x="1084" y="-407" name="bottom_dd"/>
   <outline>
     <component base="T.smcp"/>
-    <component base="cedilla" xOffset="314" yOffset="7"/>
+    <component base="cedilla" xOffset="314" yOffset="6"/>
   </outline>
 </glyph>

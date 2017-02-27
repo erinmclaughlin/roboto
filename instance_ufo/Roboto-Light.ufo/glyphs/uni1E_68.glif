@@ -11,6 +11,6 @@
   <outline>
     <component base="S"/>
     <component base="dotbelow" xOffset="1215" yOffset="-6"/>
-    <component base="dotaccent" xOffset="396" yOffset="327"/>
+    <component base="dotaccent" xOffset="396" yOffset="326"/>
   </outline>
 </glyph>

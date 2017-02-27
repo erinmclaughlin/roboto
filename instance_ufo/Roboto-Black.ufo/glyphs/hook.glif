@@ -4,8 +4,8 @@
   <anchor x="-619" y="1299" name="_top"/>
   <anchor x="-619" y="1299" name="_marktop"/>
   <anchor x="-619" y="1749" name="mkmktop_acc"/>
-  <anchor x="-557" y="1476" name="parent_top"/>
   <anchor x="-619" y="1749" name="mkmktop"/>
+  <anchor x="-557" y="1476" name="parent_top"/>
   <outline>
     <contour>
       <point x="-493" y="1276" type="line"/>
@@ -22,7 +22,7 @@
       <point x="-636" y="1465" type="curve" smooth="yes"/>
       <point x="-636" y="1426"/>
       <point x="-676" y="1406"/>
-      <point x="-773" y="1402" type="curve"/>
+      <point x="-772" y="1402" type="curve"/>
       <point x="-750" y="1276" type="line"/>
     </contour>
   </outline>

@@ -2,7 +2,7 @@
 <glyph name="brevenosp" format="2">
   <unicode hex="0306"/>
   <anchor x="-583" y="1194" name="_marktop"/>
-  <anchor x="-583" y="1615" name="mkmktop"/>
+  <anchor x="-583" y="1614" name="mkmktop"/>
   <anchor x="-584" y="1369" name="parent_top"/>
   <outline>
     <contour>
@@ -26,9 +26,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.798</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

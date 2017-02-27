@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="1003"/>
+  <unicode hex="0111"/>
+  <anchor x="818" y="1308" name="parenthesses.w2"/>
+  <anchor x="1130" y="1612" name="top0315"/>
+  <anchor x="610" y="1612" name="top"/>
+  <anchor x="429" y="0" name="bottom"/>
+  <anchor x="429" y="0" name="markbottom"/>
+  <anchor x="1060" y="1536" name="caron"/>
+  <anchor x="1095" y="1600" name="top_dd"/>
+  <anchor x="804" y="-407" name="bottom_dd"/>
+  <outline>
+    <contour>
+      <point x="1078" y="1360" type="line"/>
+      <point x="575" y="1360" type="line"/>
+      <point x="560" y="1257" type="line"/>
+      <point x="1063" y="1257" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.779</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

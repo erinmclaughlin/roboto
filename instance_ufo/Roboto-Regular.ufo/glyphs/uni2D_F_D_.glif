@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2DFD" format="2">
   <unicode hex="2DFD"/>
-  <anchor x="-585" y="1170" name="_marktop"/>
+  <anchor x="-584" y="1170" name="_marktop"/>
   <outline>
     <contour>
       <point x="-598" y="1591" type="line"/>
       <point x="-535" y="1753" type="line"/>
       <point x="-644" y="1753" type="line"/>
       <point x="-878" y="1201" type="line"/>
-      <point x="-753" y="1201" type="line"/>
+      <point x="-752" y="1201" type="line"/>
     </contour>
     <contour>
       <point x="-416" y="1201" type="line"/>
@@ -25,8 +25,8 @@
     </contour>
     <contour>
       <point x="-527" y="1411" type="line"/>
-      <point x="-641" y="1411" type="line"/>
-      <point x="-641" y="1201" type="line"/>
+      <point x="-640" y="1411" type="line"/>
+      <point x="-640" y="1201" type="line"/>
       <point x="-527" y="1201" type="line"/>
     </contour>
   </outline>

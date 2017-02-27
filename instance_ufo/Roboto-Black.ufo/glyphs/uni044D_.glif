@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044D" format="2">
-  <advance width="1045"/>
+  <advance width="1044"/>
   <unicode hex="044D"/>
   <anchor x="512" y="1290" name="top"/>
-  <anchor x="1045" y="1290" name="top0315"/>
+  <anchor x="1044" y="1290" name="top0315"/>
   <outline>
     <contour>
       <point x="497" y="842" type="curve" smooth="yes"/>
@@ -42,15 +42,4 @@
       <point x="768" y="451" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.6</real>
-        <real>0.6</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

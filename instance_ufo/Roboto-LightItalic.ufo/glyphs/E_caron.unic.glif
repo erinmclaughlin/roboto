@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron.unic" format="2">
+  <advance width="1350"/>
+  <anchor x="875" y="1648" name="parent_top"/>
+  <anchor x="592" y="10" name="bottom"/>
+  <anchor x="926" y="1941" name="top"/>
+  <anchor x="1521" y="1648" name="top0315"/>
+  <anchor x="1513" y="1600" name="top_dd"/>
+  <anchor x="1166" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="E.unic"/>
+    <component base="caron" xOffset="346" yOffset="359"/>
+  </outline>
+</glyph>

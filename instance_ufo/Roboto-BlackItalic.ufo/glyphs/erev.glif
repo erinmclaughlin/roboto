@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="erev" format="2">
+  <advance width="1082"/>
+  <unicode hex="0258"/>
+  <anchor x="874" y="654" name="rhotichook"/>
+  <anchor x="636" y="1290" name="top"/>
+  <anchor x="377" y="0" name="bottom"/>
+  <anchor x="1201" y="1290" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="399" y="-20" type="curve" smooth="yes"/>
+      <point x="713" y="-27"/>
+      <point x="974" y="195"/>
+      <point x="1008" y="507" type="curve" smooth="yes"/>
+      <point x="1012" y="546" type="line" smooth="yes"/>
+      <point x="1039" y="836"/>
+      <point x="899" y="1096"/>
+      <point x="579" y="1103" type="curve" smooth="yes"/>
+      <point x="257" y="1110"/>
+      <point x="73" y="868"/>
+      <point x="32" y="572" type="curve" smooth="yes"/>
+      <point x="10" y="435" type="line"/>
+      <point x="870" y="435" type="line"/>
+      <point x="908" y="646" type="line"/>
+      <point x="357" y="645" type="line"/>
+      <point x="364" y="674" type="line" smooth="yes"/>
+      <point x="388" y="777"/>
+      <point x="459" y="848"/>
+      <point x="563" y="843" type="curve" smooth="yes"/>
+      <point x="686" y="837"/>
+      <point x="706" y="714"/>
+      <point x="684" y="545" type="curve" smooth="yes"/>
+      <point x="680" y="507" type="line" smooth="yes"/>
+      <point x="658" y="351"/>
+      <point x="544" y="235"/>
+      <point x="388" y="239" type="curve" smooth="yes"/>
+      <point x="296" y="241"/>
+      <point x="214" y="277"/>
+      <point x="159" y="354" type="curve"/>
+      <point x="-6" y="172" type="line"/>
+      <point x="93" y="46"/>
+      <point x="242" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -3,8 +3,8 @@
   <advance width="1065"/>
   <unicode hex="0296"/>
   <anchor x="514" y="1633" name="top"/>
-  <anchor x="1065" y="1633" name="top0315"/>
   <anchor x="514" y="0" name="bottom"/>
+  <anchor x="1065" y="1633" name="top0315"/>
   <outline>
     <contour>
       <point x="513" y="970" type="line"/>
@@ -27,15 +27,15 @@
       <point x="1012" y="530" type="curve" smooth="yes"/>
       <point x="1012" y="681" type="line" smooth="yes"/>
       <point x="1012" y="994"/>
-      <point x="843" y="1230"/>
+      <point x="842" y="1230"/>
       <point x="505" y="1230" type="curve" smooth="yes"/>
       <point x="384" y="1230" type="line"/>
       <point x="384" y="970" type="line"/>
     </contour>
     <contour>
       <point x="687" y="1536" type="line"/>
-      <point x="349" y="1536" type="line"/>
-      <point x="349" y="970" type="line"/>
+      <point x="348" y="1536" type="line"/>
+      <point x="348" y="970" type="line"/>
       <point x="687" y="970" type="line"/>
     </contour>
   </outline>
@@ -54,6 +54,18 @@
           <real>0.0</real>
           <key>y</key>
           <real>-20.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>0.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>0.0</real>
+          <key>y</key>
+          <real>1535.0</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.mark</key>

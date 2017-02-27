@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA678" format="2">
   <unicode hex="A678"/>
-  <anchor x="-623" y="1170" name="_marktop"/>
+  <anchor x="-622" y="1170" name="_marktop"/>
   <outline>
     <contour>
       <point x="-674" y="1753" type="line"/>

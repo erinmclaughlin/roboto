@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wsuper" format="2">
-  <advance width="1119"/>
+  <advance width="1118"/>
   <unicode hex="02B7"/>
   <outline>
     <contour>
@@ -19,11 +19,11 @@
       <point x="159" y="1452" type="line"/>
     </contour>
     <contour>
-      <point x="959" y="1452" type="line"/>
+      <point x="958" y="1452" type="line"/>
       <point x="824" y="924" type="line"/>
       <point x="772" y="651" type="line"/>
       <point x="855" y="651" type="line"/>
-      <point x="1079" y="1452" type="line"/>
+      <point x="1078" y="1452" type="line"/>
     </contour>
     <contour>
       <point x="522" y="1452" type="line"/>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA673" format="2">
+  <advance width="922"/>
+  <unicode hex="A673"/>
+  <outline>
+    <contour>
+      <point x="404" y="1082" type="line"/>
+      <point x="574" y="1314" type="line"/>
+      <point x="663" y="1082" type="line"/>
+      <point x="941" y="1082" type="line"/>
+      <point x="757" y="834" type="line"/>
+      <point x="845" y="628" type="line"/>
+      <point x="607" y="627" type="line"/>
+      <point x="438" y="395" type="line"/>
+      <point x="349" y="627" type="line"/>
+      <point x="70" y="628" type="line"/>
+      <point x="254" y="873" type="line"/>
+      <point x="165" y="1081" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="747" type="line"/>
+      <point x="416" y="746" type="line"/>
+      <point x="455" y="638" type="line"/>
+      <point x="535" y="745" type="line"/>
+      <point x="676" y="745" type="line"/>
+      <point x="631" y="873" type="line"/>
+      <point x="696" y="960" type="line"/>
+      <point x="596" y="961" type="line"/>
+      <point x="557" y="1071" type="line"/>
+      <point x="478" y="962" type="line"/>
+      <point x="337" y="962" type="line"/>
+      <point x="380" y="833" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>457.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -3,12 +3,12 @@
   <advance width="534"/>
   <unicode hex="2E3D"/>
   <outline>
-    <component base="dotbelow" xOffset="867" yOffset="-40"/>
-    <component base="dotbelow" xOffset="867" yOffset="710"/>
-    <component base="dotbelow" xOffset="867" yOffset="1836"/>
-    <component base="dotbelow" xOffset="867" yOffset="1460"/>
-    <component base="dotbelow" xOffset="867" yOffset="1084"/>
-    <component base="dotbelow" xOffset="867" yOffset="336"/>
+    <component base="dotbelow" xOffset="866" yOffset="-40"/>
+    <component base="dotbelow" xOffset="866" yOffset="710"/>
+    <component base="dotbelow" xOffset="866" yOffset="1836"/>
+    <component base="dotbelow" xOffset="866" yOffset="1460"/>
+    <component base="dotbelow" xOffset="866" yOffset="1084"/>
+    <component base="dotbelow" xOffset="866" yOffset="336"/>
   </outline>
   <lib>
     <dict>

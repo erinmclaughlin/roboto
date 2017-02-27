@@ -7,6 +7,6 @@
   <anchor x="1028" y="1248" name="top0315"/>
   <outline>
     <component base="uni0475"/>
-    <component base="uni030F" xOffset="981" yOffset="-47"/>
+    <component base="uni030F" xOffset="980" yOffset="-47"/>
   </outline>
 </glyph>

@@ -4,15 +4,15 @@
   <unicode hex="A749"/>
   <outline>
     <component base="l" xOffset="106"/>
-    <component base="crossbar" xOffset="-95" yOffset="525"/>
+    <component base="crossbar" xOffset="-95" yOffset="524"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.967</real>
-        <real>0.6</real>
+        <real>0.939</real>
         <real>1.0</real>
+        <real>0.6</real>
         <real>1.0</real>
       </array>
     </dict>

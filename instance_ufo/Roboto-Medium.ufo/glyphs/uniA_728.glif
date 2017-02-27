@@ -15,8 +15,8 @@
       <point x="1480" y="924" type="line"/>
       <point x="1479" y="1082" type="line"/>
       <point x="571" y="1082" type="line"/>
-      <point x="571" y="883" type="line"/>
-      <point x="1179" y="883" type="line"/>
+      <point x="571" y="882" type="line"/>
+      <point x="1179" y="882" type="line"/>
       <point x="832" y="460" type="line"/>
       <point x="832" y="288" type="line"/>
       <point x="974" y="288" type="line" smooth="yes"/>
@@ -31,7 +31,7 @@
       <point x="743" y="-87" type="curve"/>
       <point x="496" y="-87" type="line"/>
       <point x="496" y="-331"/>
-      <point x="735" y="-435"/>
+      <point x="734" y="-435"/>
     </contour>
     <component base="T"/>
   </outline>

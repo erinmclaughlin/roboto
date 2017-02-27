@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tackdownsubnosp" format="2">
+  <unicode hex="031E"/>
+  <anchor x="-722" y="-419" name="mkmkbottom_acc"/>
+  <anchor x="-650" y="0" name="_markbottom"/>
+  <outline>
+    <contour>
+      <point x="-702" y="-439" type="line"/>
+      <point x="-753" y="-439" type="line"/>
+      <point x="-690" y="-101" type="line"/>
+      <point x="-639" y="-101" type="line"/>
+    </contour>
+    <contour>
+      <point x="-874" y="-155" type="line"/>
+      <point x="-862" y="-101" type="line"/>
+      <point x="-468" y="-101" type="line"/>
+      <point x="-480" y="-155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

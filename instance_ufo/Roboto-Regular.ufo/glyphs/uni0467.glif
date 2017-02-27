@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="511" y="765" type="line"/>
-      <point x="599" y="1082" type="line"/>
+      <point x="598" y="1082" type="line"/>
       <point x="458" y="1082" type="line"/>
       <point x="15" y="0" type="line"/>
       <point x="205" y="0" type="line"/>
@@ -13,7 +13,7 @@
     <contour>
       <point x="872" y="0" type="line"/>
       <point x="1061" y="0" type="line"/>
-      <point x="617" y="1082" type="line"/>
+      <point x="616" y="1082" type="line"/>
       <point x="475" y="1082" type="line"/>
       <point x="559" y="765" type="line"/>
     </contour>

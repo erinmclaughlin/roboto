@@ -2,8 +2,8 @@
 <glyph name="ringnosp" format="2">
   <unicode hex="030A"/>
   <anchor x="-574" y="1121" name="_marktop"/>
-  <anchor x="-574" y="1571" name="mkmktop"/>
   <anchor x="-574" y="1296" name="parent_top"/>
+  <anchor x="-574" y="1571" name="mkmktop"/>
   <outline>
     <component base="ring" xOffset="-917"/>
   </outline>

@@ -3,7 +3,7 @@
   <unicode hex="1AB8"/>
   <anchor x="-513" y="0" name="_markbottom"/>
   <outline>
-    <component base="uni1AB7" xOffset="-223"/>
+    <component base="uni1AB7" xOffset="-222"/>
     <component base="uni1AB7" xOffset="100"/>
   </outline>
   <lib>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcurl" format="2">
+  <advance width="1824"/>
+  <unicode hex="02A5"/>
+  <anchor x="1291" y="1600" name="top"/>
+  <anchor x="993" y="-447" name="bottom"/>
+  <anchor x="1950" y="1600" name="top0315"/>
+  <outline>
+    <contour>
+      <point x="917" y="-96" type="line"/>
+      <point x="1030" y="-201" type="line"/>
+      <point x="1269" y="125" type="line" smooth="yes"/>
+      <point x="1324" y="214"/>
+      <point x="1420" y="423"/>
+      <point x="1529" y="415" type="curve" smooth="yes"/>
+      <point x="1563" y="412"/>
+      <point x="1581" y="381"/>
+      <point x="1579" y="331" type="curve" smooth="yes"/>
+      <point x="1569" y="204"/>
+      <point x="1434" y="152"/>
+      <point x="1342" y="151" type="curve" smooth="yes"/>
+      <point x="1272" y="152" type="line"/>
+      <point x="1246" y="0" type="line"/>
+      <point x="1338" y="0" type="line" smooth="yes"/>
+      <point x="1515" y="-2"/>
+      <point x="1731" y="112"/>
+      <point x="1741" y="336" type="curve" smooth="yes"/>
+      <point x="1747" y="477"/>
+      <point x="1664" y="562"/>
+      <point x="1548" y="565" type="curve" smooth="yes"/>
+      <point x="1337" y="572"/>
+      <point x="1199" y="291"/>
+      <point x="1083" y="126" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1333" y="152" type="line"/>
+      <point x="853" y="152" type="line"/>
+      <point x="828" y="0" type="line"/>
+      <point x="1308" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1581" y="942" type="line"/>
+      <point x="1604" y="1082" type="line"/>
+      <point x="1487" y="1082" type="line"/>
+      <point x="786" y="145" type="line"/>
+      <point x="762" y="0" type="line"/>
+      <point x="874" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1528" y="1082" type="line"/>
+      <point x="909" y="1082" type="line"/>
+      <point x="883" y="929" type="line"/>
+      <point x="1503" y="929" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

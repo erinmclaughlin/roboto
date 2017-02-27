@@ -4,8 +4,8 @@
   <unicode hex="2C60"/>
   <outline>
     <component base="L" xOffset="94"/>
-    <component base="crossbar" xOffset="-121" yOffset="180"/>
-    <component base="crossbar" xOffset="-121" yOffset="-120"/>
+    <component base="crossbar" xOffset="-120" yOffset="180"/>
+    <component base="crossbar" xOffset="-120" yOffset="-120"/>
   </outline>
   <lib>
     <dict>

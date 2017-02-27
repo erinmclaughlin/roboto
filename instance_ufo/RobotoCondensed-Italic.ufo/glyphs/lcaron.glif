@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="588"/>
+  <unicode hex="013E"/>
+  <anchor x="388" y="1697" name="parent_top"/>
+  <anchor x="143" y="10" name="bottom"/>
+  <anchor x="388" y="1697" name="top"/>
+  <anchor x="719" y="1697" name="top0315"/>
+  <anchor x="705" y="1600" name="top_dd"/>
+  <anchor x="413" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="l"/>
+    <component base="commaaccent" xOffset="481" yOffset="1299"/>
+  </outline>
+</glyph>

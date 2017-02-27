@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="608"/>
+  <unicode hex="0140"/>
+  <anchor x="369" y="1685" name="parent_top"/>
+  <anchor x="126" y="10" name="bottom"/>
+  <anchor x="369" y="1685" name="top"/>
+  <anchor x="738" y="1685" name="top0315"/>
+  <anchor x="725" y="1600" name="top_dd"/>
+  <anchor x="433" y="-407" name="bottom_dd"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotaccent" xOffset="147" yOffset="-594"/>
+  </outline>
+</glyph>

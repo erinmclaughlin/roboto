@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B2" format="2">
+  <advance width="1354"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="963" y="1559" type="line"/>
+      <point x="697" y="1559" type="line"/>
+      <point x="661" y="1418" type="line"/>
+      <point x="668" y="1337" type="line"/>
+      <point x="458" y="227" type="line"/>
+      <point x="470" y="173" type="line"/>
+      <point x="405" y="-125" type="line"/>
+      <point x="671" y="-125" type="line"/>
+      <point x="729" y="143" type="line"/>
+      <point x="725" y="192" type="line"/>
+      <point x="931" y="1315" type="line"/>
+      <point x="914" y="1351" type="line"/>
+    </contour>
+    <contour>
+      <point x="1295" y="778" type="line"/>
+      <point x="717" y="778" type="line"/>
+      <point x="674" y="537" type="line"/>
+      <point x="911" y="537" type="line"/>
+      <point x="866" y="310" type="line"/>
+      <point x="801" y="266"/>
+      <point x="728" y="245"/>
+      <point x="652" y="247" type="curve" smooth="yes"/>
+      <point x="416" y="252"/>
+      <point x="406" y="452"/>
+      <point x="442" y="686" type="curve" smooth="yes"/>
+      <point x="455" y="770" type="line" smooth="yes"/>
+      <point x="485" y="969"/>
+      <point x="586" y="1218"/>
+      <point x="818" y="1209" type="curve" smooth="yes"/>
+      <point x="973" y="1203"/>
+      <point x="999" y="1116"/>
+      <point x="1008" y="980" type="curve"/>
+      <point x="1334" y="979" type="line"/>
+      <point x="1312" y="1293"/>
+      <point x="1154" y="1472"/>
+      <point x="825" y="1477" type="curve" smooth="yes"/>
+      <point x="414" y="1484"/>
+      <point x="153" y="1154"/>
+      <point x="106" y="768" type="curve" smooth="yes"/>
+      <point x="96" y="687" type="line" smooth="yes"/>
+      <point x="48" y="301"/>
+      <point x="201" y="-14"/>
+      <point x="606" y="-19" type="curve" smooth="yes"/>
+      <point x="794" y="-22"/>
+      <point x="1075" y="21"/>
+      <point x="1204" y="180" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

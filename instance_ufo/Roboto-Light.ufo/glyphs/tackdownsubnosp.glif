@@ -5,15 +5,15 @@
   <anchor x="-575" y="0" name="_markbottom"/>
   <outline>
     <contour>
-      <point x="-525" y="-435" type="line"/>
-      <point x="-622" y="-435" type="line"/>
-      <point x="-622" y="-97" type="line"/>
-      <point x="-525" y="-97" type="line"/>
+      <point x="-525" y="-434" type="line"/>
+      <point x="-622" y="-434" type="line"/>
+      <point x="-622" y="-96" type="line"/>
+      <point x="-525" y="-96" type="line"/>
     </contour>
     <contour>
       <point x="-778" y="-189" type="line"/>
-      <point x="-778" y="-97" type="line"/>
-      <point x="-370" y="-97" type="line"/>
+      <point x="-778" y="-96" type="line"/>
+      <point x="-370" y="-96" type="line"/>
       <point x="-370" y="-189" type="line"/>
     </contour>
   </outline>

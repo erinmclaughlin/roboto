@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillictic" format="2">
+  <advance width="396"/>
+  <anchor x="73" y="0" name="_right"/>
+  <anchor x="125" y="0" name="_left"/>
+  <anchor x="111" y="70" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="142" y="95" type="line"/>
+      <point x="88" y="95" type="line"/>
+      <point x="12" y="-352" type="line"/>
+      <point x="66" y="-352" type="line"/>
+    </contour>
+  </outline>
+</glyph>

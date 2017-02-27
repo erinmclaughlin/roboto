@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a_uni02DE" format="2">
   <advance width="1540"/>
-  <anchor x="1540" y="1290" name="top0315"/>
-  <anchor x="535" y="1290" name="top"/>
   <anchor x="463" y="22" name="bottom"/>
+  <anchor x="535" y="1290" name="top"/>
+  <anchor x="1540" y="1290" name="top0315"/>
   <anchor x="463" y="22" name="markbottom"/>
   <anchor x="1088" y="1600" name="top_dd"/>
   <anchor x="986" y="0" name="ogonek"/>
@@ -17,9 +17,9 @@
     <dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.798</real>
-        <real>1.0</real>
         <real>0.6</real>
+        <real>0.609</real>
+        <real>1.0</real>
         <real>1.0</real>
       </array>
     </dict>

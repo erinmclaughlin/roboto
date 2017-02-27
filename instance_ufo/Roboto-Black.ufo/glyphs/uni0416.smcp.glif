@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0416.smcp" format="2">
   <advance width="1705"/>
-  <anchor x="857" y="1320" name="top"/>
+  <anchor x="856" y="1320" name="top"/>
   <anchor x="1705" y="1320" name="top0315"/>
   <outline>
     <contour>
@@ -11,7 +11,7 @@
       <point x="1022" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1657" y="1165" type="line"/>
+      <point x="1656" y="1165" type="line"/>
       <point x="1269" y="1165" type="line"/>
       <point x="1112" y="734" type="line"/>
       <point x="982" y="734" type="line"/>

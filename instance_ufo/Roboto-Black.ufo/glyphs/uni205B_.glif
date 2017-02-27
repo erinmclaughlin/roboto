@@ -3,7 +3,7 @@
   <advance width="1346"/>
   <unicode hex="205B"/>
   <outline>
-    <component base="dotbelow" xOffset="867" yOffset="898"/>
+    <component base="dotbelow" xOffset="866" yOffset="898"/>
     <component base="dotbelow" xOffset="1679" yOffset="898"/>
     <component base="dotbelow" xOffset="1273" yOffset="336"/>
     <component base="dotbelow" xOffset="1273" yOffset="1460"/>
@@ -20,7 +20,19 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <real>759.0</real>
+          <real>453.0</real>
+          <key>y</key>
+          <real>0.0</real>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>685.0</real>
           <key>y</key>
           <real>0.0</real>
         </dict>
